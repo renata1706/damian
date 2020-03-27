@@ -1,0 +1,2979 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://pz.gov.pl/pz/pages/userIndex#
+Subject: =?utf-8?Q?Profil=20zaufany=20u=C5=BCytkownika=20-=20Profil=20Zaufany?=
+Date: Fri, 29 Nov 2019 01:32:20 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----"
+
+
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/html
+Content-ID: <frame-ABD1214F3F9A26024637C33D172A1998@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/pages/userIndex#
+
+<!DOCTYPE html><html lang="pl" xmlns="http://www.w3.org/1999/xhtml"><head id="j_idt3"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>
+    Profil zaufany uÅ¼ytkownika
+   - Profil Zaufany </title>
+
+        <meta name="robots" content="noindex, nofollow"><!--[if lte IE 8]>
+            <style type="text/css">
+                .oddRow {
+                    background-color:#F7F7F9;
+                }
+            </style><![endif]--><link type="text/css" rel="stylesheet" href="https://pz.gov.pl/pz/javax.faces.resource/layout.css.xhtml?ln=css"><link type="text/css" rel="stylesheet" href="https://pz.gov.pl/pz/javax.faces.resource/rwd_main.css.xhtml?ln=css"><link type="text/css" rel="stylesheet" href="https://pz.gov.pl/pz/javax.faces.resource/pz-banner.css.xhtml?ln=css"><link type="text/css" rel="stylesheet" href="https://pz.gov.pl/pz/javax.faces.resource/rwd_konto.css.xhtml?ln=css"><link type="text/css" rel="stylesheet" href="https://pz.gov.pl/pz/javax.faces.resource/client-zone-color.css.xhtml?ln=css"><link type="text/css" rel="stylesheet" href="https://pz.gov.pl/pz/javax.faces.resource/client-zone-column-width.css.xhtml?ln=css"><link type="text/css" rel="stylesheet" href="https://pz.gov.pl/pz/javax.faces.resource/jquery-ui-1.10.3.custom.min.css.xhtml?ln=css"></head><body>
+        <ul id="skip-links" class="text-center">
+            <li><a class="sr-only sr-only-focusable" href="https://pz.gov.pl/pz/pages/userIndex#nav-main">PrzejdÅº do menu gÅ‚Ã³wnego</a></li>
+            <li><a class="sr-only sr-only-focusable" href="https://pz.gov.pl/pz/pages/userIndex#main">PrzejdÅº do treÅ›ci</a></li>
+            <li><a id="skipLinks_siteMap" name="skipLinks_siteMap" href="https://pz.gov.pl/pz/siteMap" class="sr-only sr-only-focusable">Mapa strony</a></li>
+        </ul>
+
+        <div>
+        </div>
+
+        <header id="header">
+            <div class="topBar">
+                <div class="sizeAndAlignmentWrapper">
+                    <div class="menuLeft">
+                    </div>
+                    <div class="menuRight">
+<form id="lang_form" name="lang_form" method="post" action="https://pz.gov.pl/pz/pages/userIndex" enctype="application/x-www-form-urlencoded">
+
+
+                            <ul>
+                                <li>
+
+<a id="lang_form:highContrast" href="https://pz.gov.pl/pz/pages/userIndex#">Wysoki kontrast</a>
+                                </li>
+                                
+                            </ul>
+</form>
+                    </div>
+                </div>
+            </div>
+
+            <div class="header">
+                <div class="sizeAndAlignmentWrapper">
+                    <h1 class="sr-only">Profil Zaufany</h1>
+                    <div class="systemLogo"><a href="https://pz.gov.pl/pz/"><img src="https://pz.gov.pl/pz/javax.faces.resource/logo_pz-client_zone.png.xhtml?ln=images" alt="PrzejdÅº do strony startowej - Profil Zaufany"></a>
+                    </div>
+
+                    <div class="links">
+                        <button class="mobile-nav-trigger" type="button"><img src="https://pz.gov.pl/pz/javax.faces.resource/menu_icon.png.xhtml?ln=images" alt="RozwiÅ„ menu">
+                        </button>
+                    </div>
+                        <div class="account">
+                            <a class="profileMenuTrigger" href="https://pz.gov.pl/pz/pages/userIndex#" role="button" aria-expanded="false">
+                                <table id="profileBox" class="profileBox">
+                                    <tbody><tr>
+                                        <td rowspan="2"><img src="https://pz.gov.pl/pz/javax.faces.resource/photo.png.xhtml?ln=images" alt="ZdjÄ™cie uÅ¼ytkownika"></td>
+                                        <td class="fullName"><div class="fullNameDiv" id="fullName">RENATA TERESA WILK</div></td>
+                                    </tr>
+                                    <tr>
+                                            <td class="accountType"><div class="accountTypeDiv">Konto prywatne</div></td>
+                                    </tr>
+                                </tbody></table>
+                            </a>
+<form id="profile_form" name="profile_form" method="post" action="https://pz.gov.pl/pz/pages/userIndex" enctype="application/x-www-form-urlencoded">
+
+
+                                <ul class="profileMenu" style="display: none;">
+                                    <li class="context account_manage"><a href="https://pz.gov.pl/pz/pages/userIndex#" class="account_manage">ZarzÄ…dzanie kontem</a>
+                                    </li>
+                                    <li class="context operations_list"><a id="profile_form:opBtn" name="profile_form:opBtn" href="https://pz.gov.pl/pz/pages/userOperationsList" class="operations_list">Historia zdarzeÅ„</a></li>
+                                    <li class="context brak_ikony_profileBox"><a id="profile_form:tpBtn" name="profile_form:tpBtn" href="https://pz.gov.pl/pz/pages/userIndex" class="brak_ikony_profileBox">Profil zaufany</a></li>
+                                    <li class="logOut"><a id="profile_form:logOutBtn" name="profile_form:logOutBtn" href="https://pz.gov.pl/pz/index?SLO=true">Wyloguj siÄ™</a></li>
+                                </ul>
+</form>
+                        </div>
+                </div>
+            </div>
+
+            <div class="navigation">
+                <div class="sizeAndAlignmentWrapper">
+                    <div>
+<form id="topMenu_form" name="topMenu_form" method="post" action="https://pz.gov.pl/pz/pages/userIndex" enctype="application/x-www-form-urlencoded">
+
+
+                            <nav id="nav-main" tabindex="-1">
+                                <ul class="topMenuBar">
+                                    <li class="nav-mobile" style="display:none;">
+                                        <div class="navleft"></div>
+                                        <a role="button" href="https://pz.gov.pl/pz/pages/userIndex#" class="close">
+                                            <span class="sr-only">zwiÅ„ menu</span>
+                                        </a>
+                                    </li>
+                                    <li class="context"><a id="topMenu_form:context_topMenuBar" name="topMenu_form:context_topMenuBar" href="https://pz.gov.pl/pz/pages/userIndex">Profil zaufany</a></li>
+                                    <li class="news"><a id="topMenu_form:news_topMenuBar" name="topMenu_form:news_topMenuBar" href="https://pz.gov.pl/pz/news">AktualnoÅ›ci</a></li>
+                                    <li class="help"><a id="topMenu_form:help_topMenuBar" name="topMenu_form:help_topMenuBar" href="https://pz.gov.pl/pz/help">Pomoc</a></li>
+                                    <li class="contact"><a id="topMenu_form:contact_topMenuBar" name="topMenu_form:contact_topMenuBar" href="https://pz.gov.pl/pz/contact">Kontakt</a></li>
+                                </ul>
+                            </nav>
+</form>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main id="main" tabindex="-1">
+        <div class="sizeAndAlignmentWrapper"><div id="globalMessages"></div>
+      <h2 class="contentHeader">Profil zaufany UÅ¼ytkownika</h2>
+
+            <div class="contentBody">
+                <ul class="menu">
+      <li><a id="myTrustedProfile_menuButton" name="myTrustedProfile_menuButton" href="https://pz.gov.pl/pz/pages/trustedProfileDetails" class="text">MÃ³j profil zaufany</a>
+      </li>
+      <li><a id="confirmationPointsAddresses_menuButton" name="confirmationPointsAddresses_menuButton" href="https://pz.gov.pl/pz/pages/confirmationPointAddressesList?ctx=U" class="text">ZnajdÅº punkt potwierdzajÄ…cy</a>
+      </li>
+                </ul>
+        <div class="page">
+        </div>
+            </div>
+        </div>
+        </main>
+
+        <footer id="footer" class="footer">
+            <div class="sizeAndAlignmentWrapper">
+                <div class="footerTopBar">
+                    <div class="logoEpuap"><a href="https://epuap.gov.pl/"><img src="https://pz.gov.pl/pz/javax.faces.resource/footer/ePUAP2_logo.png.xhtml?ln=images" alt="PrzejdÅº do ePUAP"></a>
+                    </div>
+
+                    <ul class="bottomMenuBar">
+                        <li class="law"><a id="law_footerTopBar" name="law_footerTopBar" href="https://pz.gov.pl/pz/law">Nota prawna</a></li>
+                        <li class="regulations"><a id="regulations_footerTopBar" name="regulations_footerTopBar" href="https://pz.gov.pl/pz/regulations">Regulamin</a></li>
+                        <li class="siteMap"><a id="siteMap_footerTopBar" name="siteMap_footerTopBar" href="https://pz.gov.pl/pz/siteMap">Mapa strony</a></li>
+                    </ul>
+                </div>
+
+                <div class="footerMiddleBar">
+                    <div class="ministryInfo">
+                        <p>Portal nadzorowany przez <a class="link-underline" href="https://mc.gov.pl/">Ministerstwo Cyfryzacji</a>. Â© Wszystkie prawa zastrzeÅ¼one.</p>
+                    </div>
+                    <div class="logosBar">
+                        <ul>
+                            <li class="innowacyjnaGospodarka">
+                                <div class="innowacyjnaGospodarkaBg"><img src="https://pz.gov.pl/pz/javax.faces.resource/footer/gospodarka_client.png.xhtml?ln=images" alt="Innowacyjna Gospodarka Narodowa Strategia SpÃ³jnoÅ›ci">
+                                </div>
+                            </li>
+                            <li class="ministerstwo"><a href="https://mc.gov.pl/"><img src="https://pz.gov.pl/pz/javax.faces.resource/footer/ministerstwo.png.xhtml?ln=images" alt="Strona Ministerstwa Cyfryzacji"></a>
+                            </li>
+                            <li class="uniaEuropejska">
+                                <div class="uniaEuropejskaBg"><img src="https://pz.gov.pl/pz/javax.faces.resource/footer/unia_client.png.xhtml?ln=images" alt="Unia Europejska Europejski Fundusz SpoÅ‚eczny">
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="footerBottomBar">
+                    <p>Projekt wspÃ³Å‚finansowany ze Å›rodkÃ³w Unii Europejskiej w ramach Europejskiego Funduszu Rozwoju Regionalnego w ramach 7 osi PO IG.</p>
+                </div>
+
+                <div class="footerCookieBar">
+                    <p>UWAGA! W trakcie korzystania z Profilu Zaufanego na komputerze uÅ¼ytkownika przechowywane sÄ… informacje (tzw. â€ciasteczkaâ€, ang. â€<span lang="en">cookies</span>â€), ktÃ³re pozwalajÄ… na dostosowanie Å›wiadczonych usÅ‚ug elektronicznych do indywidualnych potrzeb uÅ¼ytkownikÃ³w. Warunki przechowywania lub dostÄ™pu do plikÃ³w cookie mogÄ… byÄ‡ okreÅ›lone przez uÅ¼ytkownika w ustawieniach przeglÄ…darki internetowej. Kontynuacja korzystania z Profilu Zaufanego bez dokonania wyÅ¼ej wspomnianych zmian w ustawieniach przeglÄ…darki internetowej uznana zostaje za wyraÅ¼enie zgody przez uÅ¼ytkownika na wykorzystywanie plikÃ³w <span lang="en">cookie</span>. WiÄ™cej znajdziesz w&nbsp;<a href="https://pz.gov.pl/pz/law" class="link-underline">Polityce <span lang="en">Cookies</span>.</a>
+                    </p>
+                </div>
+            </div>
+        </footer>
+</body></html>
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/layout.css.xhtml?ln=css
+
+@charset "utf-8";
+
+@import url("/pz/javax.faces.resource/css/buttons.css.xhtml");
+
+@import url("/pz/javax.faces.resource/css/list-page.css.xhtml");
+
+@import url("/pz/javax.faces.resource/css/invalidate-page.css.xhtml");
+
+@import url("/pz/javax.faces.resource/css/steps-page.css.xhtml");
+
+@import url("/pz/javax.faces.resource/css/error-page.css.xhtml");
+
+@import url("/pz/javax.faces.resource/css/popup.css.xhtml");
+
+@import url("/pz/javax.faces.resource/css/registration-page.css.xhtml");
+
+@import url("/pz/javax.faces.resource/css/password-meter.css.xhtml");
+
+body { margin: 0px; padding: 0px; min-width: 1170px; color: rgb(37, 37, 37); background-color: rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
+
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: nowrap; border: 0px; }
+
+.sr-only-focusable:active, .sr-only-focusable:focus { position: static; width: auto; height: auto; overflow: visible; clip: auto; white-space: normal; }
+
+#skip-links { list-style: outside none none; margin: 0px; padding: 0px; position: absolute; top: 0px; z-index: 200; }
+
+#skip-links a { transition: background-color 0.3s ease 0s; }
+
+#skip-links a:focus, #skip-links a:hover, #skip-links a:active { background: rgb(0, 0, 0); padding: 7px 10px; margin: 2px 0px 0px 2px; text-align: center; border: 1px solid rgb(255, 255, 255); color: rgb(255, 255, 255); outline: none; min-width: 230px; display: inline-block; }
+
+h1, .h1, h2, .h2, h3, .h3 { font-weight: bold; }
+
+h1, .h1 { margin-top: 20px; margin-bottom: 20px; font-size: 26px; }
+
+h2, .h2 { margin-top: 20px; margin-bottom: 20px; font-size: 24px; }
+
+h3, .h3 { margin-top: 30px; margin-bottom: 30px; font-size: 18px; }
+
+a { text-decoration: none; outline: none; }
+
+a:focus, button:focus { outline: rgb(98, 98, 98) solid 2px; outline-offset: 2px; }
+
+a, img { border: none; }
+
+a.link { float: right; text-align: right; font-size: 14px; }
+
+a.link.headerLink { margin-bottom: 10px; margin-right: 10px; }
+
+a.link.footerLink { margin-right: 10px; }
+
+a.link.registrationLink { margin-right: 10px; }
+
+.list-inline { padding-left: 0px; list-style: none; }
+
+.list-inline-item { display: inline-block; }
+
+input[type="text"], input[type="password"], select { border: 2px solid rgb(174, 184, 206); border-radius: 3px; padding: 0px 9px; width: 230px; height: 45px; color: rgb(37, 37, 37); line-height: 45px; font-size: 15px; box-sizing: content-box; }
+
+input[type="text"].invalid, input[type="text"].invalid:focus, input[type="password"].invalid, input[type="password"].invalid:focus { border-color: rgb(232, 90, 72); }
+
+input:focus, select:focus { outline: rgb(98, 98, 98) solid 2px; outline-offset: 2px; }
+
+span.redStar { color: rgb(219, 0, 0); }
+
+textarea { resize: none; border: 2px solid rgb(174, 184, 206); border-radius: 3px; padding: 9px; color: rgb(37, 37, 37); font-size: 15px; font-family: Arial, Helvetica, sans-serif; }
+
+textarea:focus { outline: 0px; border-color: rgb(0, 113, 179); }
+
+textarea.invalid, textarea.invalid:focus { border-color: rgb(232, 90, 72); }
+
+.sizeAndAlignmentWrapper { clear: both; margin-left: auto; margin-right: auto; width: 1170px; }
+
+.topBar { height: 41px; background-color: rgb(38, 45, 64); }
+
+.topBar .menuRight { float: right; margin: 0px 10px 0px 0px; font-size: 0.875em; font-weight: bold; }
+
+.topBar .menuRight ul { list-style-type: none; margin: 0px; padding: 0px; }
+
+.topBar .menuRight ul li { display: inline; padding: 0px 15px; }
+
+.topBar .menuRight ul li a { color: rgb(255, 255, 255); }
+
+.topBar .menuRight ul li a:focus { outline-color: rgb(255, 255, 255); }
+
+.topBar .menuLeft { font-size: 0.875em; font-weight: bold; height: 10px; width: 50%; }
+
+.topBar .menuLeft ul { list-style-type: none; margin: 0px; padding: 0px; }
+
+.topBar .menuLeft ul li { display: inline; padding: 0px 20px; }
+
+.zoneMenuBar { position: relative; top: 0px; margin: 0px; padding: 0px; overflow: auto; list-style-type: none; }
+
+.zoneMenuBar li { float: left; margin: 0px; padding: 4px 0px 0px; }
+
+.zoneMenuBar li a { display: block; text-align: center; text-transform: uppercase; line-height: 41px; }
+
+.zoneMenuBar li a:hover { color: rgb(237, 238, 242); text-decoration: none; }
+
+.zoneMenuBar a:hover { background: rgb(237, 238, 242); }
+
+.header { height: 110px; }
+
+.header img { float: left; margin: 28px 0px 0px 21px; }
+
+.systemLogo { background-repeat: no-repeat; float: left; margin: 11px 0px 0px; width: 225px; height: 90px; cursor: pointer; }
+
+.systemLogo a { display: inline-block; }
+
+.systemLogo img { margin: 0px; max-width: 100%; }
+
+.header .links { padding-top: 38px; text-align: right; }
+
+.header .links .loginButton { font-weight: bold; background-position-y: 30px; background-image: url("/pz/javax.faces.resource/images/buttons/client/login_bg.png.xhtml"); }
+
+.header .links .registerButton { font-weight: bold; background-position-y: 30px; background-image: url("/pz/javax.faces.resource/images/buttons/client/register_bg.png.xhtml"); }
+
+.header .links .mobile-nav-trigger { display: none; }
+
+.header .links .mobile-nav-trigger img { margin: 0px; }
+
+.header .account { position: relative; float: right; margin: -24px 0px 0px; }
+
+.header .account .profileMenuTrigger { display: block; }
+
+.header .account .profileBox { cursor: pointer; border-collapse: collapse; width: 312px; height: 81px; background-color: rgb(255, 255, 255); background-repeat: no-repeat; background-attachment: scroll; background-position: 0% 0%; }
+
+.header .account .profileMenu .context { height: 49px; }
+
+.header .account .profileBox:hover, .header .account .profileBox:active { background-position: 0px -81px; }
+
+.header .account .profileBox.unfolded { background-position: 0px -243px; }
+
+.header .account .profileBox.noProfileMenu { cursor: auto; background-image: none; }
+
+.header .account .profileBox td { margin: 0px; padding: 0px; }
+
+.header .account .profileBox img { margin: 11px; border: 2px solid rgb(192, 192, 192); width: 55px; height: 55px; }
+
+.header .account .profileBox .fullName { padding: 9px 70px 0px 0px; width: 161px; max-width: 161px; vertical-align: top; color: rgb(37, 37, 37); font-size: 16px; overflow-wrap: break-word; }
+
+.header .account .profileBox .fullName .fullNameDiv { height: 40px; overflow: hidden; }
+
+.header .account .profileBox .accountType { padding: 0px 70px 9px 0px; width: 161px; max-width: 161px; vertical-align: bottom; color: rgb(110, 110, 110); font-size: 14px; overflow-wrap: break-word; }
+
+.header .account .profileBox .accountType .accountTypeDiv { height: 20px; overflow: hidden; }
+
+.header .account .profileMenu { position: absolute; z-index: 100; left: 0px; margin: 0px; border: 0px; padding: 0px; width: 312px; list-style-type: none; }
+
+.header .account .profileMenu li { margin: 0px; border: 0px; padding: 0px; }
+
+.header .account .profileMenu .logOut { border-bottom: 2px solid rgb(0, 56, 89); height: 62px; background: rgb(0, 56, 89); }
+
+.header .account .profileMenu .logOut a { height: 62px; line-height: 62px; background: url("/pz/javax.faces.resource/images/icon_log_out_client.png.xhtml") 0px 50% no-repeat scroll; }
+
+.header .account .profileMenu a { display: block; padding-left: 45px; color: rgb(255, 255, 255); font-size: 15px; font-weight: bold; }
+
+.header .account .profileMenu a:focus { text-decoration: underline; outline: none; }
+
+.header .account .profileMenu .context a { height: 51px; line-height: 51px; }
+
+nav#nav-main { outline: none; }
+
+.topMenuBar { position: relative; top: -4px; margin: 0px 0px 20px; padding: 0px; overflow: hidden; list-style-type: none; }
+
+.topMenuBar li { float: left; margin: 0px; padding: 4px 0px 0px; }
+
+.topMenuBar li a { display: block; padding: 0px 30px; height: 59px; text-align: center; text-transform: uppercase; font-size: 1.125em; line-height: 57px; background: rgb(255, 255, 255); }
+
+.topMenuBar li a:focus { outline: none; }
+
+.topMenuBar li a:hover, .topMenuBar li a:active, .topMenuBar li a:focus { color: rgb(255, 255, 255); text-decoration: none; }
+
+.topMenuBar .home, .topMenuBar .home a { padding: 0px; width: 70px; height: 63px; background: rgb(0, 113, 179); }
+
+.topMenuBar .context, .topMenuBar .context a:hover, .topMenuBar .context a:active, .topMenuBar .context a:focus { background: rgb(0, 123, 194); }
+
+.topMenuBar .news, .topMenuBar .news a:hover, .topMenuBar .news a:active, .topMenuBar .news a:focus { background: rgb(12, 111, 91); }
+
+.topMenuBar .help, .topMenuBar .help a:hover, .topMenuBar .help a:active, .topMenuBar .help a:focus { background: rgb(21, 50, 106); }
+
+.topMenuBar .contact, .topMenuBar .contact a:hover, .topMenuBar .contact a:active, .topMenuBar .contact a:focus { background: rgb(217, 50, 28); }
+
+.topMenuBar .current a { background: none; color: rgb(255, 255, 255); text-decoration: none; }
+
+.topRightAllignedMenuBar { float: right; position: relative; top: -4px; margin: 0px 0px 20px; padding: 0px; overflow: hidden; list-style-type: none; }
+
+.topRightAllignedMenuBar li { float: left; margin: 0px; }
+
+.topRightAllignedMenuBar li a { display: block; height: 59px; text-align: center; font-size: 1.125em; line-height: 57px; padding: 4px 5px 0px 0px; }
+
+.topRightAllignedMenuBar .infoText { padding-right: 5px; }
+
+.topRightAllignedMenuBar .logo { padding-top: 5px; }
+
+.topRightAllignedMenuBar li a:hover, .topRightAllignedMenuBar li a:active { text-decoration: none; }
+
+.topRightAllignedMenuBar .current a { background: none; text-decoration: none; }
+
+.footer { background-color: rgb(237, 238, 242); clear: both; border-top: 30px solid rgb(255, 255, 255); padding-top: 72px; }
+
+.footerBottomBar { border-top: 2px solid rgb(207, 211, 218); padding-top: 20px; padding-bottom: 20px; color: rgb(102, 102, 102); text-align: center; font-size: 0.8em; clear: both; }
+
+.footerBottomBar p { margin: 0px; }
+
+.footerCookieBar { border-top: 2px solid rgb(207, 211, 218); padding-top: 20px; padding-bottom: 20px; color: rgb(102, 102, 102); text-align: center; font-size: 0.6em; clear: both; }
+
+.footerCookieBar p { margin: 0px; }
+
+.footer .logoEpuap { float: left; width: 188px; height: 54px; cursor: pointer; }
+
+.footer .logoEpuap a { max-width: 100%; display: inline-block; margin-top: 8px; }
+
+.footer .footerTopBar { border-top: 2px solid rgb(207, 211, 218); height: 54px; }
+
+.bottomMenuBar { float: right; position: relative; top: -2px; margin: 0px; padding: 0px; overflow: hidden; list-style-type: none; }
+
+.bottomMenuBar li { float: left; margin: 0px; padding: 2px 0px 0px; }
+
+.bottomMenuBar li a { display: block; padding: 0px 14px; height: 54px; text-align: center; text-transform: uppercase; font-size: 0.875em; line-height: 51px; }
+
+.bottomMenuBar li a:focus { outline: none; }
+
+.bottomMenuBar li a:hover, .bottomMenuBar li a:active, .bottomMenuBar li a:focus { color: rgb(255, 255, 255); text-decoration: none; }
+
+.bottomMenuBar .law, .bottomMenuBar .law a:hover, .bottomMenuBar .law a:active, .bottomMenuBar .law a:focus { background: rgb(0, 123, 194); }
+
+.bottomMenuBar .regulations, .bottomMenuBar .regulations a:hover, .bottomMenuBar .regulations a:active, .bottomMenuBar .regulations a:focus { background: rgb(12, 111, 91); }
+
+.bottomMenuBar .siteMap, .bottomMenuBar .siteMap a:hover, .bottomMenuBar .siteMap a:focus { background: rgb(217, 50, 28); }
+
+.bottomMenuBar .current a { background: none; color: rgb(255, 255, 255); text-decoration: none; }
+
+.footer .footerMiddleBar { position: relative; border-top: 2px solid rgb(207, 211, 218); }
+
+.ministryInfo { margin: 20px 0px; color: rgb(102, 102, 102); text-align: center; font-size: 0.8em; width: 1170px; }
+
+.ministryInfo p { margin: 0px; }
+
+.logosBar { width: 100%; }
+
+.logosBar ul { list-style-type: none; margin: 0px; padding: 0px; }
+
+.logosBar ul li { float: left; }
+
+.logosBar img { height: 75px; }
+
+.logosBar ul .innowacyjnaGospodarka { text-align: left; width: 33%; }
+
+.logosBar ul .ministerstwo { text-align: center; width: 34%; }
+
+.logosBar ul .uniaEuropejska { text-align: right; width: 33%; }
+
+.logosBar .innowacyjnaGospodarkaBg { height: 78px; background-repeat: no-repeat; background-position: left center; }
+
+.logosBar .uniaEuropejskaBg { height: 78px; }
+
+ul#globalMessages { margin: 0px; border: 0px; padding: 0px; list-style-type: none; }
+
+ul#globalMessages li { margin: 20px 0px; border-width: 3px; border-style: solid; padding: 10px 10px 10px 57px; }
+
+ul#globalMessages li.infoMessage { border-color: rgb(31, 187, 155); background: url("/pz/javax.faces.resource/images/message_info_sign.png.xhtml") 0px 50% no-repeat scroll rgb(255, 255, 255); }
+
+ul#globalMessages li.warnMessage { border-color: rgb(252, 151, 40); background: url("/pz/javax.faces.resource/images/message_warn_sign.png.xhtml") 0px 50% no-repeat scroll rgb(255, 255, 255); }
+
+ul#globalMessages li.errorMessage { border-color: rgb(232, 90, 72); background: url("/pz/javax.faces.resource/images/message_error_sign.png.xhtml") 0px 50% no-repeat scroll rgb(255, 255, 255); }
+
+ul#messages { margin: 0px; border: 0px; padding: 0px; list-style-type: none; }
+
+ul#messages li { margin: 20px 0px; border-width: 3px; border-style: solid; padding: 10px 10px 10px 57px; }
+
+ul#messages li.warnMessage { border-color: rgb(252, 151, 40); background: url("/pz/javax.faces.resource/images/message_warn_sign.png.xhtml") 0px 50% no-repeat scroll rgb(255, 255, 255); }
+
+ul#messages li.warnMessage div.middleRow { margin-top: 5px; }
+
+ul.popup { margin: 0px; border: 0px; padding: 0px; list-style-type: none; }
+
+ul.popup li { margin: 0px 0px 20px; border-width: 3px; border-style: solid; padding: 10px 10px 10px 57px; }
+
+ul.popup li.infoMessage { border-color: rgb(31, 187, 155); background: url("/pz/javax.faces.resource/images/message_info_sign.png.xhtml") 0px 50% no-repeat scroll rgb(255, 255, 255); }
+
+ul.popup li.warnMessage { border-color: rgb(252, 151, 40); background: url("/pz/javax.faces.resource/images/message_warn_sign.png.xhtml") 0px 50% no-repeat scroll rgb(255, 255, 255); }
+
+ul.popup li.errorMessage { border-color: rgb(232, 90, 72); background: url("/pz/javax.faces.resource/images/message_error_sign.png.xhtml") 0px 50% no-repeat scroll rgb(255, 255, 255); }
+
+.toolBar { margin: 0px 0px 2px; border-top: 2px solid rgb(207, 213, 226); border-collapse: collapse; padding: 0px; width: 100%; height: 60px; text-align: center; vertical-align: middle; }
+
+.toolBar td { margin: 0px; border-right: 2px solid rgb(207, 213, 226); padding: 10px; width: 100px; }
+
+.toolBar td.last-child { border-right: 0px; }
+
+.toolBar td.spacer { width: auto; }
+
+.gdprBar { margin: 0px 0px 2px; border-collapse: collapse; padding: 0px; width: 100%; height: 60px; text-align: center; vertical-align: middle; }
+
+.gdprBar td { margin: 0px; padding: 10px; width: 100px; }
+
+.gdprBar td.last-child { border-right: 0px; }
+
+.gdprBar td.spacer { width: auto; }
+
+.contentHeader { margin: 0px; padding: 0px 0px 10px 10px; border-bottom: 2px solid rgb(207, 213, 226); color: rgb(37, 37, 37); font-size: 24px; font-weight: bold; }
+
+.contentBody { margin-top: 10px; }
+
+.contentBody .menu { float: left; margin: 0px; padding: 0px; width: 260px; list-style-type: none; }
+
+.contentBody .menu li { float: left; width: 260px; background-color: rgb(255, 255, 255); font-size: 1.063em; border: 1px solid rgb(192, 199, 211); }
+
+.contentBody .menu li + li { border-width: 0px 1px 1px; }
+
+.contentBody .menu li .text { display: block; padding: 19px 20px 19px 45px; line-height: 22px; color: rgb(0, 103, 163); text-align: left; cursor: pointer; }
+
+.contentBody .menu li a.text:hover, .contentBody .menu li a.text:active, .contentBody .menu li a.text:focus { color: rgb(255, 255, 255); background-color: rgb(21, 50, 106); outline: none; }
+
+.contentBody .menu li.current a.text { color: rgb(255, 255, 255); background-color: rgb(21, 50, 106); }
+
+main:focus { outline: none; }
+
+.contentBody .page { float: right; width: 900px; }
+
+.contentBody .page form { margin: 0px; border: 0px; padding: 0px; }
+
+.contentBody .page .pageHeader { margin: 0px 0px 10px; border-collapse: collapse; width: 900px; vertical-align: middle; background-color: rgb(237, 238, 242); color: rgb(37, 37, 37); }
+
+.contentBody .page .pageHeader td { margin: 0px; border: 0px; padding: 0px; }
+
+.contentBody .page .pageHeader div { width: 900px; overflow-wrap: break-word; }
+
+.contentBody .page .pageHeader h2, .contentBody .page .pageHeader .h2 { padding: 0px 30px; max-width: 840px; overflow-wrap: break-word; }
+
+.contentBody .page .pageHeader span { color: rgb(146, 146, 146); overflow-wrap: break-word; }
+
+.contentBody .page .pageHeader .buttonCell { margin: 0px; border: 0px; text-align: right; padding-right: 11px; width: 1px; }
+
+.contentBody .page .pageHeader .buttonCell.last-child { padding-right: 17px; }
+
+.bootstrap4-wrapper .table { width: 100%; max-width: 100%; margin-bottom: 1rem; background-color: transparent; }
+
+.bootstrap4-wrapper .table th, .bootstrap4-wrapper .table td { padding: 0.75rem; vertical-align: top; }
+
+.bootstrap4-wrapper .table thead th { vertical-align: bottom; border-bottom: 2px solid rgb(222, 226, 230); text-align: left; }
+
+.bootstrap4-wrapper .table thead th .sorted { padding-right: 20px; background: 100% 50% no-repeat scroll rgb(255, 255, 255); }
+
+.bootstrap4-wrapper .table thead th .asc { background-image: url("/pz/javax.faces.resource/images/buttons/client/blue_arrow_up_narrow.png.xhtml"); }
+
+.bootstrap4-wrapper .table thead th .desc { background-image: url("/pz/javax.faces.resource/images/buttons/client/blue_arrow_down_narrow.png.xhtml"); }
+
+.bootstrap4-wrapper .table tbody + tbody { border-top: 2px solid rgb(222, 226, 230); }
+
+.bootstrap4-wrapper .table .table { background-color: rgb(255, 255, 255); }
+
+.bootstrap4-wrapper .table-sm th, .bootstrap4-wrapper .table-sm td { padding: 0.3rem; }
+
+.bootstrap4-wrapper .table-bordered { border: 1px solid rgb(222, 226, 230); }
+
+.bootstrap4-wrapper .table-bordered th, .bootstrap4-wrapper .table-bordered td { border: 1px solid rgb(222, 226, 230); }
+
+.bootstrap4-wrapper .table-bordered thead th, .bootstrap4-wrapper .table-bordered thead td { border-bottom-width: 2px; }
+
+.bootstrap4-wrapper .table-borderless th, .bootstrap4-wrapper .table-borderless td, .bootstrap4-wrapper .table-borderless thead th, .bootstrap4-wrapper .table-borderless tbody + tbody { border: 0px; }
+
+.bootstrap4-wrapper .table-striped tbody tr:nth-of-type(2n+1) { background-color: rgba(0, 0, 0, 0.05); }
+
+.bootstrap4-wrapper .table-hover tbody tr:hover { background-color: rgba(0, 0, 0, 0.075); cursor: pointer; }
+
+.bootstrap4-wrapper .table-light, .bootstrap4-wrapper .table-light > th, .bootstrap4-wrapper .table-light > td { background-color: rgb(253, 253, 254); }
+
+.bootstrap4-wrapper .table-hover .table-light:hover { background-color: rgb(236, 236, 246); }
+
+.bootstrap4-wrapper .table-hover .table-light:hover > td, .bootstrap4-wrapper .table-hover .table-light:hover > th { background-color: rgb(236, 236, 246); }
+
+.bootstrap4-wrapper .table-active, .bootstrap4-wrapper .table-active > th, .bootstrap4-wrapper .table-active > td { background-color: rgba(0, 0, 0, 0.075); }
+
+.bootstrap4-wrapper .table-hover .table-active:hover { background-color: rgba(0, 0, 0, 0.075); }
+
+.bootstrap4-wrapper .table-hover .table-active:hover > td, .bootstrap4-wrapper .table-hover .table-active:hover > th { background-color: rgba(0, 0, 0, 0.075); }
+
+.bootstrap4-wrapper .table .thead-light th { color: rgb(73, 80, 87); background-color: rgb(233, 236, 239); border-color: rgb(222, 226, 230); }
+
+@media (max-width: 575.98px) {
+  .bootstrap4-wrapper .table-responsive-sm { display: block; width: 100%; overflow-x: auto; }
+  .bootstrap4-wrapper .table-responsive-sm > .table-bordered { border: 0px; }
+}
+
+@media (max-width: 767.98px) {
+  .bootstrap4-wrapper .table-responsive-md { display: block; width: 100%; overflow-x: auto; }
+  .bootstrap4-wrapper .table-responsive-md > .table-bordered { border: 0px; }
+}
+
+@media (max-width: 991.98px) {
+  .bootstrap4-wrapper .table-responsive-lg { display: block; width: 100%; overflow-x: auto; }
+  .bootstrap4-wrapper .table-responsive-lg > .table-bordered { border: 0px; }
+}
+
+@media (max-width: 1199.98px) {
+  .bootstrap4-wrapper .table-responsive-xl { display: block; width: 100%; overflow-x: auto; }
+  .bootstrap4-wrapper .table-responsive-xl > .table-bordered { border: 0px; }
+}
+
+.bootstrap4-wrapper .table-responsive { display: block; width: 100%; overflow-x: auto; }
+
+.bootstrap4-wrapper .table-responsive > .table-bordered { border: 0px; }
+
+.contentBody .page .fieldsTable { margin: 0px 18px 0px 0px; border: 0px; border-collapse: collapse; padding: 0px; width: 100%; }
+
+.contentBody .page .fieldsTable td { margin: 0px; border-width: 2px 0px 0px; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image: initial; border-top-style: solid; border-top-color: rgb(231, 231, 231); padding: 0px; }
+
+.contentBody .page .fieldsTable .categoryLabelColumn { padding: 18px 24px; width: 200px; max-width: 200px; vertical-align: top; overflow-wrap: break-word; }
+
+.contentBody .page .fieldsTable .categoryLabelColumn h3 { margin: 0px; font-size: 18px; font-weight: bold; color: rgb(37, 37, 37); }
+
+.contentBody .page .fieldsTable .spacerColumn { border-top: 0px; width: 18px; }
+
+.contentBody .page .fieldsTable .categoryDetailsColumn { padding: 20px 12px; width: 610px; max-width: 610px; vertical-align: top; color: rgb(37, 37, 37); font-size: 15px; font-weight: normal; overflow-wrap: break-word; }
+
+.contentBody .page .fieldsTable .categoryDetailsColumn p { margin-top: 0px; margin-bottom: 20px; }
+
+.contentBody .page .fieldsTable .categoryDetailsColumn .textareaBar { border-top: 2px solid rgb(207, 213, 226); border-collapse: collapse; width: 100%; background-color: rgb(247, 247, 249); }
+
+.contentBody .page .fieldsTable .categoryDetailsColumn .textareaBar td.textareaColumn { padding: 20px 0px 20px 20px; width: 390px; text-align: left; }
+
+.contentBody .page .fieldsTable .categoryDetailsColumn .textareaBar td.textareaColumn label { display: inline-block; padding-bottom: 5px; }
+
+.contentBody .page .fieldsTable .categoryDetailsColumn .textareaBar td.textareaColumn textarea { width: 368px; height: 60px; }
+
+.contentBody .page .fieldsTable .categoryDetailsColumn .textareaBar td.buttonColumn { padding: 23px 20px 0px; width: 160px; text-align: center; vertical-align: middle; }
+
+.contentBody .page .fieldsTable .innerTable { margin: 0px; border-width: 20px 0px; border-right-style: initial; border-left-style: initial; border-right-color: initial; border-left-color: initial; border-image: initial; border-collapse: collapse; border-top-style: solid; border-top-color: rgb(255, 255, 255); border-bottom-style: solid; border-bottom-color: rgb(255, 255, 255); padding: 0px; width: 100%; }
+
+.contentBody .page .fieldsTable .innerTable.innerSimpleTable { border-top-width: 8px; border-bottom-width: 15px; }
+
+.contentBody .page .fieldsTable .innerTable tr:nth-of-type(2n+1) { background-color: rgb(247, 247, 249); }
+
+.contentBody .page .fieldsTable .innerTable.innerSimpleTable tr:nth-of-type(2n+1) { background-color: rgb(255, 255, 255); }
+
+.contentBody .page .fieldsTable .innerTable tr { border-left: 12px solid rgb(255, 255, 255); border-right: 12px solid rgb(255, 255, 255); }
+
+.contentBody .page .fieldsTable .innerTable td { margin: 0px; border: 0px; padding: 5px 0px 5px 10px; height: 50px; vertical-align: middle; color: rgb(37, 37, 37); font-size: 1rem; font-weight: normal; overflow-wrap: break-word; }
+
+.contentBody .page .fieldsTable .innerTable.innerSimpleTable td { height: 35px; }
+
+.contentBody .page .fieldsTable .inner1ColumnTable .checkboxColumn { padding-left: 30px; width: 580px; max-width: 580px; text-align: left; }
+
+.contentBody .page .fieldsTable .inner1ColumnTable .checkboxColumn label { padding-left: 10px; }
+
+.contentBody .page .fieldsTable .inner2ColumnTable .labelColumn, .contentBody .page .fieldsTable .inner4ColumnTable .labelColumn { width: 170px; max-width: 200px; text-align: right; }
+
+@media (max-width: 640px) {
+  #applicationSubmissionForm .inner2ColumnTable { margin-top: 30px; }
+}
+
+.contentBody .page .fieldsTable .inner4ColumnTable .labelColumn.wider { width: 230px; max-width: 230px; }
+
+.contentBody .page .fieldsTable .inner2ColumnTable .valueColumn, .contentBody .page .fieldsTable .inner4ColumnTable .valueColumn { padding-left: 30px; }
+
+.contentBody .page .fieldsTable .inner2ColumnTable .valueColumn, .contentBody .page .fieldsTable .inner2ColumnTable .valueColumn .userValue { width: 370px; max-width: 370px; }
+
+.contentBody .page .fieldsTable .inner4ColumnTable .valueColumn, .contentBody .page .fieldsTable .inner4ColumnTable .valueColumn .userValue { width: 252px; max-width: 252px; }
+
+.contentBody .page .fieldsTable .inner4ColumnTable .descriptionColumn { padding: 10px; max-width: 148px; text-align: left; font-size: 13px; color: rgb(232, 90, 72); }
+
+.contentBody .page .fieldsTable .inner4ColumnTable .descriptionColumn.wider { width: 308px; min-width: 308px; max-width: 308px; }
+
+.contentBody .page .fieldsTable .inner4ColumnTable .hintColumn { padding-left: 15px; width: 15px; }
+
+.contentBody .page .fieldsTable .inner4ColumnTableWithRequiredField { border-top: 0px; border-bottom: 20px solid rgb(255, 255, 255); }
+
+.contentBody .page .fieldsTable .inner4ColumnTableWithRequiredField tr:nth-of-type(2n+1) { background-color: rgb(255, 255, 255); }
+
+.contentBody .page .fieldsTable .inner4ColumnTableWithRequiredField tr:nth-of-type(2n) { background-color: rgb(247, 247, 249); }
+
+.contentBody .page .fieldsTable .inner4ColumnTableWithRequiredField tr:first-child td { height: 20px; font-size: 13px; }
+
+.contentBody .page .fieldsTable .inner4ColumnTableWithRequiredField .requiredFieldLabel { text-align: right; }
+
+.contentBody .page .fieldsTable .list td:first-child { border-top: 0px; padding-left: 20px; }
+
+.contentBody .page .pageFooter { margin: 0px 0px 5px; border-top: 2px solid rgb(231, 231, 231); padding-top: 20px; text-align: right; }
+
+.contentBody .page .pageFooter a, .contentBody .page .pageFooter input { margin-right: 11px; }
+
+.contentBody .page .pageFooter a.last-child, .contentBody .page .pageFooter input.last-child { margin-right: 10px; }
+
+.contentBody .page .pageFooter .certificateLinkDiv { margin-top: 10px; margin-bottom: 5px; }
+
+.contentBody .page.registrationPage .certificateLinkTable { float: right; }
+
+.siteMapPageContents h1 { margin: 15px 0px 30px; font-weight: 600; font-size: 26px; }
+
+.siteMapPageContents ul { list-style-type: none; margin: 0px; }
+
+.siteMapPageContents ul li { margin: 7px 0px; }
+
+.certificateTable { margin-top: 15px; margin-bottom: 15px; }
+
+.certificateStep .stepLabelColumn { padding-top: 5px; padding-right: 20px; vertical-align: middle; }
+
+.certificateStep .stepActionColumn { padding-top: 5px; }
+
+.certificateStep .stepActionColumn .additionalInfo { padding-top: 5px; font-size: 13px; }
+
+.certificateStep .uploadFileInput { position: absolute; top: 0px; right: 0px; margin: 0px; padding: 0px; width: 100%; height: 100%; font-size: 20px; cursor: pointer; opacity: 0; }
+
+.certificateStep.withButton { height: 70px; }
+
+.xadesApplet { width: 1px; height: 1px; position: absolute; top: 0px; left: -2000px; }
+
+.profileXMLStructureLink { padding: 10px 0px 5px; font-size: 13px; text-align: left; }
+
+.profileXMLStructureDiv { padding: 10px; background-color: rgb(247, 247, 249); font-size: 13px; }
+
+.profileXMLStructureDiv p { margin: 2px 0px; }
+
+.evenRow { background-color: rgb(255, 255, 255) !important; }
+
+::-webkit-input-placeholder { color: rgb(115, 115, 115); }
+
+.link-underline { text-decoration: underline; }
+
+.gdpr-header { font-weight: 600; }
+
+.contentBody .page .pageRegisterHeader { margin: 0px 0px 10px; border-collapse: collapse; width: 100%; vertical-align: middle; background-color: rgb(255, 255, 255); color: rgb(37, 37, 37); }
+
+.contentBody .page .pageRegisterHeader td { border: 0px; padding: 0px; }
+
+.contentBody .page .pageRegisterHeader h2, .contentBody .page .pageRegisterHeader .h2 { padding: 0px 30px; max-width: 840px; overflow-wrap: break-word; }
+
+.cardMainLabel { border: none; padding-top: 20px; padding-bottom: 20px; }
+
+.cardMainLabel h2 { font-size: 28px; }
+
+.cardMainLabel h3 { font-size: 21px; margin-top: 0px; margin-bottom: 0px; }
+
+@media (max-width: 1180px) {
+  .cardMainLabel { display: inline-block; width: 100%; padding-top: 0px !important; }
+}
+
+.cardMainLabel span { text-align: left; }
+
+.cardMainWrap { display: inline; }
+
+.cardList { list-style: none; flex-wrap: wrap; margin: 0px; display: flex; justify-content: left; padding-left: 5px; padding-right: 24px; padding-bottom: 20px; }
+
+@media (max-width: 1180px) {
+  .cardList { padding-right: 0px; }
+}
+
+.card { display: flex; position: relative; cursor: pointer; width: 31%; border: 1px solid rgb(204, 204, 204); margin: 0px 3% 5px 0px; }
+
+.card.last-child { margin: 0px 0% 5px 0px; }
+
+.card:hover { box-shadow: rgb(204, 204, 204) 0px 0px 20px; }
+
+@media (max-width: 640px) {
+  .card { width: 100%; }
+}
+
+@media (max-width: 855px) {
+  .cardTitleWrap { height: 46px; padding-top: 16px !important; padding-bottom: 16px !important; }
+}
+
+@media (max-width: 640px) {
+  .cardTitleWrap { height: 20px !important; }
+}
+
+@media (max-width: 285px) {
+  .cardTitleWrap { height: 40px !important; }
+}
+
+.cardWrap { position: relative; width: 100%; }
+
+.cardTitleWrap { border-bottom: 1px solid rgb(204, 204, 204); padding-top: 28px; padding-bottom: 28px; }
+
+.cardTitle { display: flex; }
+
+.cardTitleWrap h3 { font-size: 20px; margin: 0px 20px; font-weight: bold; }
+
+.cardImg { display: block; margin-left: auto; margin-right: auto; margin-top: 10px; width: 50%; box-shadow: none; }
+
+.cardDesc { text-align: center; margin-top: 10px; margin-bottom: 20px; color: rgb(0, 0, 0); padding-right: 10%; padding-left: 10%; }
+
+.noBold { font-weight: normal; }
+
+.registerBackText { white-space: nowrap; }
+
+@media (max-width: 640px) {
+  .registerBackArrow { width: 33%; }
+}
+
+@media (max-width: 640px) {
+  .registerBackText { width: 67%; white-space: normal; }
+}
+
+.registerBackSpace { width: 3%; }
+
+.contentBody .page .fieldsTable .inner4ColumnTable .applicationLabelColumn { width: 175px; }
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/css/buttons.css.xhtml
+
+@charset "utf-8";
+
+.button { cursor: pointer; display: inline-block; margin: 0px; border: 0px; border-radius: 3px; padding: 0px; background-repeat: no-repeat; background-attachment: scroll; background-position: 100% 50%; color: rgb(255, 255, 255); text-align: center; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap; }
+
+.button:hover, .button:active { color: rgb(255, 255, 255); }
+
+.button.lessImportant:hover, .button.lessImportant:active { background-color: rgb(181, 190, 210); }
+
+.button.warningButton { background-color: rgb(252, 151, 40); }
+
+.button.warningButton:hover, .button.warningButton:active { background-color: rgb(233, 123, 3); }
+
+.button.tinyPlainButton { padding: 10px 15px; }
+
+.button.tinyPlainButton.leastImportant { border: 2px solid; background-color: rgb(255, 255, 255); }
+
+.button.smallPlainButton { padding-left: 25px; padding-right: 25px; height: 45px; line-height: 45px; }
+
+.button.smallPlainButton.leastImportant { height: 41px; line-height: 41px; background-color: rgb(255, 255, 255); border: 2px solid; }
+
+.button.mediumPlainButton { padding-left: 40px; padding-right: 40px; height: 60px; line-height: 60px; }
+
+.button.mediumPlainButton.leastImportant { height: 56px; line-height: 56px; background-color: rgb(255, 255, 255); border: 2px solid; }
+
+.button.smallPlusButton { padding-left: 44px; padding-right: 15px; height: 45px; line-height: 45px; background-position: 0px 0px; }
+
+.button.smallPlusButton:hover, .button.smallPlusButton:active { background-position: 0px -45px; }
+
+.button.smallUpArrowButton { padding-left: 15px; padding-right: 59px; height: 45px; line-height: 45px; background-position: 100% 0px; }
+
+.button.smallUpArrowButton:hover, .button.smallUpArrowButton:active { background-position: 100% -45px; }
+
+.button.smallDownArrowButton { padding-left: 15px; padding-right: 59px; height: 45px; line-height: 45px; background-position: 100% 0px; }
+
+.button.smallDownArrowButton:hover, .button.smallDownArrowButton:active { background-position: 100% -45px; }
+
+.button.smallLeftArrowButton { padding-left: 59px; padding-right: 15px; height: 45px; line-height: 45px; background-position: 0px 0px; }
+
+.button.smallLeftArrowButton:hover, .button.smallLeftArrowButton:active { background-position: 0px -45px; }
+
+.button.smallRightArrowButton { padding-left: 15px; padding-right: 59px; height: 45px; line-height: 45px; background-position: 100% 0px; }
+
+.button.mediumRightArrowButton { padding-left: 20px; padding-right: 79px; height: 60px; line-height: 60px; background-position: 100% 0px; }
+
+.button.smallRightArrowButton:hover, .button.smallRightArrowButton:active { background-position: 100% -45px; }
+
+.button.mediumRightArrowButton:hover, .button.mediumRightArrowButton:active { background-position: 100% -60px; }
+
+.button.showMoreButton { border-top-left-radius: 0px; border-top-right-radius: 0px; padding-left: 15px; padding-right: 59px; height: 40px; line-height: 40px; color: rgb(255, 255, 255); background-position: 100% 0px; }
+
+.button.showMoreButton:hover, .button.showMoreButton:active { background-position: 100% -40px; background-color: rgb(207, 213, 226); }
+
+.button.showMoreButton span { color: rgb(146, 146, 146); }
+
+.detailsButton a { cursor: pointer; display: inline-block; padding: 0px 10px 0px 35px; background-color: rgb(255, 255, 255); background-repeat: no-repeat; background-attachment: scroll; background-position: 0% 0%; line-height: 35px; text-align: center; font-size: 15px; font-weight: bold; white-space: nowrap; }
+
+.detailsButton a:hover, .detailsButton a:active { background-position: 0px -35px; }
+
+.registerButton { padding-left: 30px; padding-right: 29px; height: 30px; line-height: 30px; background-repeat: repeat-y; display: inline-block; }
+
+.loginButton { padding-left: 30px; padding-right: 29px; height: 30px; line-height: 30px; background-repeat: repeat-y; display: inline-block; }
+
+.hint { position: relative; height: 15px; padding: 0px 5px; float: left; clear: both; background: url("/pz/javax.faces.resource/images/buttons/hint_icon.png.xhtml") center center no-repeat; font-size: 13px; font-weight: normal; }
+
+.hint:focus { outline: rgb(98, 98, 98) solid 2px; outline-offset: 2px; }
+
+.hint .frame { display: none; background: rgb(255, 255, 255); color: gray; left: 25px; margin-top: -20px; padding: 5px; position: absolute; box-shadow: rgba(0, 0, 0, 0.28) 2px 2px 6px; cursor: default; }
+
+.hint:hover .frame, .hint:focus .frame { display: block; }
+
+.hint .frame.minWidth { width: 120px; }
+
+.hint .frame.mediumWidth { width: 210px; }
+
+.hint .frame.maxWidth { width: 300px; }
+
+.hint .frame ul { margin: 0px; }
+
+.hint .frame ul li { margin-left: -20px; }
+
+.hint .frame p { margin: 0px; }
+
+.hint .frame p + p { margin-top: 8px; }
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/css/list-page.css.xhtml
+
+@charset "utf-8";
+
+.contentBody .listPage .pageTopBar { border-bottom: 8px solid rgb(255, 255, 255); height: 52px; }
+
+.contentBody .listPage .pageTopBar h2, .contentBody .listPage .pageTopBar .h2 { float: left; margin: 0px; padding: 10px 0px 10px 10px; border-bottom: 2px solid rgb(207, 213, 226); color: rgb(37, 37, 37); }
+
+.contentBody .listPage .pageTopBar h2 span, .contentBody .listPage .pageTopBar .h2 span { color: rgb(146, 146, 146); }
+
+.contentBody .listPage .pageTopBar .button { float: right; }
+
+.contentBody .listPage .noResults { text-align: center; font-size: 16px; }
+
+.contentBody .list { border-collapse: collapse; }
+
+.contentBody .lastTable { width: 100%; }
+
+.contentBody .objectsList.even { border: 2px solid rgb(247, 247, 249); }
+
+.contentBody .objectsList.even tr { background-color: rgb(247, 247, 249); }
+
+.contentBody .objectsList.odd { border: 2px solid rgb(255, 255, 255); }
+
+.contentBody .objectsList.odd tr { background-color: rgb(255, 255, 255); }
+
+.contentBody .list tr:nth-of-type(2n) { background-color: rgb(247, 247, 249); }
+
+.contentBody .list th, .contentBody .list td { margin: 0px; font-weight: normal; vertical-align: middle; }
+
+.contentBody .list th { padding: 8px 0px; font-size: 12px; text-align: left; }
+
+.contentBody .list th a { display: inline-block; margin: 0px; padding: 0px; color: rgb(37, 37, 37); text-align: left; background: none; }
+
+.contentBody .list td { border: 0px; padding: 6px 20px 6px 0px; height: 44px; color: rgb(37, 37, 37); font-size: 15px; overflow-wrap: break-word; }
+
+.contentBody .list td:first-child { padding-left: 20px; }
+
+.contentBody .list .textColumn { text-align: left; }
+
+.contentBody .list .dateTimeColumn { width: 105px; text-align: left; }
+
+.contentBody .list .dateTimeColumn span { display: block; }
+
+.contentBody .list .dateTimeColumn .time { font-size: 12px; }
+
+.contentBody .list .buttonColumn { padding-left: 0px; padding-right: 0px; width: 130px; text-align: center; }
+
+.contentBody .list .showMore td, .contentBody .list .tooManyResults td { border-top: 5px solid rgb(207, 213, 226); padding: 0px; height: 0px; background: rgb(255, 255, 255); text-align: center; }
+
+.contentBody .list .showMore .showMoreButton { margin-left: auto; margin-right: auto; }
+
+.contentBody .list .tooManyResults span { display: block; border-radius: 3px; padding: 10px 0px; background: rgb(237, 238, 242); }
+
+.contentBody .page .fieldsTable .list { margin-left: auto; margin-right: auto; width: 610px; }
+
+.contentBody .page .fieldsTable .list th, .contentBody .page .fieldsTable .list td { margin: 0px; font-weight: normal; vertical-align: middle; }
+
+.contentBody .page .fieldsTable .list th { padding: 0px 0px 8px; color: rgb(37, 37, 37); text-align: left; font-size: 12px; }
+
+.contentBody .page .fieldsTable .list th.first-child { padding-left: 20px; }
+
+.contentBody .page .fieldsTable .list td { border-top: 0px; padding: 8px 20px 8px 0px; height: 44px; color: rgb(37, 37, 37); font-size: 15px; overflow-wrap: break-word; }
+
+.contentBody .page .fieldsTable .list .issuer div { width: 165px; }
+
+.contentBody .page .fieldsTable .list .subject div { width: 165px; }
+
+.contentBody .page .fieldsTable .list .serialNumber div { width: 100px; }
+
+.contentBody .page .fieldsTable .listWithButtonColumn .issuer div { width: 126px; }
+
+.contentBody .page .fieldsTable .listWithButtonColumn .subject div { width: 126px; }
+
+.contentBody .page .fieldsTable .listWithButtonColumn .serialNumber div { width: 100px; }
+
+.contentBody .page .fieldsTable .listWithButtonColumn .buttonColumn { padding-left: 0px; padding-right: 0px; width: 110px; }
+
+.contentBody .listPage .filterMenu { clear: both; border-top: 5px solid rgb(207, 213, 226); border-bottom: 5px solid rgb(207, 213, 226); margin-bottom: 15px; background-color: rgb(237, 238, 242); }
+
+.contentBody .listPage .filterMenu .fields { margin: 15px auto; border-collapse: collapse; }
+
+.contentBody .listPage .filterMenu .fields td { margin: 0px; padding: 8px; font-weight: normal; vertical-align: middle; }
+
+.contentBody .listPage .filterMenu .fields .textColumn { padding-right: 20px; width: 300px; max-width: 300px; color: rgb(70, 76, 84); text-align: right; font-size: 15px; overflow-wrap: break-word; }
+
+.contentBody .listPage .filterMenu .fields .inputColumn { width: 272px; text-align: left; }
+
+.contentBody .listPage .filterMenu .fields .inputColumn input, .contentBody .listPage .filterMenu .fields .inputColumn select { width: 250px; }
+
+.contentBody .listPage .filterMenu .fields .inputColumn .dateField { padding-right: 47px; width: 212px; cursor: pointer; }
+
+.contentBody .listPage .filterMenu .fields .inputColumn .chosen-container-single .chosen-single { width: 259px; }
+
+.contentBody .listPage .filterMenu .fields .inputColumn .chosen-container-single .chosen-drop { width: 272px; }
+
+.contentBody .listPage .filterMenu .fields .descriptionColumn { width: 170px; max-width: 170px; color: rgb(232, 90, 72); text-align: left; font-size: 14px; overflow-wrap: break-word; }
+
+.contentBody .listPage .filterMenu .fieldsWithRequiredField .redStar { color: red; }
+
+.contentBody .listPage .filterMenu .fieldsWithRequiredField tr.first-child td, .contentBody .listPage .filterMenu .fieldsWithWildCards tr.first-child td { padding-top: 0px; padding-bottom: 0px; height: 20px; font-size: 13px; }
+
+.contentBody .listPage .filterMenu .fieldsWithRequiredField .requiredFieldLabel, .contentBody .listPage .filterMenu .fieldsWithWildCards .wildCardLabel { text-align: right; }
+
+.contentBody .list th a.sortedAscending { margin-right: 0px; padding-right: 25px; background-color: rgb(255, 255, 255); background-repeat: no-repeat; background-attachment: scroll; background-position: 100% 50%; }
+
+.contentBody .list th a.sortedDescending { margin-right: 0px; padding-right: 25px; background-color: rgb(255, 255, 255); background-repeat: no-repeat; background-attachment: scroll; background-position: 100% 50%; }
+
+.contentBody .listPage .filterMenu .buttonsBar { text-align: right; }
+
+.contentBody .listPage .filterMenu .buttonsBar .button { margin: 0px 10px 10px 0px; }
+
+.listBgWhite { background-color: rgb(255, 255, 255); }
+
+.listBgGray { background-color: rgb(247, 247, 249); }
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/css/invalidate-page.css.xhtml
+
+@charset "utf-8";
+
+.contentBody .page.invalidatePage { float: none; width: 1170px; }
+
+.contentBody .page.invalidatePage .pageHeader { width: 1170px; }
+
+.contentBody .page.invalidatePage .pageHeader .button.lessImportant { color: rgb(0, 103, 163); }
+
+.contentBody .page.invalidatePage .fieldsTable .inner4ColumnTable .labelColumn { width: 300px; }
+
+.contentBody .page.invalidatePage .fieldsTable .inner4ColumnTable .descriptionColumn { width: 278px; min-width: 278px; max-width: 278px; }
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/css/steps-page.css.xhtml
+
+@charset "utf-8";
+
+.contentBody .page.stepsPage .pageHeader { margin: 0px; border-collapse: collapse; width: 900px; vertical-align: middle; background-color: rgb(255, 255, 255); color: rgb(37, 37, 37); }
+
+.contentBody .page.stepsPage .pageHeader h2 { padding: 0px 15px; }
+
+.contentBody .page.stepsPage .steps { margin: 0px 0px 20px; border: 0px; padding: 0px; width: 900px; background-color: rgb(255, 255, 255); text-align: center; }
+
+.contentBody .page.stepsPage .stepButton { cursor: pointer; display: inline-block; margin: 0px; border: 0px; padding: 0px; height: 45px; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap; }
+
+.contentBody .page.stepsPage .stepButton { color: rgb(96, 118, 159); }
+
+.contentBody .page.stepsPage .stepButton.current, .contentBody .page.stepsPage .stepButton:hover, .contentBody .page.stepsPage .stepButton:active { color: rgb(64, 78, 104); }
+
+.contentBody .page.stepsPage .stepButton.disabled, .contentBody .page.stepsPage .stepButton.disabled:hover, .contentBody .page.stepsPage .stepButton.disabled:active { color: rgb(255, 255, 255); }
+
+.contentBody .page.stepsPage .stepButton span { display: inline-block; height: 45px; line-height: 45px; text-align: center; vertical-align: middle; }
+
+.contentBody .page.stepsPage .stepButton .leftPart { width: 20px; background-position: 0px 0px; }
+
+.contentBody .page.stepsPage .stepButton .rightPart { width: 20px; background-position: 100% 0px; }
+
+.contentBody .page.stepsPage .stepButton .leftPart { background-image: url("/pz/javax.faces.resource/images/buttons/step_button_middle_no_focus.png.xhtml"); }
+
+.contentBody .page.stepsPage .stepButton.first .leftPart { background-image: url("/pz/javax.faces.resource/images/buttons/step_button_first_no_focus.png.xhtml"); }
+
+.contentBody .page.stepsPage .stepButton .middlePart { background-color: rgb(231, 235, 245); }
+
+.contentBody .page.stepsPage .stepButton .rightPart { background-image: url("/pz/javax.faces.resource/images/buttons/step_button_middle_no_focus.png.xhtml"); }
+
+.contentBody .page.stepsPage .stepButton.last .rightPart { background-image: url("/pz/javax.faces.resource/images/buttons/step_button_last_no_focus.png.xhtml"); }
+
+.contentBody .page.stepsPage .stepButton.current .leftPart, .contentBody .page.stepsPage .stepButton:hover .leftPart, .contentBody .page.stepsPage .stepButton:active .leftPart { background-image: url("/pz/javax.faces.resource/images/buttons/step_button_middle_focus.png.xhtml"); }
+
+.contentBody .page.stepsPage .stepButton.first.current .leftPart, .contentBody .page.stepsPage .stepButton.first:hover .leftPart, .contentBody .page.stepsPage .stepButton.first:active .leftPart { background-image: url("/pz/javax.faces.resource/images/buttons/step_button_first_focus.png.xhtml"); }
+
+.contentBody .page.stepsPage .stepButton.current .middlePart, .contentBody .page.stepsPage .stepButton:hover .middlePart, .contentBody .page.stepsPage .stepButton:active .middlePart { background-color: rgb(203, 208, 218); }
+
+.contentBody .page.stepsPage .stepButton.current .rightPart, .contentBody .page.stepsPage .stepButton:hover .rightPart, .contentBody .page.stepsPage .stepButton:active .rightPart { background-image: url("/pz/javax.faces.resource/images/buttons/step_button_middle_focus.png.xhtml"); }
+
+.contentBody .page.stepsPage .stepButton.last.current .rightPart, .contentBody .page.stepsPage .stepButton.last:hover .rightPart, .contentBody .page.stepsPage .stepButton.last:active .rightPart { background-image: url("/pz/javax.faces.resource/images/buttons/step_button_last_focus.png.xhtml"); }
+
+.contentBody .page.stepsPage .stepButton.disabled { cursor: auto; }
+
+.contentBody .page.stepsPage .stepButton.disabled .leftPart, .contentBody .page.stepsPage .stepButton.disabled:hover .leftPart, .contentBody .page.stepsPage .stepButton.disabled:active .leftPart { background-image: url("/pz/javax.faces.resource/images/buttons/step_button_middle_no_focus.png.xhtml"); }
+
+.contentBody .page.stepsPage .stepButton.first.disabled .leftPart, .contentBody .page.stepsPage .stepButton.first.disabled:hover .leftPart, .contentBody .page.stepsPage .stepButton.first.disabled:active .leftPart { background-image: url("/pz/javax.faces.resource/images/buttons/step_button_first_no_focus.png.xhtml"); }
+
+.contentBody .page.stepsPage .stepButton.disabled .middlePart, .contentBody .page.stepsPage .stepButton.disabled:hover .middlePart, .contentBody .page.stepsPage .stepButton.disabled:active .middlePart { background-color: rgb(231, 235, 245); }
+
+.contentBody .page.stepsPage .stepButton.disabled .rightPart, .contentBody .page.stepsPage .stepButton.disabled:hover .rightPart, .contentBody .page.stepsPage .stepButton.disabled:active .rightPart { background-image: url("/pz/javax.faces.resource/images/buttons/step_button_middle_no_focus.png.xhtml"); }
+
+.contentBody .page.stepsPage .stepButton.last.disabled .rightPart, .contentBody .page.stepsPage .stepButton.last.disabled:hover .rightPart, .contentBody .page.stepsPage .stepButton.last.disabled:active .rightPart { background-image: url("/pz/javax.faces.resource/images/buttons/step_button_last_no_focus.png.xhtml"); }
+
+.contentBody .page.stepsPage .stepHeader { margin: 0px 0px 10px; border-collapse: collapse; width: 900px; vertical-align: middle; background-color: rgb(237, 238, 242); color: rgb(37, 37, 37); }
+
+.contentBody .page.stepsPage .stepHeader td { margin: 0px; border: 0px; padding: 0px; }
+
+.contentBody .page.stepsPage .stepHeader div { width: 900px; overflow-wrap: break-word; }
+
+.contentBody .page.stepsPage .stepHeader h3 { padding: 0px 15px; max-width: 840px; }
+
+.contentBody .page.stepsPage .stepHeader span { color: rgb(146, 146, 146); overflow-wrap: break-word; }
+
+.contentBody .page.stepsPage .stepHeader .buttonCell { margin: 0px; border: 0px; text-align: right; padding-right: 11px; width: 1px; }
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/css/error-page.css.xhtml
+
+@charset "utf-8";
+
+.contentBody .page.errorPage { float: none; width: 1170px; }
+
+.contentBody .page.errorPage .errorPageHeader { margin: 30px 0px 0px; padding: 0px; border: 0px; font-size: 24px; font-weight: bold; }
+
+.contentBody .page.errorPage .errorDetails { margin: 10px 0px 30px; padding: 0px; border: 0px; font-size: 20px; font-weight: bold; }
+
+.contentBody .page.errorPage .errorDetailsAndCode .errorDetails { margin: 10px 0px; }
+
+.contentBody .page.errorPage .errorDetailsAndCode .errorCode { margin-bottom: 30px; }
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/css/popup.css.xhtml
+
+@charset "utf-8";
+
+.section-overlay-background { position: fixed; z-index: 100; width: 100%; height: 100%; opacity: 0.9; background-color: rgb(255, 255, 255); }
+
+.section-overlay { position: absolute; top: 10%; left: 50%; z-index: 150; border: 3px solid rgb(235, 237, 241); width: 836px; background-color: rgb(255, 255, 255); margin-left: -378px; }
+
+.section-overlay .title { position: relative; height: 67px; background-color: rgb(235, 237, 241); }
+
+.section-overlay .title .header { display: inline-block; margin-left: 20px; height: 67px; line-height: 65px; color: rgb(37, 37, 37); font-size: 22px; font-weight: bold; }
+
+.section-overlay .title .buttonClosePopup { position: absolute; top: 12px; right: 11px; width: 45px; height: 45px; cursor: pointer; text-indent: -10000em; background-repeat: no-repeat; background-attachment: scroll; background-position: 0px 0px; background-image: url("/pz/javax.faces.resource/images/buttons/client/close.png.xhtml"); }
+
+.section-overlay .title .buttonClosePopup:hover, .section-overlay .title .buttonClosePopup:active { background-position: 0px -45px; }
+
+.section-overlay .content { float: left; padding: 20px 27px; width: 782px; font-size: 15px; }
+
+.section-overlay .content .emphasize { font-weight: bold; }
+
+.section-overlay .content p.first-child { margin-top: 0px; }
+
+.section-overlay .content p.last-child { margin-bottom: 3px; }
+
+.section-overlay .content p.info { padding: 4px 0px 4px 30px; background: url("/pz/javax.faces.resource/images/message_info_sign_small.png.xhtml") -5px 0px no-repeat; }
+
+.section-overlay .content table { border-collapse: collapse; }
+
+.section-overlay .content table .descriptionColumn { padding: 10px; color: rgb(232, 90, 72); }
+
+.section-overlay .content table .headerRow { font-weight: bold; padding-bottom: 10px; }
+
+.section-overlay .content table .labelColumn { padding: 5px 0px 5px 10px; width: 220px; }
+
+.section-overlay .content table .valueColumn { padding: 5px; }
+
+.section-overlay .buttons { margin: 0px 27px 27px; width: 746px; }
+
+.section-overlay .buttons .button { margin-right: 20px; }
+
+.section-overlay .content .fieldsTable { margin: 0px; border: 0px; border-collapse: collapse; padding: 0px; width: 100%; }
+
+.section-overlay .content .fieldsTable tr:nth-of-type(2n+1) { background-color: rgb(247, 247, 249); }
+
+.section-overlay .content .fieldsTable td { margin: 0px; border: 0px; padding: 5px 0px; height: 50px; vertical-align: middle; color: rgb(37, 37, 37); font-size: 15px; font-weight: normal; overflow-wrap: break-word; }
+
+.section-overlay .content .fieldsTable .labelColumn { text-align: right; }
+
+.section-overlay .content .fieldsTable .valueColumn { padding-left: 30px; }
+
+.section-overlay .content .fieldsTable .valueColumn, .section-overlay .content .fieldsTable .valueColumn .userValue { width: 252px; }
+
+.section-overlay .content .fieldsTable .hintColumn { padding-left: 15px; width: 15px; }
+
+.section-overlay .content .fieldsTable .descriptionColumn { padding: 10px; text-align: left; font-size: 13px; color: rgb(232, 90, 72); }
+
+.section-overlay .content .fieldsTable .redStar { color: red; }
+
+.section-overlay .content .fieldsTable.tableWithRequiredField tr:nth-of-type(2n+1) { background-color: rgb(255, 255, 255); }
+
+.section-overlay .content .fieldsTable.tableWithRequiredField tr:nth-of-type(2n) { background-color: rgb(247, 247, 249); }
+
+.section-overlay .content .fieldsTable.tableWithRequiredField tr:first-child td { height: 20px; font-size: 13px; }
+
+.section-overlay .content .fieldsTable.tableWithRequiredField .requiredFieldLabel { text-align: right; }
+
+.section-overlay.warning { border: 3px solid rgb(252, 151, 40); }
+
+.section-overlay .content p.warning.question { padding-left: 45px; font-size: 17px; font-weight: bold; }
+
+.section-overlay .content ul.warning { padding-left: 45px; color: rgb(252, 151, 40); list-style-type: none; background: url("/pz/javax.faces.resource/images/message_warn_sign.png.xhtml") -12px 0px no-repeat; }
+
+.section-overlay .content ul.warning.first-child { margin-top: 0px; }
+
+.section-overlay .content ul.warning.last-child { margin-bottom: 0px; }
+
+.section-overlay .content ul.warning li { margin: 5px 0px; border: 0px; padding: 0px; }
+
+.section-overlay .content ul.warning li.first-child { margin-top: 0px; }
+
+.section-overlay .content ul.warning li.last-child { margin-bottom: 0px; }
+
+.cpUserPrivilegeEditTable { border-collapse: collapse; width: 560px; background-color: rgb(247, 247, 249); }
+
+.cpUserPrivilegeEditTable td { max-height: 20px; overflow-wrap: break-word; }
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/css/registration-page.css.xhtml
+
+@charset "utf-8";
+
+.contentBody .page.registrationPage { float: none; width: 1170px; }
+
+.contentBody .page.registrationPage .pageHeader { width: 1170px; }
+
+.contentBody .page.registrationPage .fieldsTable .inner4ColumnTable .labelColumn { width: 270px; }
+
+.contentBody .page.registrationPage .fieldsTable .inner4ColumnTable .descriptionColumn { width: 308px; min-width: 308px; max-width: 308px; }
+
+.description { margin-bottom: 5px; font-size: 15px; color: rgb(102, 102, 102); }
+
+.description label.invalid { color: rgb(232, 90, 72); }
+
+.infoTable { width: 100%; border-top: 2px solid rgb(231, 231, 231) !important; }
+
+.infoTitle { padding-left: 20px; }
+
+.infoContent { padding-left: 20px; padding-bottom: 20px; }
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/css/password-meter.css.xhtml
+
+@charset "utf-8";
+
+#passwordMeter { margin-bottom: 10px; }
+
+#passwordMeter #progressBar { margin-bottom: 5px; border: 1px solid rgb(204, 204, 204); width: 130px; }
+
+#passwordMeter #progressBar #strengthValue { height: 5px; border: 0px solid rgb(255, 255, 255); background-color: rgb(255, 215, 0); }
+
+#passwordMeter #strengthText { font-size: 13px; color: rgb(136, 136, 136); }
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/rwd_main.css.xhtml?ln=css
+
+@charset "utf-8";
+
+body.hc .aboutPzSteps .aboutPzSteps-step .aboutPzSteps-step-header { background-color: rgb(0, 0, 0) !important; }
+
+.aboutPzSteps { -webkit-box-pack: justify; flex-wrap: wrap !important; }
+
+.navigation { margin: 0px 10px; }
+
+.footer .sizeAndAlignmentWrapper > div { margin-left: 20px; margin-right: 20px; }
+
+.topMenuBar { display: block; }
+
+input[type="submit"] { -webkit-appearance: none; }
+
+.chosen-container-single .chosen-single div b { height: auto !important; }
+
+body.hc .hint .frame { border: 1px solid rgb(255, 255, 255); }
+
+@media screen and (max-width: 1170px) {
+  body { min-width: 100% !important; }
+  .sizeAndAlignmentWrapper, .ministryInfo { max-width: 100%; width: 100% !important; }
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 401px) {
+  .aboutPzSteps .aboutPzSteps-step { margin: 40px !important; }
+}
+
+@media only screen and (max-width: 629px) and (min-width: 401px) {
+  .aboutPzSteps .aboutPzSteps-step { margin: 15px auto !important; width: 85% !important; }
+}
+
+@media only screen and (max-width: 767px) and (min-width: 630px) {
+  .aboutPzSteps .aboutPzSteps-step { margin: 6px !important; }
+  .createPz { top: 770px; left: 300px; width: 320px !important; margin: 20px 10px !important; position: absolute !important; }
+  .createPz > p > span { padding-left: 10px; font-size: 1.1em !important; }
+  .button.smallRightArrowButton { width: 250px; text-align: center; display: block; background-image: none !important; padding: 0px !important; margin: 20px auto !important; }
+  .button.smallRightArrowButton + span { display: block; text-align: center; }
+  body.webkit534 .createPz { left: auto !important; position: relative !important; }
+}
+
+@media only screen and (max-width: 1199px) {
+  .aboutPzSteps { justify-content: flex-start !important; }
+  .aboutPzSteps-step { width: 300px !important; }
+  .aboutPzSteps-step-header-stepNo { width: 70px; height: auto; }
+  .aboutPzSteps-step-header h2 { font-size: 20px !important; text-align: center !important; padding-right: 0px !important; line-height: 23px !important; margin: 0px -5px 0px 72px !important; }
+  .aboutPzSteps-step-header p { font-size: 0.9em !important; }
+  .aboutPzSteps-step-content ul li { font-size: 0.9em !important; margin-bottom: 10px !important; }
+}
+
+@media only screen and (max-width: 1019px) {
+  .createPz { display: block; width: 373px; position: relative; margin: 40px; }
+  .createPz img { display: none; }
+  .createPz p { margin: 10px !important; text-align: left !important; }
+  .createPz span { margin-left: 0px !important; }
+  .createPz .button { margin-right: 20px; margin-top: 40px; }
+  body.webkit534 .createPz { margin-top: 0px; margin-bottom: 0px; left: auto !important; position: relative !important; top: auto !important; }
+  body.webkit534 .aboutPzSteps { display: block !important; }
+  body.webkit534 .aboutPzSteps .aboutPzSteps-step { width: 97% !important; margin: 10px auto 20px !important; }
+}
+
+@media only screen and (max-width: 1180px) {
+  .account { margin-right: 16px !important; }
+  .lawPageContents, .siteMapPageContents { margin-left: 20px; margin-right: 20px; }
+  .lawPageContents { margin-top: 0px !important; }
+}
+
+@media only screen and (max-width: 529px) {
+  .siteMapPageContents { font-size: 0.9em !important; }
+  .siteMapPageContents ul { padding-left: 0px !important; }
+  .siteMapPageContents h1 { font-size: 1.4em !important; padding-top: 10px !important; }
+  .siteMapPageContents li { margin-left: 0px !important; }
+}
+
+@media only screen and (max-width: 1181px) {
+  #globalMessages, #messages { margin: auto 16px auto 10px !important; }
+}
+
+@media only screen and (max-width: 1019px) and (min-width: 768px) {
+  .createPz { position: absolute; top: 835px; left: 368px; }
+}
+
+@media only screen and (min-width: 768px) {
+  .links div a { display: block !important; }
+  .iconsMenu { display: none !important; }
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 1020px) {
+  .aboutPzSteps { justify-content: center !important; }
+  .aboutPzSteps .aboutPzSteps-step { width: 270px !important; margin: 30px !important; }
+}
+
+@media only screen and (max-width: 1019px) and (min-width: 840px) {
+  .aboutPzSteps .aboutPzSteps-step { width: 330px !important; }
+  .createPz { left: 409px !important; }
+  body.webkit534 .aboutPzSteps { display: block !important; }
+  body.webkit534 .aboutPzSteps .aboutPzSteps-step { width: 97% !important; margin: 10px auto 20px !important; }
+  body.webkit534 .createPz { left: auto !important; }
+}
+
+@media only screen and (max-width: 767px) {
+  #globalMessages { margin: 0px 10px; }
+  .systemLogo { position: absolute; top: 50px; left: 15px; height: 50px !important; margin: 0px 15px 0px 0px !important; width: 140px !important; }
+  .account { border: 2px solid rgb(237, 238, 242); margin-top: 90px !important; }
+  .topBar .menuLeft { height: 0px; }
+  .topBar .menuRight { padding-top: 10px; }
+  .topMenuBar { background-color: rgb(237, 240, 244); top: 0px; left: 0px; z-index: 100000; display: none !important; position: absolute !important; width: 100% !important; }
+  .topMenuBar li { display: block; width: 100%; clear: both; border-bottom: 1px solid rgb(205, 205, 205); background: none !important; padding-top: 0px !important; }
+  body.hc .topMenuBar { border-bottom: 3px solid rgb(255, 255, 255); }
+  .topMenuBar li a span { display: block; height: 40px !important; }
+  .topMenuBar li a, .topMenuBar li span { text-transform: uppercase; font-size: 1em !important; line-height: 40px !important; padding: 0px 30px !important; text-align: left !important; height: 40px !important; background-color: transparent !important; width: 100% !important; }
+  .topMenuBar li span { cursor: pointer; }
+  .topMenuBar li a:hover, .topMenuBar li span:hover, .topMenuBar li.current span:hover, .topMenuBar li a:focus, .topMenuBar li span:focus, .topMenuBar li.current span:focus { display: block; color: rgb(255, 255, 255) !important; background-color: rgb(38, 45, 64) !important; }
+  .topMenuBar li.current span { font-weight: 700; color: rgb(51, 51, 51) !important; }
+  .topMenuBar .home, .topMenuBar .home a { width: 100% !important; background-color: transparent !important; height: 40px !important; }
+  .topMenuBar .home a img { display: none; }
+  .topMenuBar .home .home-mobile { width: 100%; display: block !important; padding-left: 0px !important; }
+  .topMenuBar .nav-mobile { height: 80px; display: block !important; background-color: rgb(237, 240, 244) !important; }
+  body.hc .topMenuBar .nav-mobile { background-color: rgb(0, 0, 0) !important; }
+  .topMenuBar .nav-mobile a { color: rgb(255, 255, 255) !important; background-color: transparent !important; }
+  .topMenuBar .nav-mobile .close { background-image: url("/pz/javax.faces.resource/images/zamknij_icon.png.xhtml"); background-repeat: no-repeat; background-size: 50px 49px; cursor: pointer; position: absolute; right: 20px; top: 17px; width: 50px !important; height: 50px !important; padding: 0px !important; }
+  .topMenuBar .nav-mobile .close:focus { background-image: url("/pz/javax.faces.resource/images/zamknij_icon_hc.png.xhtml"); }
+  body.hc .topMenuBar .nav-mobile .close { background-image: url("/pz/javax.faces.resource/images/zamknij_icon_hc.png.xhtml") !important; }
+  .topMenuBar .nav-mobile .navleft { background-image: url("/pz/javax.faces.resource/images/logo_pz_upr_64x49.png.xhtml"); background-repeat: no-repeat; background-size: auto 40px; position: relative; top: 24px; left: 27px; width: 64px; height: 49px; }
+  body.hc .topMenuBar .nav-mobile .navleft { background-image: url("/pz/javax.faces.resource/images/logo_pz_upr_64x49_hc.png.xhtml"); }
+  .header .loginButton, .registerButton { background-image: none !important; }
+  .header { height: 80px !important; }
+  .header .links { padding-top: 15px !important; }
+  .header .loginButton a { display: block; background-size: 50px 49px; background-repeat: no-repeat; width: 50px; height: 50px; position: absolute; right: 83px; background-image: url("/pz/javax.faces.resource/images/logowanie_icon.png.xhtml") !important; }
+  body.hc .header .loginButton a { background-image: url("/pz/javax.faces.resource/images/logowanie_icon_hc.png.xhtml") !important; }
+  .header .loginButton a, .header .loginButton a:hover, .registerButton a, .registerButton a:hover { color: transparent !important; }
+  .registerButton a { width: 50px; height: 50px; overflow: hidden; display: block; background-size: 50px 49px; background-repeat: no-repeat; position: absolute; right: 140px; background-image: url("/pz/javax.faces.resource/images/rejestracja_icon.png.xhtml") !important; }
+  .header .links .mobile-nav-trigger { display: inline-block; background: none; width: 50px; height: 50px; padding: 0px; border: none; position: absolute; right: 27px; top: 56px; }
+  .links div .hideElement { display: none !important; }
+  body.hc .aboutPzSteps .aboutPzSteps-step .aboutPzSteps-step-header-stepNo, body.hc .topMenuBar li { background-color: rgb(0, 0, 0) !important; }
+  body.hc .topMenuBar li a:hover, body.hc .topMenuBar li span:hover, body.hc .topMenuBar li.current span:hover { background-color: rgb(0, 0, 0) !important; }
+}
+
+@media only screen and (max-width: 706px) {
+  .footer { padding-top: 50px !important; }
+  .footerTopBar { height: 110px !important; }
+  .footerTopBar .logoEpuap { clear: both; text-align: center; margin: 0px auto; float: none !important; }
+  .footerTopBar .bottomMenuBar { top: 0px; margin: 0px auto; text-align: center; overflow: unset; height: 50px; float: none !important; }
+  .footerTopBar .bottomMenuBar li { width: 33%; }
+  .footerMiddleBar { min-height: 300px; }
+  .logosBar { margin: 0px auto; text-align: center; }
+  .logosBar li { display: block; margin: 0px auto 10px; width: 100% !important; float: none !important; }
+  .logosBar li div { text-align: center; }
+}
+
+@media only screen and (max-width: 425px) {
+  .footerTopBar .bottomMenuBar li a { padding-top: 10px; margin-bottom: 0px; height: 44px; line-height: normal !important; }
+}
+
+@media only screen and (max-width: 400px) {
+  .liIco { display: none; }
+  .button.smallRightArrowButton { width: 250px; text-align: center; display: block; background-image: none !important; padding: 0px 10px !important; margin: 20px auto !important; }
+  .button.smallRightArrowButton + span { display: block; text-align: center; }
+  .createPz { width: auto; margin: 20px 10px; }
+  .createPz p { text-align: center !important; }
+  .createPz p span { margin: 0px !important; }
+  .aboutPzSteps-step-header-stepNo { font-weight: 400; font-style: normal; font-size: 45px; }
+  .aboutPzSteps-step { margin: 20px 15px !important; width: 90% !important; max-width: 360px !important; }
+  .aboutPzSteps-step-content { display: none; }
+  .aboutPzSteps-step-header p { display: none; }
+  .aboutPzSteps-step-header h2 { height: 46px; max-width: 160px !important; font-size: 0.97em !important; }
+  .aboutPzSteps-step-header { cursor: pointer; }
+  .aboutPzSteps-step-header h2::after { display: block; content: ""; position: absolute; top: 18px; right: 20px; width: 35px; height: 50px; background-image: url("/pz/javax.faces.resource/images/u6rl.png.xhtml"); background-repeat: no-repeat; background-size: 70px 50px; background-position: -1px 0px; cursor: pointer; }
+  body.hc .aboutPzSteps-step-header h2::after { background-image: url("/pz/javax.faces.resource/images/u6rl_hc.png.xhtml"); }
+  .aboutPzSteps-step.expand .aboutPzSteps-step-header h2 { overflow-wrap: break-word; font-size: 0.97em !important; }
+  .aboutPzSteps-step.expand .aboutPzSteps-step-content ul.icons li { padding-left: 0px !important; }
+  .aboutPzSteps-step.expand .aboutPzSteps-step { margin: 20px 15px !important; width: 90% !important; max-width: 360px !important; }
+  .aboutPzSteps-step.expand .aboutPzSteps-step-header h2::after { background-position: -33px 0px; }
+  .aboutPzSteps-step.expand .aboutPzSteps-step-content { display: block; }
+  .aboutPzSteps-step.expand .aboutPzSteps-step-header p { display: block; }
+}
+
+@media only screen and (max-width: 360px) {
+  .account { right: 9px; }
+}
+
+@media only screen and (max-width: 344px) {
+  .aboutPzSteps-step-header h2::after { display: none; }
+  .bottomMenuBar li a { font-size: 0.75em !important; }
+}
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/pz-banner.css.xhtml?ln=css
+
+@charset "utf-8";
+
+.banner-container { display: block; position: relative; }
+
+.banner-img { max-width: 100%; display: block; position: relative; min-height: 180px; }
+
+.banner-text { position: absolute; top: 0px; font-size: 26px; width: 100%; text-align: center; }
+
+.banner-buttons-container { position: absolute; display: flex; width: 100%; justify-content: center; flex-wrap: wrap; bottom: 0px; }
+
+.banner-button { margin: 5px 25px; padding: 15px; font-size: 10px; }
+
+.banner-img-container-large, .banner-img-container-medium { display: none; }
+
+.banner-img-container-small { display: block; }
+
+@media screen and (max-width: 449px) and (min-width: 360px) {
+  .banner-text { font-size: 30px; }
+}
+
+@media screen and (min-width: 360px) {
+  .banner-button { font-size: 15px; }
+}
+
+@media screen and (max-width: 539px) and (min-width: 450px) {
+  .banner-button { margin: 10px 30px 15px; padding: 15px; }
+  .banner-text { font-size: 40px; }
+}
+
+@media screen and (max-width: 767px) and (min-width: 540px) {
+  .banner-img-container-medium { display: block; }
+  .banner-img-container-small, .banner-img-container-large { display: none; }
+  .banner-buttons-container { flex-wrap: nowrap; }
+  .banner-button { margin: 20px 30px; }
+  .banner-text { font-size: 38px; }
+}
+
+@media screen and (min-width: 768px) {
+  .banner-img-container-large { display: block; }
+  .banner-img-container-medium, .banner-img-container-small { display: none; }
+  .banner-button { padding: 0px; margin: 0px 30px; }
+  .banner-text { top: 10px; left: 43%; right: 30px; font-size: 27px; text-align: left; max-width: 60%; width: auto; }
+  .banner-buttons-container { top: 110px; right: 28px; justify-content: flex-end; }
+}
+
+@media only screen and (max-width: 1019px) and (min-width: 630px) {
+  .banner-createPz { bottom: 0px; top: 1000px; }
+}
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/rwd_konto.css.xhtml?ln=css
+
+@charset "utf-8";
+
+@media only screen and (max-width: 1180px) {
+  .contentBody { margin: 10px 16px 10px 10px !important; }
+  .contentBody .menu { margin: 10px 0px 20px !important; }
+  .contentHeader { margin: 0px 16px 0px 10px !important; }
+  .page, .pageHeader, .pageHeader div { width: 100% !important; }
+  .page .pageHeader h2 span, .page .pageHeader h2 br { display: none; }
+  .toolBar .spacer { display: none; }
+  .detailsPage .fieldsTable { position: relative; margin-top: 30px !important; }
+  .detailsPage .fieldsTable .spacerColumn { display: none; }
+  .detailsPage .fieldsTable .categoryLabelColumn { display: block; position: absolute; width: 100% !important; max-width: 100% !important; padding: 20px 0px !important; margin: 0px 30px 0px 0px !important; border-top: 2px solid rgb(207, 213, 226) !important; }
+  .detailsPage .fieldsTable td { border: none !important; }
+  .detailsPage .fieldsTable td:not(.spacerColumn) table, .detailsPage .fieldsTable td:not(.categoryLabelColumn) table { position: relative; width: 100% !important; max-width: 100% !important; margin-top: 61px !important; }
+  .detailsPage .fieldsTable .innerTable { table-layout: fixed; border-top: none !important; width: 100% !important; }
+  .detailsPage .fieldsTable .innerTable tr { border: none !important; }
+  .detailsPage .fieldsTable .innerTable .labelColumn { width: 30% !important; max-width: none !important; }
+  .detailsPage .valueColumn { width: 70% !important; max-width: 50% !important; padding-right: 20px !important; }
+  .detailsPage .userValue { width: 100% !important; max-width: 100% !important; }
+  .section-overlay { margin-left: 20px !important; left: 0px !important; width: 90% !important; }
+  .section-overlay .content { float: none !important; width: 90% !important; padding: 15px 10px !important; }
+  .section-overlay .buttons { width: 90% !important; margin: 0px auto 0px 10px !important; }
+  .section-overlay.warning .buttons { text-align: center; margin: 27px auto !important; }
+  .section-overlay .button { text-align: center; margin: 10px 10px 27px auto !important; }
+  .section-overlay.warning .button { margin: 10px 5px !important; }
+}
+
+@media only screen and (max-width: 1790px) {
+  .editPage td .hintColumn, .reminderPage td .hintColumn, .section-overlay td.hintColumn { clear: right; float: left; width: 20px !important; margin-top: 15px !important; margin-left: 10px !important; }
+  .editPage td .hintColumn, .editPage td .descriptionColumn, .reminderPage td .hintColumn, .reminderPage td .descriptionColumn, .section-overlay td.hintColumn, .section-overlay td.descriptionColumn { height: auto !important; }
+  .editPage td .hint, .reminderPage td .hint, .section-overlay td .hint { z-index: 149 !important; }
+  .editPage td .hint .frame, .reminderPage td .hint .frame, .section-overlay td .hint .frame { left: -275px !important; margin-top: -15px !important; min-width: 242px !important; }
+  .editPage td .hint .frame.maxWidth, .reminderPage td .hint .frame.maxWidth, .section-overlay td .hint .frame.maxWidth { max-width: 242px !important; }
+}
+
+@media only screen and (max-width: 767px) {
+  .contentHeader { margin: 20px 16px 0px 10px !important; }
+  .section-overlay .stepLabelColumn { width: 50px; }
+  .section-overlay .title { display: table; width: 100%; }
+  .section-overlay .header { background-color: transparent; vertical-align: middle; font-size: 1em !important; line-height: inherit !important; padding: 0px 70px 0px 20px !important; display: table-cell !important; }
+  .contentBody .menu { background-color: transparent !important; width: 100% !important; margin-bottom: 0px !important; }
+  .contentBody .menu li { display: block; clear: both; background-color: transparent !important; width: 100% !important; border: none !important; padding: 0px !important; margin: 0px !important; }
+  .contentBody .menu li a { padding: 0px !important; margin: 0px !important; }
+  .contentBody .menu li, .contentBody .menu li a { line-height: 35px; height: 35px !important; }
+  .page.detailsPage .toolBar { display: none; }
+  .fromToolBar { display: block; }
+}
+
+@media only screen and (max-width: 768px) {
+  .editPage .button.smallRightArrowButton, .editPage .button.mediumRightArrowButton, .editPage .button.smallPlainButton, .editPage .button.mediumPlainButton, .invalidatePage .button.smallRightArrowButton, .invalidatePage .button.mediumRightArrowButton, .invalidatePage .button.smallPlainButton, .invalidatePage .button.mediumPlainButton, .previewPage .button.smallRightArrowButton, .previewPage .button.mediumRightArrowButton, .previewPage .button.smallPlainButton, .previewPage .button.mediumPlainButton, .reminderPage .button.smallRightArrowButton, .reminderPage .button.mediumRightArrowButton, .reminderPage .button.smallPlainButton, .reminderPage .button.mediumPlainButton { width: auto !important; height: 45px !important; line-height: 45px !important; padding-left: 40px !important; padding-right: 40px !important; background-image: none !important; }
+  .editPage .requiredFieldLabel, .invalidatePage .requiredFieldLabel, .previewPage .requiredFieldLabel, .reminderPage .requiredFieldLabel { position: relative; left: -14px; top: 8px; }
+  .editPage .fieldsTable td .innerTable, .invalidatePage .fieldsTable td .innerTable, .previewPage .fieldsTable td .innerTable, .reminderPage .fieldsTable td .innerTable { position: relative; left: -15px; }
+  .editPage .fieldsTable .innerTable tr:nth-of-type(2n), .editPage .fieldsTable .innerTable tr:nth-of-type(2n+1), .invalidatePage .fieldsTable .innerTable tr:nth-of-type(2n), .invalidatePage .fieldsTable .innerTable tr:nth-of-type(2n+1), .previewPage .fieldsTable .innerTable tr:nth-of-type(2n), .previewPage .fieldsTable .innerTable tr:nth-of-type(2n+1), .reminderPage .fieldsTable .innerTable tr:nth-of-type(2n), .reminderPage .fieldsTable .innerTable tr:nth-of-type(2n+1) { background-color: rgb(255, 255, 255) !important; }
+  .editPage .fieldsTable, .invalidatePage .fieldsTable, .previewPage .fieldsTable, .reminderPage .fieldsTable { position: relative; width: 99%; border-top: 2px solid rgb(231, 231, 231) !important; }
+  .editPage .fieldsTable p, .invalidatePage .fieldsTable p, .previewPage .fieldsTable p, .reminderPage .fieldsTable p { position: relative; display: block; }
+  .editPage .fieldsTable .spacerColumn, .invalidatePage .fieldsTable .spacerColumn, .previewPage .fieldsTable .spacerColumn, .reminderPage .fieldsTable .spacerColumn { width: 0px !important; }
+  .editPage .fieldsTable .categoryLabelColumn, .invalidatePage .fieldsTable .categoryLabelColumn, .previewPage .fieldsTable .categoryLabelColumn, .reminderPage .fieldsTable .categoryLabelColumn { position: absolute; left: 10px; z-index: 10; padding-left: 0px !important; padding-right: 10px !important; padding-bottom: 0px !important; width: auto !important; max-width: none !important; }
+  .editPage .fieldsTable td, .invalidatePage .fieldsTable td, .previewPage .fieldsTable td, .reminderPage .fieldsTable td { border-top: 0px !important; }
+  .editPage #accountEditForm .td17, .editPage #accountEditForm .td24, .editPage #accountEditForm .td30 { padding-top: 30px !important; }
+  .editPage .checkboxColumn { max-width: none !important; }
+  .editPage .checkboxColumn, .editPage .checkboxColumn td { height: 100% !important; }
+  .editPage .categoryDetailsColumn p, .invalidatePage .categoryDetailsColumn p, .previewPage .categoryDetailsColumn p, .reminderPage .categoryDetailsColumn p { margin-top: 20px !important; }
+  .categoryDetailsColumn { max-width: none !important; width: 100% !important; }
+  .invalidatePage .valueColumn.requiredFieldLabel, .previewPage .valueColumn.requiredFieldLabel, .reminderPage .valueColumn.requiredFieldLabel { height: 0px !important; margin-top: 0px !important; top: 0px !important; }
+  .invalidatePage .td2 .innerTable, .previewPage .td2 .innerTable, .reminderPage .td2 .innerTable { margin-top: 40px !important; }
+  .previewPage .fieldsTable .categoryDetailsColumn { padding-top: 50px !important; }
+  .section-overlay .button.smallRightArrowButton, .section-overlay .button.mediumRightArrowButton, .section-overlay .button.smallPlainButton, .section-overlay .button.mediumPlainButton { width: auto !important; height: 45px !important; line-height: 45px !important; padding-left: 20px !important; padding-right: 20px !important; background-image: none !important; }
+  .section-overlay .valueColumn.requiredFieldLabel { position: relative; left: -14px; top: 8px; height: 20px !important; }
+  .section-overlay .fieldsTable td .innerTable { position: relative; left: -15px; }
+  .section-overlay .fieldsTable tr:nth-of-type(2n), .section-overlay .fieldsTable tr:nth-of-type(2n+1) { background-color: rgb(255, 255, 255) !important; }
+  .section-overlay .fieldsTable p { position: relative; display: block; }
+  .section-overlay .fieldsTable .spacerColumn { width: 0px !important; }
+  .section-overlay .fieldsTable .categoryLabelColumn { position: absolute; left: 10px; z-index: 10; padding-left: 0px !important; padding-right: 10px !important; padding-bottom: 0px !important; width: auto !important; max-width: none !important; }
+  .section-overlay .fieldsTable td { border-top: 0px !important; }
+  .section-overlay .checkboxColumn { max-width: none !important; }
+  .section-overlay .checkboxColumn, .section-overlay .checkboxColumn td { height: 100% !important; }
+  .section-overlay .categoryDetailsColumn p { margin-top: 20px !important; }
+  .editPage td .hintColumn, .reminderPage td .hintColumn { margin-top: 5px !important; }
+  .editPage .hintColumn .hint, .reminderPage .hintColumn .hint, .section-overlay .hintColumn .hint { width: 16px !important; height: 25px !important; background-size: 16px 20px !important; background-image: url("/pz/javax.faces.resource/images/icon_question.png.xhtml") !important; }
+}
+
+@media only screen and (max-width: 920px) {
+  .pseudo-table { display: block; padding-top: 20px; width: 95% !important; }
+  .pseudo-table > a > div > div > div:first-child, .pseudo-table .fakeA > div > div > div:first-child { padding-left: 0px !important; }
+  .pseudo-table > a > div > div > div, .pseudo-table .fakeA > div > div > div { font-size: 0.9em; display: block !important; padding: 3px 6px 3px 0px !important; height: auto !important; }
+  .pseudo-table a div, .pseudo-table .head div, .pseudo-table .fakeA div { display: block !important; width: 100% !important; }
+  .pseudo-table > a > div, .pseudo-table .head div, .pseudo-table > .fakeA > div { padding: 2px 10px !important; }
+  .pseudo-table > a > div, .pseudo-table > .fakeA > div { border-bottom: 2px solid rgb(207, 213, 226); }
+  .pseudo-table .head { display: none !important; }
+  .showMore td { border-top: none !important; }
+}
+
+@media only screen and (max-width: 640px) {
+  h1 { font-size: 1.4em !important; }
+  h2 { font-size: 1.2em !important; padding: 0px 10px !important; }
+  .contentHeader { margin: 20px 10px 0px !important; padding-left: 0px !important; }
+  .editPage .pageHeader .buttonCell, .invalidatePage .pageHeader .buttonCell, .previewPage .pageHeader .buttonCell, .reminderPage .pageHeader .buttonCell { display: none; }
+  .editPage .pageFooter, .invalidatePage .pageFooter, .previewPage .pageFooter, .reminderPage .pageFooter { padding-left: 10px; text-align: left !important; }
+  .invalidatePage .pageFooter .button, .previewPage .pageFooter .button, .reminderPage .pageFooter .button { margin-bottom: 10px !important; }
+  .editPage .pageFooter table, .invalidatePage .pageFooter table, .previewPage .pageFooter table, .reminderPage .pageFooter table { float: none !important; }
+  .editPage td table tr, .editPage td table td, .invalidatePage td table tr, .invalidatePage td table td, .previewPage td table tr, .previewPage td table td, .reminderPage td table tr, .reminderPage td table td { display: block; }
+  .editPage td table, .editPage td table td table, .invalidatePage td table, .invalidatePage td table td table, .previewPage td table, .previewPage td table td table, .reminderPage td table, .reminderPage td table td table { left: 0px !important; }
+  .editPage td table td, .editPage td table td table td, .invalidatePage td table td, .invalidatePage td table td table td, .previewPage td table td, .previewPage td table td table td, .reminderPage td table td, .reminderPage td table td table td { position: relative; clear: both; height: 80px; padding: 5px 5px 0px 0px !important; margin: 0px !important; text-align: left !important; width: 90% !important; }
+  .invalidatePage td table td, .invalidatePage td table td table td, .previewPage td table td, .previewPage td table td table td, .reminderPage td table td, .reminderPage td table td table td { height: auto !important; }
+  .editPage .labelColumn, .invalidatePage .labelColumn, .previewPage .labelColumn, .reminderPage .labelColumn { height: 20px !important; }
+  .editPage .valueColumn, .invalidatePage .valueColumn, .previewPage .valueColumn, .reminderPage .valueColumn { padding: 0px !important; float: left !important; height: 40px !important; max-width: 255px !important; }
+  .previewPage .valueColumn { padding: 0px 0px 0px 15px !important; height: 30px !important; }
+  .editPage .valueColumn input, .invalidatePage .valueColumn input, .previewPage .valueColumn input, .reminderPage .valueColumn input { width: 90% !important; }
+  .editPage td input[type="text"], .editPage td input[type="password"], .invalidatePage td input[type="text"], .invalidatePage td input[type="password"], .previewPage td input[type="text"], .previewPage td input[type="password"], .reminderPage td input[type="text"], .reminderPage td input[type="password"] { height: 35px !important; line-height: 35px !important; }
+  .editPage .requiredFieldLabel, .invalidatePage .requiredFieldLabel, .previewPage .requiredFieldLabel, .reminderPage .requiredFieldLabel { text-align: left !important; padding-left: 13px !important; margin-top: 10px !important; }
+  .editPage #passwordMeter { margin-bottom: 5px !important; }
+  .editPage #accountEditForm .td2 { padding-top: 40px !important; }
+  .editPage #accountEditForm .td4 { height: 20px !important; }
+  .editPage .checkboxColumn { padding-left: 0px !important; width: 100% !important; }
+  .editPage .checkboxColumn table tr { border-left: 0px !important; border-right: 0px !important; }
+  .editPage .checkboxColumn .repeatColumn input { margin-left: 0px !important; }
+  .editPage .innerTable.innerSimpleTable { margin-top: 10px !important; }
+  .editPage .innerTable.innerSimpleTable .hintColumn, .reminderPage .innerTable.innerSimpleTable .hintColumn { float: right !important; top: -40px !important; }
+  .section-overlay p.first-child { margin-bottom: 0px; }
+  .section-overlay table .td0 { height: 0px !important; }
+  .section-overlay table tr, .section-overlay table td { display: block; }
+  .section-overlay table { left: 0px !important; }
+  .section-overlay table td { position: relative; clear: both; height: auto; padding: 5px 5px 0px 0px !important; margin: 0px !important; text-align: left !important; width: 90% !important; }
+  .section-overlay .labelColumn { height: 20px !important; }
+  .section-overlay .valueColumn { padding: 0px !important; float: left !important; height: 40px !important; max-width: 255px !important; }
+  .section-overlay .valueColumn input { width: 90% !important; }
+  .section-overlay td input[type="text"], .section-overlay td input[type="password"] { height: 35px !important; line-height: 35px !important; }
+  .section-overlay .requiredFieldLabel { text-align: left !important; padding-left: 13px !important; margin-top: 10px !important; }
+  .section-overlay #passwordMeter { margin-bottom: 5px !important; }
+  .section-overlay .buttons { text-align: left !important; margin-left: 10px !important; margin-bottom: 27px !important; }
+  .section-overlay .button { margin-bottom: 10px !important; }
+  .section-overlay td.hintColumn { margin-top: 4px !important; }
+  .section-overlay .certificateTable { width: 100%; }
+  .section-overlay .certificateStep.withButton { height: auto !important; }
+  .section-overlay .certificateStep.withButton .button { margin: 0px 0px 10px !important; }
+  .section-overlay .certificateTable .stepLabelColumn { border-top: 2px solid rgb(235, 237, 241); padding-top: 20px; }
+  .section-overlay .certificateTable td { height: auto !important; width: 100% !important; padding: 5px 10px 5px 0px !important; }
+  .contentBody .page .fieldsTable .inner4ColumnTable .valueColumn, .contentBody .page .fieldsTable .inner4ColumnTable .valueColumn .userValue { max-width: 85% !important; }
+  .contentBody .page .fieldsTable .inner4ColumnTable .valueColumn input[type="text"], .contentBody .page .fieldsTable .inner4ColumnTable .valueColumn input[type="password"], .contentBody .page .fieldsTable .inner4ColumnTable .chosen-container { width: 96% !important; }
+  .editPage td .hint .frame, .reminderPage td .hint .frame, .section-overlay td .hint .frame { left: -251px !important; }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 641px) {
+  .editPage td .hintColumn, .reminderPage td .hintColumn, .section-overlay .hintColumn { padding-left: 0px !important; margin-top: 10px !important; }
+  .editPage td .hint .frame, .reminderPage td .hint .frame, .section-overlay td .hint .frame { left: -262px !important; }
+  .editPage .td2 .innerTable { margin-top: 20px !important; }
+}
+
+@media only screen and (max-width: 599px) {
+  .detailsPage .fieldsTable { margin-top: 0px !important; }
+  .detailsPage .fieldsTable .innerTable tr { background-color: transparent !important; }
+  .detailsPage .fieldsTable .innerTable td { display: block; text-align: left !important; padding: 0px !important; }
+  .detailsPage .fieldsTable .innerTable .labelColumn, .detailsPage .fieldsTable .innerTable .valueColumn { line-height: 30px; vertical-align: middle; overflow: hidden; width: 99% !important; max-width: 99% !important; height: auto !important; min-height: 30px !important; padding: 0px 3px !important; }
+  .detailsPage .fieldsTable .innerTable .labelColumn { background-color: rgb(247, 247, 249); }
+  .detailsPage .fieldsTable .innerTable .valueColumn { margin-bottom: 10px !important; padding-left: 15px !important; }
+  .editPage .checkboxColumn { width: 95% !important; }
+  body.hc .innerTable .labelColumn { background-color: rgb(0, 0, 0) !important; }
+}
+
+@media only screen and (min-width: 600px) {
+  .fromToolBar { display: none; }
+}
+
+@media only screen and (max-width: 434px) {
+  .filterMenu .fields td { float: none; display: block !important; padding: 2px 0px !important; }
+  .filterMenu .fields .textColumn { text-align: left !important; }
+  .filterMenu .buttonsBar { margin: 10px auto !important; text-align: center !important; }
+}
+
+@media only screen and (max-width: 460px) {
+  .section-overlay { margin-left: 15px !important; }
+  .section-overlay .buttons .button { white-space: normal !important; line-height: normal !important; padding: 15px 0px !important; height: auto !important; width: 98% !important; margin: 10px auto !important; }
+}
+
+@media only screen and (max-width: 920px) {
+  .section-overlay #submitTpPopup2Form .header { padding-right: 70px !important; font-size: 1em !important; }
+}
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/client-zone-color.css.xhtml?ln=css
+
+@charset "utf-8";
+
+a { color: rgb(0, 103, 163); }
+
+a:hover, a:active { color: rgb(0, 80, 127); }
+
+.topBar .menuLeft .clientZone { background-color: rgb(237, 238, 242); color: rgb(58, 79, 100); }
+
+.topBar .menuLeft .clerkZone { background-color: rgb(75, 96, 165); color: rgb(232, 235, 244); }
+
+.topBar .menuLeft .clientZone a { background-color: rgb(237, 238, 242); color: rgb(58, 79, 100); }
+
+.topBar .menuLeft .clerkZone a { background-color: rgb(75, 96, 165); color: rgb(232, 235, 244); }
+
+.zoneMenuBar .current a { background: none; color: rgb(237, 238, 242); text-decoration: none; }
+
+.header { background-color: rgb(237, 238, 242); }
+
+.header .account .profileBox { background-image: url("/pz/javax.faces.resource/images/buttons/client/profileBox.png.xhtml"); }
+
+.header .account .profileMenu .context { border-bottom: 2px solid rgb(0, 143, 230); background: rgb(0, 113, 179); }
+
+.header .account .profileMenu .context:hover, .header .account .profileMenu .context:active { background: rgb(0, 143, 230); }
+
+.footer { background-color: rgb(237, 238, 242); }
+
+.bottomMenuBar li a { background: rgb(237, 238, 242); }
+
+input[type="text"]:focus, input[type="password"]:focus, textarea:focus { border-color: rgb(0, 113, 179); }
+
+.button { background-color: rgb(0, 113, 179); }
+
+.button:hover, .button:active { background-color: rgb(0, 80, 128); }
+
+.button.lessImportant { background-color: rgb(207, 213, 226); color: rgb(0, 103, 163); }
+
+.button.lessImportant:hover, .button.lessImportant:active { color: rgb(0, 80, 127); }
+
+.button.smallPlusButton { background-image: url("/pz/javax.faces.resource/images/buttons/client/white_plus_blue_bg_small.png.xhtml"); }
+
+.button.smallUpArrowButton { background-image: url("/pz/javax.faces.resource/images/buttons/client/white_arrow_up_blue_bg_small.png.xhtml"); }
+
+.button.smallDownArrowButton { background-image: url("/pz/javax.faces.resource/images/buttons/client/white_arrow_down_blue_bg_small.png.xhtml"); }
+
+.button.smallLeftArrowButton { background-image: url("/pz/javax.faces.resource/images/buttons/client/white_arrow_left_blue_bg_small.png.xhtml"); }
+
+.button.smallRightArrowButton { background-image: url("/pz/javax.faces.resource/images/buttons/client/white_arrow_right_blue_bg_small.png.xhtml"); }
+
+.button.mediumRightArrowButton { background-image: url("/pz/javax.faces.resource/images/buttons/client/white_arrow_right_blue_bg_medium.png.xhtml"); }
+
+.button.showMoreButton { background-image: url("/pz/javax.faces.resource/images/buttons/client/blue_arrow_down_grey_bg_tiny.png.xhtml"); background-color: rgb(0, 113, 179); }
+
+.button.showMoreButton:hover, .button.showMoreButton:active { color: rgb(0, 80, 128); }
+
+.backButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/back.png.xhtml"); }
+
+.button.tinyPlainButton.leastImportant { color: rgb(18, 123, 184); border-color: rgb(18, 123, 184); }
+
+.button.smallPlainButton.leastImportant { color: rgb(18, 123, 184); border-color: rgb(18, 123, 184); }
+
+.button.mediumPlainButton.leastImportant { color: rgb(18, 123, 184); border-color: rgb(18, 123, 184); }
+
+.button.tinyPlainButton.leastImportant:hover { color: rgb(1, 81, 128); border-color: rgb(1, 81, 128); }
+
+.button.smallPlainButton.leastImportant:hover { color: rgb(1, 81, 128); border-color: rgb(1, 81, 128); }
+
+.button.mediumPlainButton.leastImportant:hover { color: rgb(1, 81, 128); border-color: rgb(1, 81, 128); }
+
+.activateButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/activate.png.xhtml"); }
+
+.deactivateButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/deactivate.png.xhtml"); }
+
+.approveButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/approve.png.xhtml"); }
+
+.phaseOutButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/phaseOut.png.xhtml"); }
+
+.blockButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/block.png.xhtml"); }
+
+.reinstateButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/reinstate.png.xhtml"); }
+
+.printButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/print.png.xhtml"); }
+
+.deleteButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/delete.png.xhtml"); }
+
+.editButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/edit.png.xhtml"); }
+
+.usersButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/users.png.xhtml"); }
+
+.addressButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/address.png.xhtml"); }
+
+.extendTPButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/extendTP.png.xhtml"); }
+
+.verifyTPButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/verifyTP.png.xhtml"); }
+
+.invalidateTPButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/invalidateTP.png.xhtml"); }
+
+.applicationSubmisionByCPButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/applicationSubmissionByCP.png.xhtml"); }
+
+.goToButton a { background-image: url("/pz/javax.faces.resource/images/buttons/client/go_to.png.xhtml"); }
+
+.filterButton.upArrow a { background-image: url("/pz/javax.faces.resource/images/buttons/client/blue_arrow_up.png.xhtml"); }
+
+.filterButton.downArrow a { background-image: url("/pz/javax.faces.resource/images/buttons/client/blue_arrow_down.png.xhtml"); }
+
+.account_manage { background-image: url("/pz/javax.faces.resource/images/buttons/client/account_manage.png.xhtml"); background-repeat: no-repeat; }
+
+.account_manage a:hover { background-image: url("/pz/javax.faces.resource/images/buttons/client/account_manage2.png.xhtml"); background-repeat: no-repeat; }
+
+.operations_list { background-image: url("/pz/javax.faces.resource/images/buttons/client/operations_list.png.xhtml"); background-repeat: no-repeat; }
+
+.operations_list a:hover { background-image: url("/pz/javax.faces.resource/images/buttons/client/operations_list2.png.xhtml"); background-repeat: no-repeat; }
+
+.brak_ikony_profileBox { background-image: url("/pz/javax.faces.resource/images/buttons/client/brak_ikony_profileBox.png.xhtml"); background-repeat: no-repeat; }
+
+.brak_ikony_profileBox a:hover { background-image: url("/pz/javax.faces.resource/images/buttons/client/brak_ikony_profileBox2.png.xhtml"); background-repeat: no-repeat; }
+
+.contentBody .list th a.sortedAscending { background-image: url("/pz/javax.faces.resource/images/buttons/client/blue_arrow_up_narrow.png.xhtml"); }
+
+.contentBody .list th a.sortedAscending:hover, .contentBody .list th a.sortedAscending:active { background-image: url("/pz/javax.faces.resource/images/buttons/client/blue_arrow_up_narrow_hover.png.xhtml"); }
+
+.contentBody .list th a.sortedDescending { background-image: url("/pz/javax.faces.resource/images/buttons/client/blue_arrow_down_narrow.png.xhtml"); }
+
+.contentBody .list th a.sortedDescending:hover, .contentBody .list th a.sortedDescending:active { background-image: url("/pz/javax.faces.resource/images/buttons/client/blue_arrow_down_narrow_hover.png.xhtml"); }
+
+.contentBody .listPage .filterMenu .fields .inputColumn .dateField { background: url("/pz/javax.faces.resource/images/buttons/client/datepicker_no_focus.png.xhtml") 100% 50% no-repeat scroll rgb(255, 255, 255); }
+
+.contentBody .listPage .filterMenu .fields .inputColumn .dateField:focus { background: url("/pz/javax.faces.resource/images/buttons/client/datepicker_focus.png.xhtml") 100% 50% no-repeat scroll rgb(255, 255, 255); }
+
+.contentBody .listPage .filterMenu .fieldsWithWildCards .blueStar { color: rgb(0, 113, 179); }
+
+.contentBody .objectsList:hover { border: 2px solid rgb(0, 113, 179); }
+
+.chosen-container .chosen-single div { background-image: url("/pz/javax.faces.resource/images/buttons/client/line_blue_arrow_down_no_focus.png.xhtml"); }
+
+.chosen-container.chosen-container-active .chosen-single div { background-image: url("/pz/javax.faces.resource/images/buttons/client/line_blue_arrow_down_focus.png.xhtml"); }
+
+.chosen-container.chosen-container-active.chosen-with-drop .chosen-single div { background-image: url("/pz/javax.faces.resource/images/buttons/client/line_blue_arrow_down_focus.png.xhtml"); }
+
+.chosen-container.chosen-container-active .chosen-single { border: 2px solid rgb(0, 113, 179); }
+
+.chosen-container.chosen-container-active.chosen-with-drop .chosen-single { border: 2px solid rgb(0, 113, 179); }
+
+.chosen-container .chosen-drop { border: 2px solid rgb(0, 113, 179); }
+
+.chosen-container .chosen-drop .chosen-results li.highlighted { background-color: rgb(0, 113, 179); }
+
+.pseudo-table { font-size: 15px; }
+
+.pseudo-table a { color: rgb(37, 37, 37); }
+
+.pseudo-table .smaller { font-size: 12px; }
+
+.pseudo-table .break { overflow-wrap: break-word; }
+
+.pseudo-table .head { display: table-row; }
+
+.pseudo-table .head > div { display: table-cell; padding: 6px 20px 6px 0px; }
+
+.pseudo-table .head > div:first-child { padding-left: 20px; }
+
+.pseudo-table .head > div .sorted { padding-right: 20px; background: 100% 50% no-repeat scroll rgb(255, 255, 255); }
+
+.pseudo-table .head > div .asc { background-image: url("/pz/javax.faces.resource/images/buttons/client/blue_arrow_up_narrow.png.xhtml"); }
+
+.pseudo-table .head > div .desc { background-image: url("/pz/javax.faces.resource/images/buttons/client/blue_arrow_down_narrow.png.xhtml"); }
+
+.pseudo-table > a > div:hover { color: rgb(37, 37, 37); outline: rgb(0, 103, 163) solid 2px; }
+
+.pseudo-table > a > div.even, .pseudo-table .fakeA > div.even { background-color: rgb(247, 247, 249); }
+
+.pseudo-table > a > div.odd, .pseudo-table .fakeA > div.odd { background-color: rgb(255, 255, 255); }
+
+.pseudo-table > a > div > div, .pseudo-table .fakeA > div > div { display: table-row; }
+
+.pseudo-table > a > div > div > div, .pseudo-table .fakeA > div > div > div { display: table-cell; vertical-align: middle; padding: 6px 20px 6px 0px; height: 44px; }
+
+.pseudo-table > a > div > div > div:first-child, .pseudo-table .fakeA > div > div > div:first-child { padding-left: 20px; }
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/images/buttons/client/profileBox.png.xhtml
+
+‰PNG
+
+   IHDR  8  D   ³Ÿ"Ğ   sRGB ®Îé   gAMA  ±üa   	pHYs  Ä  Ä•+  IDATx^íÜ=ˆœyÇñÿ“7õn!³ŠZIRé‰r
+ŠoM‚6BN.6§ÁR646—klÒ,–‚;µ1Ç^ÀFIßPĞCñ´J¸Jo'°95oãÎ³O²“aç™™'ó»Ï–çÿ²í—gö©Û
+°Ô6û[õsµ·R?Ùq yÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÕ`[s–Ôf«~®öVêç~:ş½Ÿ—oßjnÓ9öşgËõï½¹íop@+—Î|©9Moı¥Ï6§ı%p@+'?úáòâ§>ÒÜÚ;±ıû§?=ıï·!p@kë/}¦}ßáæÖÎ¥o}±9í?Z;ş•²ö•7·É½üÂóõï.ŠÀS¹°«áX0©á¿]ûòsÍm1˜Z›Áa8,ô9ÒÜCà€©M:8,rX%pÀL&9,Œ8`&{‹F	0³qƒCÃÂ(æâIƒCÃÂ(æâñÁ¡«aa”Às3:8t5,Œò¿‰@€Eşo"{¹ğÚë;Ï¯Ÿ]8ğ4îiâ+*Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,bUåìÆ 9—ªj Kjğ°hŞà€`¼Á>èXnwîí¾ÂUÕ¹À:P•ÛOÕËe³¿U?W{+õóİìÈù+åîıÈùŠ
+Ä8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@¬ª:·1¨Êí‹§êå²ÙßªŸ«½•ú¹Ÿg½Üxëfs›Î±-×¸ÖÜæëÈù+åîı:kŞà€v.}÷tsšŞú·¿Úœö—À­œüäñòâç>ÖÜÚ;ñ‰cåôçŸknûKà€Ö†o`GŸyOskgo€“8 µãê•µ¯}¡¹Mîåoœ¨wQ˜Ê…o¬Ç‚Iÿí4Qœ…ÀSkóusøµ¶÷ì{›Ûb0µI‡E£˜É$ƒÃ"‡…QÌd¯ÁaÑÃÂ(f6npèbX%pÀ\<ékhÃÂ(æâñÁ¡«aa”Às3:8t5,Œ8`n]£˜«áà0üyKà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ªrvcĞœËáƒUsXNwî=LÚ£«ôXrƒİ¾ùŠ
+äªÛš3°¤6û[õsµ·R?Ùáˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±˜«¯½^ÿ<˜›ëÿŞ*¯lÇmı—«Ï]8`nÎüø7õóæî”µŸı±>wIà€¹¸ü§7Ëµü³¹•òêŸß,WGî]8`fıwno¿±ı¡¹í:sé×Í©ÌlıWo”oßjn»†Ÿu980“ÃÂ8]ÌäÁ°0N—ƒƒÀS{|X§«ÁAà€©ŒÆébp8`*ã†…qºhm¯aaœE´¶×°0Î¢Z™tXg‘ƒƒÀ­´ÆYÔàP¶5g`Imöwş®µÚ[©ŸìğÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XU9»1hÎ¥ªšÀ’<,š78 Ø#op‡z…–Û{»¯pUun'p‡TåöÅSõ‡ÀrÙìoÕÏÕŞJı|7;rşJ¹{'r¾¢±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€¹ºğ“«õÏÓ@à€¹¹ş¯~yå§×ÊúÆoës×˜›3?¸\?o¾ó¿²ö£_Ôç.	0—÷F¹ö×Í­”Wÿ÷rõ/×›[7˜YÿÖŸøÆöà®+Ìlø7·oİln»†Ÿu980“ÃÂ8]Ìd¯¯¡]Líñaaœ®¦2nX§‹ÁAà€©ŒÆébp8 µ½†…q=8ĞÚ´_7=8ĞÊ¤ÃÂ8‹heo`‹ªêÜÆ`x8t *·/ª?–Ëf«~®öVêç»Ù‘óWÊİûuÖ¼Á¹ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	Kà€XÄ8 –À±ˆ%p@,b	«*g7Í¹>X5'€åtçŞÃ¤=¸Jß€%7Øí›¯¨@ªRş<>ºÓM/Ó-    IEND®B`‚
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/client-zone-column-width.css.xhtml?ln=css
+
+@charset "utf-8";
+
+.pseudo-table .cpcol1 { width: 520px; }
+
+.pseudo-table .cpcol2 { width: 320px; }
+
+.pseudo-table .cpacol1 { width: 170px; }
+
+.pseudo-table .cpacol2 { width: 180px; }
+
+.pseudo-table .cpacol3 { width: 170px; }
+
+.pseudo-table .cpacol4 { width: 160px; }
+
+.pseudo-table .cpacol5 { width: 100px; }
+
+.pseudo-table .pcpacol1 { width: 240px; }
+
+.pseudo-table .pcpacol2 { width: 230px; }
+
+.pseudo-table .pcpacol3 { width: 220px; }
+
+.pseudo-table .pcpacol4 { width: 210px; }
+
+.pseudo-table .pcpacol5 { width: 150px; }
+
+.pseudo-table .uopcol1 { width: 500px; }
+
+.pseudo-table .uopcol2 { width: 180px; }
+
+.pseudo-table .uopcol3 { width: 140px; }
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/jquery-ui-1.10.3.custom.min.css.xhtml?ln=css
+
+@charset "utf-8";
+
+.ui-helper-hidden { display: none; }
+
+.ui-helper-hidden-accessible { border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; }
+
+.ui-helper-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; line-height: 1.3; text-decoration: none; font-size: 100%; list-style: none; }
+
+.ui-helper-clearfix::before, .ui-helper-clearfix::after { content: ""; display: table; border-collapse: collapse; }
+
+.ui-helper-clearfix::after { clear: both; }
+
+.ui-helper-clearfix { min-height: 0px; }
+
+.ui-helper-zfix { width: 100%; height: 100%; top: 0px; left: 0px; position: absolute; opacity: 0; }
+
+.ui-front { z-index: 100; }
+
+.ui-state-disabled { cursor: default !important; }
+
+.ui-icon { display: block; text-indent: -99999px; overflow: hidden; background-repeat: no-repeat; }
+
+.ui-widget-overlay { position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; }
+
+.ui-resizable { position: relative; }
+
+.ui-resizable-handle { position: absolute; font-size: 0.1px; display: block; }
+
+.ui-resizable-disabled .ui-resizable-handle, .ui-resizable-autohide .ui-resizable-handle { display: none; }
+
+.ui-resizable-n { cursor: n-resize; height: 7px; width: 100%; top: -5px; left: 0px; }
+
+.ui-resizable-s { cursor: s-resize; height: 7px; width: 100%; bottom: -5px; left: 0px; }
+
+.ui-resizable-e { cursor: e-resize; width: 7px; right: -5px; top: 0px; height: 100%; }
+
+.ui-resizable-w { cursor: w-resize; width: 7px; left: -5px; top: 0px; height: 100%; }
+
+.ui-resizable-se { cursor: se-resize; width: 12px; height: 12px; right: 1px; bottom: 1px; }
+
+.ui-resizable-sw { cursor: sw-resize; width: 9px; height: 9px; left: -5px; bottom: -5px; }
+
+.ui-resizable-nw { cursor: nw-resize; width: 9px; height: 9px; left: -5px; top: -5px; }
+
+.ui-resizable-ne { cursor: ne-resize; width: 9px; height: 9px; right: -5px; top: -5px; }
+
+.ui-selectable-helper { position: absolute; z-index: 100; border: 1px dotted black; }
+
+.ui-accordion .ui-accordion-header { display: block; cursor: pointer; position: relative; margin-top: 2px; padding: 0.5em 0.5em 0.5em 0.7em; min-height: 0px; }
+
+.ui-accordion .ui-accordion-icons { padding-left: 2.2em; }
+
+.ui-accordion .ui-accordion-noicons { padding-left: 0.7em; }
+
+.ui-accordion .ui-accordion-icons .ui-accordion-icons { padding-left: 2.2em; }
+
+.ui-accordion .ui-accordion-header .ui-accordion-header-icon { position: absolute; left: 0.5em; top: 50%; margin-top: -8px; }
+
+.ui-accordion .ui-accordion-content { padding: 1em 2.2em; border-top: 0px; overflow: auto; }
+
+.ui-autocomplete { position: absolute; top: 0px; left: 0px; cursor: default; }
+
+.ui-button { display: inline-block; position: relative; padding: 0px; line-height: normal; margin-right: 0.1em; cursor: pointer; vertical-align: middle; text-align: center; overflow: visible; }
+
+.ui-button, .ui-button:link, .ui-button:visited, .ui-button:hover, .ui-button:active { text-decoration: none; }
+
+.ui-button-icon-only { width: 2.2em; }
+
+button.ui-button-icon-only { width: 2.4em; }
+
+.ui-button-icons-only { width: 3.4em; }
+
+button.ui-button-icons-only { width: 3.7em; }
+
+.ui-button .ui-button-text { display: block; line-height: normal; }
+
+.ui-button-text-only .ui-button-text { padding: 0.4em 1em; }
+
+.ui-button-icon-only .ui-button-text, .ui-button-icons-only .ui-button-text { padding: 0.4em; text-indent: -1e+07px; }
+
+.ui-button-text-icon-primary .ui-button-text, .ui-button-text-icons .ui-button-text { padding: 0.4em 1em 0.4em 2.1em; }
+
+.ui-button-text-icon-secondary .ui-button-text, .ui-button-text-icons .ui-button-text { padding: 0.4em 2.1em 0.4em 1em; }
+
+.ui-button-text-icons .ui-button-text { padding-left: 2.1em; padding-right: 2.1em; }
+
+input.ui-button { padding: 0.4em 1em; }
+
+.ui-button-icon-only .ui-icon, .ui-button-text-icon-primary .ui-icon, .ui-button-text-icon-secondary .ui-icon, .ui-button-text-icons .ui-icon, .ui-button-icons-only .ui-icon { position: absolute; top: 50%; margin-top: -8px; }
+
+.ui-button-icon-only .ui-icon { left: 50%; margin-left: -8px; }
+
+.ui-button-text-icon-primary .ui-button-icon-primary, .ui-button-text-icons .ui-button-icon-primary, .ui-button-icons-only .ui-button-icon-primary { left: 0.5em; }
+
+.ui-button-text-icon-secondary .ui-button-icon-secondary, .ui-button-text-icons .ui-button-icon-secondary, .ui-button-icons-only .ui-button-icon-secondary { right: 0.5em; }
+
+.ui-buttonset { margin-right: 7px; }
+
+.ui-buttonset .ui-button { margin-left: 0px; margin-right: -0.3em; }
+
+.ui-datepicker { width: 17em; padding: 0.2em 0.2em 0px; display: none; }
+
+.ui-datepicker .ui-datepicker-header { position: relative; padding: 0.2em 0px; }
+
+.ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next { position: absolute; top: 2px; width: 1.8em; height: 1.8em; }
+
+.ui-datepicker .ui-datepicker-prev-hover, .ui-datepicker .ui-datepicker-next-hover { top: 1px; }
+
+.ui-datepicker .ui-datepicker-prev { left: 2px; }
+
+.ui-datepicker .ui-datepicker-next { right: 2px; }
+
+.ui-datepicker .ui-datepicker-prev-hover { left: 1px; }
+
+.ui-datepicker .ui-datepicker-next-hover { right: 1px; }
+
+.ui-datepicker .ui-datepicker-prev span, .ui-datepicker .ui-datepicker-next span { display: block; position: absolute; left: 50%; margin-left: -8px; top: 50%; margin-top: -8px; }
+
+.ui-datepicker .ui-datepicker-title { margin: 0px 2.3em; line-height: 1.8em; text-align: center; }
+
+.ui-datepicker .ui-datepicker-title select { font-size: 1em; margin: 1px 0px; }
+
+.ui-datepicker select.ui-datepicker-month-year { width: 100%; }
+
+.ui-datepicker select.ui-datepicker-month, .ui-datepicker select.ui-datepicker-year { width: 49%; }
+
+.ui-datepicker table { width: 100%; font-size: 0.9em; border-collapse: collapse; margin: 0px 0px 0.4em; }
+
+.ui-datepicker th { padding: 0.7em 0.3em; text-align: center; font-weight: bold; border: 0px; }
+
+.ui-datepicker td { border: 0px; padding: 1px; }
+
+.ui-datepicker td span, .ui-datepicker td a { display: block; padding: 0.2em; text-align: right; text-decoration: none; }
+
+.ui-datepicker .ui-datepicker-buttonpane { background-image: none; margin: 0.7em 0px 0px; padding: 0px 0.2em; border-left: 0px; border-right: 0px; border-bottom: 0px; }
+
+.ui-datepicker .ui-datepicker-buttonpane button { float: right; margin: 0.5em 0.2em 0.4em; cursor: pointer; padding: 0.2em 0.6em 0.3em; width: auto; overflow: visible; }
+
+.ui-datepicker .ui-datepicker-buttonpane button.ui-datepicker-current { float: left; }
+
+.ui-datepicker.ui-datepicker-multi { width: auto; }
+
+.ui-datepicker-multi .ui-datepicker-group { float: left; }
+
+.ui-datepicker-multi .ui-datepicker-group table { width: 95%; margin: 0px auto 0.4em; }
+
+.ui-datepicker-multi-2 .ui-datepicker-group { width: 50%; }
+
+.ui-datepicker-multi-3 .ui-datepicker-group { width: 33.3%; }
+
+.ui-datepicker-multi-4 .ui-datepicker-group { width: 25%; }
+
+.ui-datepicker-multi .ui-datepicker-group-last .ui-datepicker-header, .ui-datepicker-multi .ui-datepicker-group-middle .ui-datepicker-header { border-left-width: 0px; }
+
+.ui-datepicker-multi .ui-datepicker-buttonpane { clear: left; }
+
+.ui-datepicker-row-break { clear: both; width: 100%; font-size: 0px; }
+
+.ui-datepicker-rtl { direction: rtl; }
+
+.ui-datepicker-rtl .ui-datepicker-prev { right: 2px; left: auto; }
+
+.ui-datepicker-rtl .ui-datepicker-next { left: 2px; right: auto; }
+
+.ui-datepicker-rtl .ui-datepicker-prev:hover { right: 1px; left: auto; }
+
+.ui-datepicker-rtl .ui-datepicker-next:hover { left: 1px; right: auto; }
+
+.ui-datepicker-rtl .ui-datepicker-buttonpane { clear: right; }
+
+.ui-datepicker-rtl .ui-datepicker-buttonpane button { float: left; }
+
+.ui-datepicker-rtl .ui-datepicker-buttonpane button.ui-datepicker-current, .ui-datepicker-rtl .ui-datepicker-group { float: right; }
+
+.ui-datepicker-rtl .ui-datepicker-group-last .ui-datepicker-header, .ui-datepicker-rtl .ui-datepicker-group-middle .ui-datepicker-header { border-right-width: 0px; border-left-width: 1px; }
+
+.ui-dialog { position: absolute; top: 0px; left: 0px; padding: 0.2em; outline: 0px; }
+
+.ui-dialog .ui-dialog-titlebar { padding: 0.4em 1em; position: relative; }
+
+.ui-dialog .ui-dialog-title { float: left; margin: 0.1em 0px; white-space: nowrap; width: 90%; overflow: hidden; text-overflow: ellipsis; }
+
+.ui-dialog .ui-dialog-titlebar-close { position: absolute; right: 0.3em; top: 50%; width: 21px; margin: -10px 0px 0px; padding: 1px; height: 20px; }
+
+.ui-dialog .ui-dialog-content { position: relative; border: 0px; padding: 0.5em 1em; background: none; overflow: auto; }
+
+.ui-dialog .ui-dialog-buttonpane { text-align: left; border-width: 1px 0px 0px; background-image: none; margin-top: 0.5em; padding: 0.3em 1em 0.5em 0.4em; }
+
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset { float: right; }
+
+.ui-dialog .ui-dialog-buttonpane button { margin: 0.5em 0.4em 0.5em 0px; cursor: pointer; }
+
+.ui-dialog .ui-resizable-se { width: 12px; height: 12px; right: -5px; bottom: -5px; background-position: 16px 16px; }
+
+.ui-draggable .ui-dialog-titlebar { cursor: move; }
+
+.ui-menu { list-style: none; padding: 2px; margin: 0px; display: block; outline: none; }
+
+.ui-menu .ui-menu { margin-top: -3px; position: absolute; }
+
+.ui-menu .ui-menu-item { margin: 0px; padding: 0px; width: 100%; list-style-image: url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"); }
+
+.ui-menu .ui-menu-divider { margin: 5px -2px; height: 0px; font-size: 0px; line-height: 0; border-width: 1px 0px 0px; }
+
+.ui-menu .ui-menu-item a { text-decoration: none; display: block; padding: 2px 0.4em; line-height: 1.5; min-height: 0px; font-weight: normal; }
+
+.ui-menu .ui-menu-item a.ui-state-focus, .ui-menu .ui-menu-item a.ui-state-active { font-weight: normal; margin: -1px; }
+
+.ui-menu .ui-state-disabled { font-weight: normal; margin: 0.4em 0px 0.2em; line-height: 1.5; }
+
+.ui-menu .ui-state-disabled a { cursor: default; }
+
+.ui-menu-icons { position: relative; }
+
+.ui-menu-icons .ui-menu-item a { position: relative; padding-left: 2em; }
+
+.ui-menu .ui-icon { position: absolute; top: 0.2em; left: 0.2em; }
+
+.ui-menu .ui-menu-icon { position: static; float: right; }
+
+.ui-progressbar { height: 2em; text-align: left; overflow: hidden; }
+
+.ui-progressbar .ui-progressbar-value { margin: -1px; height: 100%; }
+
+.ui-progressbar .ui-progressbar-overlay { background: url("/pz/javax.faces.resource/images/jquery-ui/animated-overlay.gif.xhtml"); height: 100%; opacity: 0.25; }
+
+.ui-progressbar-indeterminate .ui-progressbar-value { background-image: none; }
+
+.ui-slider { position: relative; text-align: left; }
+
+.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 1.2em; height: 1.2em; cursor: default; }
+
+.ui-slider .ui-slider-range { position: absolute; z-index: 1; font-size: 0.7em; display: block; border: 0px; background-position: 0px 0px; }
+
+.ui-slider.ui-state-disabled .ui-slider-handle, .ui-slider.ui-state-disabled .ui-slider-range { filter: inherit; }
+
+.ui-slider-horizontal { height: 0.8em; }
+
+.ui-slider-horizontal .ui-slider-handle { top: -0.3em; margin-left: -0.6em; }
+
+.ui-slider-horizontal .ui-slider-range { top: 0px; height: 100%; }
+
+.ui-slider-horizontal .ui-slider-range-min { left: 0px; }
+
+.ui-slider-horizontal .ui-slider-range-max { right: 0px; }
+
+.ui-slider-vertical { width: 0.8em; height: 100px; }
+
+.ui-slider-vertical .ui-slider-handle { left: -0.3em; margin-left: 0px; margin-bottom: -0.6em; }
+
+.ui-slider-vertical .ui-slider-range { left: 0px; width: 100%; }
+
+.ui-slider-vertical .ui-slider-range-min { bottom: 0px; }
+
+.ui-slider-vertical .ui-slider-range-max { top: 0px; }
+
+.ui-spinner { position: relative; display: inline-block; overflow: hidden; padding: 0px; vertical-align: middle; }
+
+.ui-spinner-input { border: none; background: none; color: inherit; padding: 0px; margin: 0.2em 22px 0.2em 0.4em; vertical-align: middle; }
+
+.ui-spinner-button { width: 16px; height: 50%; font-size: 0.5em; padding: 0px; margin: 0px; text-align: center; position: absolute; cursor: default; display: block; overflow: hidden; right: 0px; }
+
+.ui-spinner a.ui-spinner-button { border-top: none; border-bottom: none; border-right: none; }
+
+.ui-spinner .ui-icon { position: absolute; margin-top: -8px; top: 50%; left: 0px; }
+
+.ui-spinner-up { top: 0px; }
+
+.ui-spinner-down { bottom: 0px; }
+
+.ui-spinner .ui-icon-triangle-1-s { background-position: -65px -16px; }
+
+.ui-tabs { position: relative; padding: 0.2em; }
+
+.ui-tabs .ui-tabs-nav { margin: 0px; padding: 0.2em 0.2em 0px; }
+
+.ui-tabs .ui-tabs-nav li { list-style: none; float: left; position: relative; top: 0px; margin: 1px 0.2em 0px 0px; border-bottom-width: 0px; padding: 0px; white-space: nowrap; }
+
+.ui-tabs .ui-tabs-nav li a { float: left; padding: 0.5em 1em; text-decoration: none; }
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-active { margin-bottom: -1px; padding-bottom: 1px; }
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-active a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-tabs-loading a { cursor: text; }
+
+.ui-tabs .ui-tabs-nav li a, .ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-active a { cursor: pointer; }
+
+.ui-tabs .ui-tabs-panel { display: block; border-width: 0px; padding: 1em 1.4em; background: none; }
+
+.ui-tooltip { padding: 8px; position: absolute; z-index: 9999; max-width: 300px; box-shadow: rgb(170, 170, 170) 0px 0px 5px; }
+
+body .ui-tooltip { border-width: 2px; }
+
+.ui-widget { font-family: Arial, Helvetica, sans-serif; font-size: 15px; }
+
+.ui-widget .ui-widget { font-size: 1em; }
+
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button { font-family: Arial, Helvetica, sans-serif; font-size: 1em; }
+
+.ui-widget-content { border: 1px solid rgb(221, 221, 221); background: url("/pz/javax.faces.resource/images/jquery-ui/ui-bg_flat_100_ffffff_40x100.png.xhtml") 50% 50% repeat-x rgb(255, 255, 255); color: rgb(51, 51, 51); }
+
+.ui-widget-content a { color: rgb(51, 51, 51); }
+
+.ui-widget-header { border: 1px solid rgb(204, 204, 204); background: 50% 50% repeat-x rgb(204, 204, 204); color: rgb(255, 255, 255); font-weight: bold; }
+
+.ui-widget-header a { color: rgb(255, 255, 255); }
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default { border: 1px solid rgb(255, 255, 255); background: url("/pz/javax.faces.resource/images/jquery-ui/ui-bg_flat_100_f6f6f6_40x100.png.xhtml") 50% 50% repeat-x rgb(246, 246, 246); font-weight: normal; color: rgb(70, 76, 84); }
+
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited { color: rgb(70, 76, 84); text-decoration: none; }
+
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus { border: 1px solid rgb(0, 113, 179); background: url("/pz/javax.faces.resource/images/jquery-ui/ui-bg_flat_100_f6f6f6_40x100.png.xhtml") 50% 50% repeat-x rgb(246, 246, 246); font-weight: normal; color: rgb(70, 76, 84); }
+
+.ui-state-hover a, .ui-state-hover a:hover, .ui-state-hover a:link, .ui-state-hover a:visited { color: rgb(70, 76, 84); text-decoration: none; }
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active { border: 1px solid rgb(0, 113, 179); background: url("/pz/javax.faces.resource/images/jquery-ui/ui-bg_flat_65_0071B3_40x100.png.xhtml") 50% 50% repeat-x rgb(0, 113, 179); font-weight: normal; color: rgb(255, 255, 255); }
+
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited { color: rgb(255, 255, 255); text-decoration: none; }
+
+.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight { border: 1px solid rgb(0, 113, 179); background: url("/pz/javax.faces.resource/images/jquery-ui/ui-bg_flat_75_0094EC_40x100.png.xhtml") 50% 50% repeat-x rgb(0, 148, 236); color: rgb(255, 255, 255); }
+
+.ui-state-highlight a, .ui-widget-content .ui-state-highlight a, .ui-widget-header .ui-state-highlight a { color: rgb(255, 255, 255); }
+
+.ui-state-error, .ui-widget-content .ui-state-error, .ui-widget-header .ui-state-error { border: 1px solid rgb(205, 10, 10); background: url("/pz/javax.faces.resource/images/jquery-ui/ui-bg_flat_18_b81900_40x100.png.xhtml") 50% 50% repeat-x rgb(184, 25, 0); color: rgb(255, 255, 255); }
+
+.ui-state-error a, .ui-widget-content .ui-state-error a, .ui-widget-header .ui-state-error a { color: rgb(255, 255, 255); }
+
+.ui-state-error-text, .ui-widget-content .ui-state-error-text, .ui-widget-header .ui-state-error-text { color: rgb(255, 255, 255); }
+
+.ui-priority-primary, .ui-widget-content .ui-priority-primary, .ui-widget-header .ui-priority-primary { font-weight: bold; }
+
+.ui-priority-secondary, .ui-widget-content .ui-priority-secondary, .ui-widget-header .ui-priority-secondary { opacity: 0.7; font-weight: normal; }
+
+.ui-state-disabled, .ui-widget-content .ui-state-disabled, .ui-widget-header .ui-state-disabled { opacity: 0.35; background-image: none; }
+
+.ui-state-disabled .ui-icon { }
+
+.ui-icon { width: 16px; height: 16px; }
+
+.ui-icon, .ui-widget-content .ui-icon { background-image: url("/pz/javax.faces.resource/images/jquery-ui/ui-icons_222222_256x240.png.xhtml"); }
+
+.ui-widget-header .ui-icon { background-image: url("/pz/javax.faces.resource/images/jquery-ui/ui-icons_ffffff_256x240.png.xhtml"); }
+
+.ui-state-default .ui-icon { background-image: url("/pz/javax.faces.resource/images/jquery-ui/ui-icons_0071B3_256x240.png.xhtml"); }
+
+.ui-state-hover .ui-icon, .ui-state-focus .ui-icon { background-image: url("/pz/javax.faces.resource/images/jquery-ui/ui-icons_0071B3_256x240.png.xhtml"); }
+
+.ui-state-active .ui-icon { background-image: url("/pz/javax.faces.resource/images/jquery-ui/ui-icons_0071B3_256x240.png.xhtml"); }
+
+.ui-state-highlight .ui-icon { background-image: url("/pz/javax.faces.resource/images/jquery-ui/ui-icons_228ef1_256x240.png.xhtml"); }
+
+.ui-state-error .ui-icon, .ui-state-error-text .ui-icon { background-image: url("/pz/javax.faces.resource/images/jquery-ui/ui-icons_ffd27a_256x240.png.xhtml"); }
+
+.ui-icon-blank { background-position: 16px 16px; }
+
+.ui-icon-carat-1-n { background-position: 0px 0px; }
+
+.ui-icon-carat-1-ne { background-position: -16px 0px; }
+
+.ui-icon-carat-1-e { background-position: -32px 0px; }
+
+.ui-icon-carat-1-se { background-position: -48px 0px; }
+
+.ui-icon-carat-1-s { background-position: -64px 0px; }
+
+.ui-icon-carat-1-sw { background-position: -80px 0px; }
+
+.ui-icon-carat-1-w { background-position: -96px 0px; }
+
+.ui-icon-carat-1-nw { background-position: -112px 0px; }
+
+.ui-icon-carat-2-n-s { background-position: -128px 0px; }
+
+.ui-icon-carat-2-e-w { background-position: -144px 0px; }
+
+.ui-icon-triangle-1-n { background-position: 0px -16px; }
+
+.ui-icon-triangle-1-ne { background-position: -16px -16px; }
+
+.ui-icon-triangle-1-e { background-position: -32px -16px; }
+
+.ui-icon-triangle-1-se { background-position: -48px -16px; }
+
+.ui-icon-triangle-1-s { background-position: -64px -16px; }
+
+.ui-icon-triangle-1-sw { background-position: -80px -16px; }
+
+.ui-icon-triangle-1-w { background-position: -96px -16px; }
+
+.ui-icon-triangle-1-nw { background-position: -112px -16px; }
+
+.ui-icon-triangle-2-n-s { background-position: -128px -16px; }
+
+.ui-icon-triangle-2-e-w { background-position: -144px -16px; }
+
+.ui-icon-arrow-1-n { background-position: 0px -32px; }
+
+.ui-icon-arrow-1-ne { background-position: -16px -32px; }
+
+.ui-icon-arrow-1-e { background-position: -32px -32px; }
+
+.ui-icon-arrow-1-se { background-position: -48px -32px; }
+
+.ui-icon-arrow-1-s { background-position: -64px -32px; }
+
+.ui-icon-arrow-1-sw { background-position: -80px -32px; }
+
+.ui-icon-arrow-1-w { background-position: -96px -32px; }
+
+.ui-icon-arrow-1-nw { background-position: -112px -32px; }
+
+.ui-icon-arrow-2-n-s { background-position: -128px -32px; }
+
+.ui-icon-arrow-2-ne-sw { background-position: -144px -32px; }
+
+.ui-icon-arrow-2-e-w { background-position: -160px -32px; }
+
+.ui-icon-arrow-2-se-nw { background-position: -176px -32px; }
+
+.ui-icon-arrowstop-1-n { background-position: -192px -32px; }
+
+.ui-icon-arrowstop-1-e { background-position: -208px -32px; }
+
+.ui-icon-arrowstop-1-s { background-position: -224px -32px; }
+
+.ui-icon-arrowstop-1-w { background-position: -240px -32px; }
+
+.ui-icon-arrowthick-1-n { background-position: 0px -48px; }
+
+.ui-icon-arrowthick-1-ne { background-position: -16px -48px; }
+
+.ui-icon-arrowthick-1-e { background-position: -32px -48px; }
+
+.ui-icon-arrowthick-1-se { background-position: -48px -48px; }
+
+.ui-icon-arrowthick-1-s { background-position: -64px -48px; }
+
+.ui-icon-arrowthick-1-sw { background-position: -80px -48px; }
+
+.ui-icon-arrowthick-1-w { background-position: -96px -48px; }
+
+.ui-icon-arrowthick-1-nw { background-position: -112px -48px; }
+
+.ui-icon-arrowthick-2-n-s { background-position: -128px -48px; }
+
+.ui-icon-arrowthick-2-ne-sw { background-position: -144px -48px; }
+
+.ui-icon-arrowthick-2-e-w { background-position: -160px -48px; }
+
+.ui-icon-arrowthick-2-se-nw { background-position: -176px -48px; }
+
+.ui-icon-arrowthickstop-1-n { background-position: -192px -48px; }
+
+.ui-icon-arrowthickstop-1-e { background-position: -208px -48px; }
+
+.ui-icon-arrowthickstop-1-s { background-position: -224px -48px; }
+
+.ui-icon-arrowthickstop-1-w { background-position: -240px -48px; }
+
+.ui-icon-arrowreturnthick-1-w { background-position: 0px -64px; }
+
+.ui-icon-arrowreturnthick-1-n { background-position: -16px -64px; }
+
+.ui-icon-arrowreturnthick-1-e { background-position: -32px -64px; }
+
+.ui-icon-arrowreturnthick-1-s { background-position: -48px -64px; }
+
+.ui-icon-arrowreturn-1-w { background-position: -64px -64px; }
+
+.ui-icon-arrowreturn-1-n { background-position: -80px -64px; }
+
+.ui-icon-arrowreturn-1-e { background-position: -96px -64px; }
+
+.ui-icon-arrowreturn-1-s { background-position: -112px -64px; }
+
+.ui-icon-arrowrefresh-1-w { background-position: -128px -64px; }
+
+.ui-icon-arrowrefresh-1-n { background-position: -144px -64px; }
+
+.ui-icon-arrowrefresh-1-e { background-position: -160px -64px; }
+
+.ui-icon-arrowrefresh-1-s { background-position: -176px -64px; }
+
+.ui-icon-arrow-4 { background-position: 0px -80px; }
+
+.ui-icon-arrow-4-diag { background-position: -16px -80px; }
+
+.ui-icon-extlink { background-position: -32px -80px; }
+
+.ui-icon-newwin { background-position: -48px -80px; }
+
+.ui-icon-refresh { background-position: -64px -80px; }
+
+.ui-icon-shuffle { background-position: -80px -80px; }
+
+.ui-icon-transfer-e-w { background-position: -96px -80px; }
+
+.ui-icon-transferthick-e-w { background-position: -112px -80px; }
+
+.ui-icon-folder-collapsed { background-position: 0px -96px; }
+
+.ui-icon-folder-open { background-position: -16px -96px; }
+
+.ui-icon-document { background-position: -32px -96px; }
+
+.ui-icon-document-b { background-position: -48px -96px; }
+
+.ui-icon-note { background-position: -64px -96px; }
+
+.ui-icon-mail-closed { background-position: -80px -96px; }
+
+.ui-icon-mail-open { background-position: -96px -96px; }
+
+.ui-icon-suitcase { background-position: -112px -96px; }
+
+.ui-icon-comment { background-position: -128px -96px; }
+
+.ui-icon-person { background-position: -144px -96px; }
+
+.ui-icon-print { background-position: -160px -96px; }
+
+.ui-icon-trash { background-position: -176px -96px; }
+
+.ui-icon-locked { background-position: -192px -96px; }
+
+.ui-icon-unlocked { background-position: -208px -96px; }
+
+.ui-icon-bookmark { background-position: -224px -96px; }
+
+.ui-icon-tag { background-position: -240px -96px; }
+
+.ui-icon-home { background-position: 0px -112px; }
+
+.ui-icon-flag { background-position: -16px -112px; }
+
+.ui-icon-calendar { background-position: -32px -112px; }
+
+.ui-icon-cart { background-position: -48px -112px; }
+
+.ui-icon-pencil { background-position: -64px -112px; }
+
+.ui-icon-clock { background-position: -80px -112px; }
+
+.ui-icon-disk { background-position: -96px -112px; }
+
+.ui-icon-calculator { background-position: -112px -112px; }
+
+.ui-icon-zoomin { background-position: -128px -112px; }
+
+.ui-icon-zoomout { background-position: -144px -112px; }
+
+.ui-icon-search { background-position: -160px -112px; }
+
+.ui-icon-wrench { background-position: -176px -112px; }
+
+.ui-icon-gear { background-position: -192px -112px; }
+
+.ui-icon-heart { background-position: -208px -112px; }
+
+.ui-icon-star { background-position: -224px -112px; }
+
+.ui-icon-link { background-position: -240px -112px; }
+
+.ui-icon-cancel { background-position: 0px -128px; }
+
+.ui-icon-plus { background-position: -16px -128px; }
+
+.ui-icon-plusthick { background-position: -32px -128px; }
+
+.ui-icon-minus { background-position: -48px -128px; }
+
+.ui-icon-minusthick { background-position: -64px -128px; }
+
+.ui-icon-close { background-position: -80px -128px; }
+
+.ui-icon-closethick { background-position: -96px -128px; }
+
+.ui-icon-key { background-position: -112px -128px; }
+
+.ui-icon-lightbulb { background-position: -128px -128px; }
+
+.ui-icon-scissors { background-position: -144px -128px; }
+
+.ui-icon-clipboard { background-position: -160px -128px; }
+
+.ui-icon-copy { background-position: -176px -128px; }
+
+.ui-icon-contact { background-position: -192px -128px; }
+
+.ui-icon-image { background-position: -208px -128px; }
+
+.ui-icon-video { background-position: -224px -128px; }
+
+.ui-icon-script { background-position: -240px -128px; }
+
+.ui-icon-alert { background-position: 0px -144px; }
+
+.ui-icon-info { background-position: -16px -144px; }
+
+.ui-icon-notice { background-position: -32px -144px; }
+
+.ui-icon-help { background-position: -48px -144px; }
+
+.ui-icon-check { background-position: -64px -144px; }
+
+.ui-icon-bullet { background-position: -80px -144px; }
+
+.ui-icon-radio-on { background-position: -96px -144px; }
+
+.ui-icon-radio-off { background-position: -112px -144px; }
+
+.ui-icon-pin-w { background-position: -128px -144px; }
+
+.ui-icon-pin-s { background-position: -144px -144px; }
+
+.ui-icon-play { background-position: 0px -160px; }
+
+.ui-icon-pause { background-position: -16px -160px; }
+
+.ui-icon-seek-next { background-position: -32px -160px; }
+
+.ui-icon-seek-prev { background-position: -48px -160px; }
+
+.ui-icon-seek-end { background-position: -64px -160px; }
+
+.ui-icon-seek-start { background-position: -80px -160px; }
+
+.ui-icon-seek-first { background-position: -80px -160px; }
+
+.ui-icon-stop { background-position: -96px -160px; }
+
+.ui-icon-eject { background-position: -112px -160px; }
+
+.ui-icon-volume-off { background-position: -128px -160px; }
+
+.ui-icon-volume-on { background-position: -144px -160px; }
+
+.ui-icon-power { background-position: 0px -176px; }
+
+.ui-icon-signal-diag { background-position: -16px -176px; }
+
+.ui-icon-signal { background-position: -32px -176px; }
+
+.ui-icon-battery-0 { background-position: -48px -176px; }
+
+.ui-icon-battery-1 { background-position: -64px -176px; }
+
+.ui-icon-battery-2 { background-position: -80px -176px; }
+
+.ui-icon-battery-3 { background-position: -96px -176px; }
+
+.ui-icon-circle-plus { background-position: 0px -192px; }
+
+.ui-icon-circle-minus { background-position: -16px -192px; }
+
+.ui-icon-circle-close { background-position: -32px -192px; }
+
+.ui-icon-circle-triangle-e { background-position: -48px -192px; }
+
+.ui-icon-circle-triangle-s { background-position: -64px -192px; }
+
+.ui-icon-circle-triangle-w { background-position: -80px -192px; }
+
+.ui-icon-circle-triangle-n { background-position: -96px -192px; }
+
+.ui-icon-circle-arrow-e { background-position: -112px -192px; }
+
+.ui-icon-circle-arrow-s { background-position: -128px -192px; }
+
+.ui-icon-circle-arrow-w { background-position: -144px -192px; }
+
+.ui-icon-circle-arrow-n { background-position: -160px -192px; }
+
+.ui-icon-circle-zoomin { background-position: -176px -192px; }
+
+.ui-icon-circle-zoomout { background-position: -192px -192px; }
+
+.ui-icon-circle-check { background-position: -208px -192px; }
+
+.ui-icon-circlesmall-plus { background-position: 0px -208px; }
+
+.ui-icon-circlesmall-minus { background-position: -16px -208px; }
+
+.ui-icon-circlesmall-close { background-position: -32px -208px; }
+
+.ui-icon-squaresmall-plus { background-position: -48px -208px; }
+
+.ui-icon-squaresmall-minus { background-position: -64px -208px; }
+
+.ui-icon-squaresmall-close { background-position: -80px -208px; }
+
+.ui-icon-grip-dotted-vertical { background-position: 0px -224px; }
+
+.ui-icon-grip-dotted-horizontal { background-position: -16px -224px; }
+
+.ui-icon-grip-solid-vertical { background-position: -32px -224px; }
+
+.ui-icon-grip-solid-horizontal { background-position: -48px -224px; }
+
+.ui-icon-gripsmall-diagonal-se { background-position: -64px -224px; }
+
+.ui-icon-grip-diagonal-se { background-position: -80px -224px; }
+
+.ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl { border-top-left-radius: 3px; }
+
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr { border-top-right-radius: 3px; }
+
+.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl { border-bottom-left-radius: 3px; }
+
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br { border-bottom-right-radius: 3px; }
+
+.ui-widget-overlay { background: url("/pz/javax.faces.resource/images/jquery-ui/ui-bg_flat_20_666666_40x100.png.xhtml") 50% 50% repeat-x rgb(102, 102, 102); opacity: 0.5; }
+
+.ui-widget-shadow { margin: -5px 0px 0px -5px; padding: 5px; background: url("/pz/javax.faces.resource/images/jquery-ui/ui-bg_flat_10_000000_40x100.png.xhtml") 50% 50% repeat-x rgb(0, 0, 0); opacity: 0.2; border-radius: 5px; }
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/logo_pz-client_zone.png.xhtml?ln=images
+
+‰PNG
+
+   IHDR   á   Z   N¾1Ì   sRGB ®Îé   bKGD ÿ ÿ ÿ ½§“   	pHYs  e  eWÂ {   tIMEß Pb‘¦  _IDATxÚíw@ÇÛÇ¿×¹£H/
+JQ)"*ö5¶Xc‹=E“š˜˜cŒ±kLQcÔÄk46bC,ˆ
+¤ŠHGàèÇÕ÷Ã=Ö»£âë|şİ™½›ÛïÎÌ3Ï<Ã((,Q‚@ ¼2˜¤
+"Bˆ@ D„ˆ@ "$D„!@ "$ˆ	!@DH ˆ	"B Ø¤
+^oŸäàFDŠŠË!àsÑ¡ıÜ`bdPï2Öî8±X èîÛ#ú{“Š%"$Ô…D*ÃŠ­'qúÒk£‡øbÃ²ÉÔñ}ÑÏH,;C¶Í¿·3-ı©KP\Z	 àñØD„¤;J¨›wŸ×*@ èÒú?S|Ñ%A¬(@$·
+×Ê#-!¡©—ãğ™pêØØĞ SFõ€€ÏE|J6zø¸P×*dù´¼•òRD„„¦r?&©Œ:şqééã©5­#¿ŒÙv(•e`ÀÃx*©@"BBSÉ+(¦ûy9éLkÀ2ÅXÛãÈ«Š†€e	!§=©@"BBSKdt¡ñ8µÿÈ>ìº“Šk¥ÃÌK”WV¡¸´2¹¢ÉeÉ
+”WVÕ™N"•B\%%•OZÂ7…B‰¨øtÜ‰LFDô¤g>ÇóÂrH¤*1p¹l¸;Ûà­¾^˜0¼„&­åœ¸p¡‰ €aı=1¬oDÅ¥ã×ı—•
+©LkSìY?.í¬©|Sqäl8îD%£PT@e`éæÓ†úc`/{ıº?Éiyx’A7¶,[l&KõVe2°nÙp9ªÖ12ö)ö£Ò~µàmX[˜¶X=Ë”•ˆ-9ˆÜª(ˆ¢å}ËjxL­×‚oÆbÇ¡WòìØX
+èë‚É£ºƒÍb6–Ââ2L]´Cwë$‘!&!1	ØsìV}6Cûxi¤‹KÎÄ…Ñ  ©\§Øö×%(ê˜Ê,&N– €*‰ßl:³!Qe•–‹‡°8ôêêŠ­+¦Ñ&İ#¦"âaªÖòş^Î”  +OD}> ødÖ`X·PK•8›=Å²´FåÏ—ÄÀÁ —ÖkmíÛ 61ó•<;±‰™¸‹‹¡1Ø»a^“…Hº£5°03†³ƒ%Œ<Úù¢âr,^}AWÖšÿêí8lİ{‘&@ ˜2ºØ,&ä
+>^y€&@6‹	/wø{9Óîv?	³–îB•¤aİÔa}½ZM}F—üÕh@^U´Îk®NÖ:{'-EÄÃT:}›´„ÍÅ¼Éı°tşpu—”…ÃgnãŸ÷ T*!W(°rëIø{9éìÎ½ßØ¡]1gbØÛ˜!*.]í ûO†!ôn"•¾»O¬[6¶–B @¥XŠõ;ÏáÈ¹ğêV6›ş8¯Våßü> `ïñØğûT9÷Ï®‚!Ÿ×êê4¯*ªIùók!ƒÁ€gZ/àUpûAŞ×‹´„ÍK·0z¸Úaõ’ñølöPê\YEªıÍ·zÉx¬ûb"Üœm`Èç¡WWWMH¥Øuøšº;eg?Ì¢ |V.‹¾îÔ¹£AÈ}^üZÖ©DQÒDÆ@©”ë¼ŞÍëÕO·T¾d©&"Ôs'÷ƒ½u|ñFt­éÇöÕzşÖƒ—SÇó§ ß€£õ¿pÆ ÚØôâGodİK•(’¥è¼àí¬ı¡f2°dŞ0üµqFWÿÖ¦Ø´|
+v®™7g @?ìY?«—Œ‡€ÏÕZ–±¡Ö,€=ëç¢[g½|O"Âºúë,&zù¹RÇéY…•T4¸œÈØ§ôÈK÷Ú¥£#Í s/æÉ[ÿùU1:¯¹··…©1_ã|¿ wÌ·?zøº`ÍÒ	ğ¹øhú@Œèşİ;âËF Ö}>½ººbâğn˜0¼›Ö{LˆñÃüÑ««+V-GDøªp°5£?/,mpÙy"Ú›ÚÖJXëxÇÁÖœ:ÎÉ/~cë>O¢»çÁd2ĞUËË¬´\=7+®’B&W ¬\¬V”WVÿ×È#ÖzÒê´/§oÖ=‘XİèF‰¬áã ‰D=¶a³YàpXµ¦ç°Õ?MM?Ñ7N„âÚ»ÿİº8#äVíÜ½˜'øbíxul‹s!QHdøí@0JËÅ0ğ°ïŸ› €¿;€É#»#+·g.Gj-ÿØ¹°˜LØZ	›ÅJDØHr^2Œ˜›5¸‹6F´q^¨fÆ:ÓŠÊ¨ÿ…¦†olİ—ÈÒ!–‹`ÀÒŞs¨¹l«&g®DárX,*Åª)J±¿ºJK“–ñ?í½©LF›Vâp¨|R™ûO†éõ;’îh=¸ÿ(M-@¡!¬-L\†K[+ÚqÊÓ<İ,*CFNuÜ±Úğf¢D¾D÷¸°£‹-ŒéQ„&íı"Ï­Æ¦åStæıdæ`D}G—ÃÙÁ\.‡¶}„Ès«±oÓüfñ†!"l¢ÑŒ*}:‚Á`4¸œş=:ÉTç;qáÎ´ÇÏß…R©~3÷©1e¡÷G^ÙúvO/Äë¼Æb2ÑÕÓ‰v.ĞÏª_z#zk5Ş¼0º0X˜cHOtvµ‡_çv Ts¸ÚY¾jÒ2cÉ‡i†€Ùz7ª,KSëÛ…:>{%ŠæNö‚˜„ü~Xİmru²A ŸK‹}gQqE«û8ÌÚ=cºyÓ»¤Ÿ¡¢R HHÍFI™vƒÊİ(• L®@dlRÓóPP=ÈÉ/Æ³ì–Y MÆ„/àA¨Kà`#D•Tø¤L\}IÉØy“úÁ½½m£ï±tşpÜzQI”J%¯>ŒAñèíï‡…ÒpôÜ]Ê‰œÅdbå¢1jy‚¹©cæâÍG`¬=0ØğåäWò[0l˜q: ¬¸p7_‡éÒô¬B}o#\œ¬ñ0ş©ÎÖ}ñ‡àÛ¹rJ©ÜÛ³· £«â“2)!¶ù…%Ø{ü†Îë“F`Ñœ¡Mº‡µ?¯œWîGI™J¥g‚#q&8Rk7kÕâwàïå¬÷ïîájG­ÌHd8sEån¶dŞ°]q ,£m5hñ±‡‹=|.M4Ï‹Jñ¼ˆ>•ÔÃÏF®İ‡L®€L®Àİhú¬¡!VfFHçó¨“G[ØZ
+r;¾Á¾¼D„Í€“ƒÍŠáıº4KyŞíqô×…XóëÜ¼—¤5›³¾ùx4¼[Æ-ëÓ™Cp7ú	ò
+ènfÑO0j O‹Ö·)Ç©Á«ÿ™x\N­-×¬ñ½©IúC§oáû_ÎhöÌŒpz×g0ğ *­ÀĞĞÓÏÛ¾ ¹‡ßî'"Ôïì7{¤>ÍƒJ89XÂÓÍnöµv•Ê†w,±{İ\<ÉÈGØİ$däB®PÀÚÂ>íáåæPë=ÇñCwïÔqm+ë{ù»âÄöO¨cÇ—  ƒÎÿµa÷ñ,»|<İàåæĞâ¿ƒ¢_Q]†¤ÿŞ¢¹j£S;ê÷ÿ×ÄÑÆœZÉ"4ÀÆRˆNÔÃ:ò6mÌŒ1iD@ƒó•6úÎ–p®^gØ Ï*4Baıæ*…Æë^òcÈçi]/ÙÒ”ÊA©”ƒÁĞíÌpõÎcì=vb	–ÕËÁıàé[ğór‚‘€‡=:†±‰¸ƒ¾‡ä§¹8yñzÀÎÚLc‘ˆ°…‰x˜Š£çÂŸœ…R	kS
+x¸~ç±º+eÌ—Cª´)È•”ÉsaÌÖİê|³éÊŠY_b20dÆ†ZÓÈä
+|ºêo#Ïèù?ÃÌ«fûÁ+øe_0ÍÊ––ñ\‹ÃTV`2Xèg±¶V*Ê:èfëOwGœ»‰ká!4`áŒÁğ¹ØùweÂÓİïíì|~;x‰ã†ù#ĞÏ7"ãLp$x,˜16mLñç‰PÄ'g¾ŠğejÃ\hˆeŒ Ö$°äzÖ.T&Î–H~š«3M Ÿe„ÒÛc¿ÇÂƒ1ãÀê¡‡>üú/lùzÚÚ©å³ó‹q÷a*Ö,ƒı»à^ÌëÛï¿Û¿z,iƒ1ïo#"li¾C	Á``ÁôAèåïŠâÒJää‹PY%…ƒµ=ı\5Ü§5ÊÈğ´â*<Œ§ÔšÎÃÍ®VÖõÂ¤.7Ğ;H_ÎDD„u_Ãe­›>™9˜TŠ`18h/^kšÇ)ÙˆKª½KxëA2Öî8«êG¢J"ÅoûU½Ÿ‹ÕQÚ¯9„÷ÆöBv¾'/ŞƒD"ÃWÿA/W„†?FV®‡ÎÜ†Ğ„ëêî(á+ P¤¸¾ÑÔúÇ– sµÄÖî8‡ä´Ü:Ëªæ D¥øqûYÚ¹ØÄL,ÛpŒvîÔ¥û8ué>u,®’bË‹Ä0£L´ù3Ë6Ú—Éåêy«ºÖ šh˜arëL3gR_„G¥4¸ì.îØºb*<|½ù®„ÅbÆ;ølÎ[ÈÊ-ÂËÿBVf\Ô¶öm°}Õ{°µbÃÎÿp4(üÿ¿³óEHHÍÁóÂR°˜L´13‚§›Ì…Í»¦Ãf¡³›½^¿Ki¹ñÉYÈÉ+†X*…™± ®Î6pr°ht™J¥3‘–ù
+™®Î6ğpµû!Â¼ªÈ:çãktÚ˜T¬ 9ûàJX,ÎC>®N69Ğ»\ÓÈ7nhW¸8©VS|0u@ëav¾¦¬«wzïNmqäçh!¢2<uAWR´´±“‰ğõÂQ´èd5yÙ¥èäOµ>œGƒÂ±rë¿Ôñõ#_iøG^HÀËÿÔÈ»ã`vTG}®é
+õ©LÓ—àä…{ˆŠO×ˆA
+ \ì°|Á¨Z¹‘ª‹ı›ß‡oçv8İGoh¼±=İí±é«)â÷åÊ5ÎÔ˜ëG–×ê]r;Vì£ÿq6úµà2*±\„Y:L9ºëåŸwUv\J&ÆÀO5®LÎ Ä'g¢guü øíãÌ¸Sõ0=Ñ,"´µ¢­}­âyƒ¯?¥á’5ç‹=HHÍÖ™O®P øf,bgàøoaÕÆ­mÛ‘ıyüFcˆøä,Ìşüü±v6õÔÆ…ë1Ø¸ë?Ä$dh½ş(!s–íÆ™?ÓÏØ—aqi%Î†Da¢€Fªû¨—VY˜£WW×&×‹a 6ƒ%(jŸ`ç00dëwWI¤È¬±Ø¹!ì;†„ÔÜjÕúÄVìGÿî•[„è„gZó]
+}„Iÿ;+3\½ßzÇ„£úâZ¸æ‹¥HIW¯ =Ä]Ü5ûùú`Ù†cšĞ7À®NÖ064@v~1N_~@:Ê}^Œ­{/bíçõ*.cCª«—”E™¼-ÍM`e¡;òyğõh§‘wÒÛİñû¡kHeèéç‚.aaf„Š*)‚CáAõa™\•ÛNáüŸKÀbÖ¾¬óĞul3SC¸9Û ²R‚˜Äê³eåŠpô\8æNêK¥ôs«“’ÒrTåœ¾­S„©”«eä@ï&¯,÷6™G~?°ª±^¥â9
+%É(”$¢Hš€BI2* ”²àkú!Ø¾Îòx\ìmÌê%DKstp²Bt|:åØ](*C•D
+yuïD&“£°¸Å5‚9	Mèäbø¤LˆJUF¹’²Jğ8Éä­W„ŸÌ¬Õt¿q×”|.–Ì¦5ÿÈÁ>PB‰¼5Ü¾ŞŸÒã>úO«=T.‡>Âêÿ×kè¿Îí(£Mç¡Ë!¯~Ğ'ŒğÇ¢Yµ/gš°ñ«Éğêè Ksz‹={|o,ÛpŒ
+*”Y€¸¤,x¹×íicjÌÇ¼Qƒ|¨:ºx#‹¾W»YİˆH ‰Á``æø^øfó	ª¾ÿ(Mc%: „F$¢¬B¥lÌ¿&×£“`í˜Ï´€½ìz4ºÌŞ]İê—µµ3Çé]‹Á7à ñIÆ¼¿ã‡ùã‡%ªu‰»\Ã–İğÓŠiÜ»3ä
+f¾‰©9Úû?´!÷y1†ÏŞ/gìøa&XL&Î\‰Âk4¿AJ_rzfü{‹:şpê İH“‰±C»jõ»4äóhÕeUÈmå! zhğ…(f§¯ÌOyZ·¹½“‹ÎíYŒñÃüiuôV_/Êhğ¢Î_fô`š³·®ˆaçktEİœmĞÉ¥u{Xìº-ÔnT`e7g˜ĞBu«^£é_½˜ÅdÂÇ£œÛZRuema
+GÛ6èêéDõTºuqÒUX_•µî÷ *TŸ£­9f52,„*¿™†ÕñuÅÎêåïR÷ş…®í¬´ŠZõÀ©[Ñ’²Jë\SF÷ qòK4ÆZ!·ã›µ¬¢’
+lÜõ>ûş>şî ÖïÂÉ÷›˜IE I2q6øAåŞºŸDÍ%¹…âÒJœ¼t¥åbH¤2©nIş{
+…ù…%¸ƒØ¤L*ĞòÈd¤<ÍEĞÕ‡x^T
+…B‰C§ï´Şî¨F%<H¦/¾xm».ícnŞKÂ¥ĞGHËÈGf©•URZˆ	 u#z™„ÔlœyˆG‰™ÈÊ+‚¨¸2™æ¦¡Mı.¦ÆjW9%´—5uTì:|©R™GÏEàã÷ÔÃ‡ëá©q‹ÉÄ¨A-³wùæ§ıÁd1áäh	{+!ø<då!61rEİ›·ŠJ+0rŞVZèÂ;‘Éè9î{0YLêyúu0ş8ròpúâßiùŸä ïäÁa³õ²ª^/"”É4Ï„î>´Zkıø–®=R/kk§¸´+¶œÀ¥Ğ–Ù?‚Å¨»3cnf„1ƒ}pü¼Ê¼,(L Nu×îÂuõgíáÛ¡E¬ÏY¹"|ñ%§åÖË;FÃûuŸ§ş»öŠ–'“+€;0;ÚšcÊ˜ÈÉáïS·!W(ĞÛßıºwBèİÜˆH  Z¹¡/êE„GÏ†SÇb2±|ÁÈÚÇY…˜÷å*"—ÃFwŸöğrWõëy\<ËÇá³wZ½ 
+%~»Ÿ¶w„{{[x;Ãª	XlX&Öî8ÛâŸmæ„ŞÔ6oy%¸|óFô÷†¸JŠ«wâZ¼+ú8%Koeûvn‡­+¦ Şy«+'¬ÖèMÀ¯«fP»JËÅ¸ŠkfƒÍbâİQİ1hÚz­^„¢’
+ü²ï2u<ñí€:£“í=~£† 9Ø³~Æ$vğÍØ×B„WÂbiülöP|8m FKù*DèÒÎ½ı]©ı¾ƒı½q-<êz	ø\éíÙ"Ÿ§¬cáÆbVcóPl­]yu:cCò)«;‡ÍŸÏm‘ºhVÃÌÏû‚©¹Sc>ÍRg5¢[ìÙ©ÑÛO±_²šé³û ‹ˆhõVÖL&3š¸yds3{¢zúâ^Ì<NÉÆùkêèÖCûxiİ®M/oş¦˜®‡'àÈ9Uì‡_Ïè µjÛ¿ˆOÎÂåĞG8yáâ“³°óï$§åâ—}ÁÔ´ØkÓ&¥åàØ9ukµ`ú`˜Õc…aå €Åª_Ğ$mˆ—÷—‹Œ{
+ßÎš“éÙQ©Ş=sYL&5æj-ôôí 7g$>QMŞï:|×ÃÕá9ÆêØ[QÔ¶GS‘+øî§ëLwõÎc\­ ~úó~úóR‹ş.Íö:úq{jà ½£%¦©ß„¬½µÚ4ôn²ré~‘±‰™Ø¼û}Ğ.Ó´µw´¢¹Ãıyü&2²Õ%eblİ{¿¸BË'•*š­2íjl&*•Éqòâ}Úõ’21Vl9A¿¿¼0´¡š¼WOıwí!ÄUªƒ­¥>Zì³ÔÜúíu†Ïmz;Ö,-aHXn?PÇĞ,-¯Â»Ÿn×š–ÃfáÈÏ¨ãı½)W®’21FÏßŠÁ½=anjˆ¸”,DD¥h8AkÛ*Ì\hO7{Ê¿2¿°#æn†§«=¤29RsµÎ=5f›3]ëë…]‡¯QÓ«¶Â•°X¸¶³FYE.†ÆĞZ~ ZúdÔ@lÙ}A#PÒ¨A>´½2ôµ…	¸\v‹ÿæ&°«Û«¡D"Ãº]A´sù…%Â/à¾ôæ˜42 ç¯GS;•UTÑUÀ ^q#ü1ÕjÔt¯ªÉò£0ëóİÔxP"‘QÑEœ2¦ş>u›JYEóMüwr±Ãœ‰}°ç˜*¤R©DèİDÊ¨\ª|§d7ûıë—ËÆÔ1=ğË¾`ÚùÑC|[ôs°˜Ltê`‡‡ñé¯­ ¼ÛÓ!^™÷ÿÖ¤ù=.‡=ëçbË8Au ÀŞÆ§Â¸aşXğí~Ê 3[»¯oçv8òóGønÛ)ÚËå²Ñ§›;Î{Ä'eQ¢ÏÈ.ÔêTŞX–Î{3l?BÃn$P¹ß}4cÎ^‰Ä÷?ŸVİ¿‘«šÂ”Q=±ëğuêeåén—Úˆşrõ€L.íÄgk%D Ÿ&½İ½Y|˜…%­Æı¤J"Eâ“\”WˆaanŒm­½JN~12r
+ÁçqáähC>¯E¿‹B¡DjzòK`dÈ‡K;ë³<Öi@*©@ßÉk©îù7Gczu$2BËÓªVÖó¸œz­(¨6–¦°±4}eß…ÉdÀÅÉšæ`İZ8yé>%@—ƒ‘ƒ}ˆ^!dÂ7q•‡k¬¤9Ğ»^aò	D„„fbÓîóx–]@e©ş`Ê R)D„}qëA2µj#;_„·ŸÅÁk<§Œî¶ömHE‘1!AdåŠ0ç‹İ Tş“5­Î Ğ±ƒ-–ÌF*Š´„}Q3æÏËôp±ÃõsÁãrHE‘– /ÜÛÛbhO<NÉ‚¨¤l6í­0b@LĞêüZßdZÕ<!@º£ˆ@ "$D„!@ "$ˆ	!@DH ˆ	"B@DH "Bˆ@ è…ÿyÇz©béà    IEND®B`‚
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/menu_icon.png.xhtml?ln=images
+
+‰PNG
+
+   IHDR   2   1   ˜«ú   tEXtSoftware Adobe ImageReadyqÉe<  (iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CC 2017 (Macintosh)" xmpMM:InstanceID="xmp.iid:6558A93F19FB11E7A078A7CE350F4734" xmpMM:DocumentID="xmp.did:6558A94019FB11E7A078A7CE350F4734"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:6558A93D19FB11E7A078A7CE350F4734" stRef:documentID="xmp.did:6558A93E19FB11E7A078A7CE350F4734"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>ƒªo   ‚IDATxÚìÙ±
+€ à.šÚòƒ,èkk5hli)ùşÙÁïôÀÈ9w-¤ï	H‘oÆe«b£ç:;‘gJÍ2¡Ù[/­£HRZ    F¥eD1¢¸~A@@¼#wöB{L_C&¥òODÍğ«R_. ˜±ƒ%I©    IEND®B`‚
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/photo.png.xhtml?ln=images
+
+‰PNG
+
+   IHDR   8   8   ¨†;   sRGB ®Îé   gAMA  ±üa    cHRM  z&  €„  ú   €è  u0  ê`  :˜  pœºQ<   	pHYs  Ä  Ä•+   tEXtSoftware Paint.NET v3.5.100ôr¡  ~IDAThCí™íJÃ0Fãtº9»¯R”Á?Şÿ‰¨Leì³›İœNû”†¬iÓ<ÁvôÀ°-&äôMò&éI¬ÄS‘–R°è”‚Eçè­§‰e°³ùR¬ÖŸÑT*Ñ¨×„sUíæUôÌÖ!ó6œˆPPdû×n({)Ÿp¡n6_b:_ˆÑÔÛíV>M‘ì…¢l¨‚ˆÚãË»–Ø>^·%<·-ï8P'tÉ¬r Qÿ6(ª`ÒxK/Ç_|È;4AÌ–v3-‹ÜåÁÕz#¯8äNĞd‚&xæ3¹í¢µ‹syeëEí ÖÆhÜéEí 
+²Ç€*x^=“WÙaÔ±M+¬AMAÌÕM9û1ë¢vÑ<Bd¥	À¬‹&ˆ]º)¨ƒ™©]ôÚë5eQú3àÃÓk´³×¡¦‡û»¾¼ãA @ªgú¹,K™4Ğ³ÂwûX©Õm;ò*=ífC^q±"ˆ#@2ü¯­cCk]T'—1óŞ_¬Ì¢ƒ·‘ğ—z‡GN#ŒúK‹ô'sm9€2(Ë†*ˆEòp<“wú ,ûÈ‚ÖE±Í1=øøVq®fXeŒ1Şfø1ñÅæKoå’¿ÛqD+5—™qúì/Ê7ˆ¦Ó¨gJ%©-ˆG3z´Ò‚¨zn+MÕDAˆavÓıfŒS¬–ºf¢¨R3Úó`øoK½íyÊ…B¬>¶;øÖ—W9€¶EmTlÍb‘xóÒ%UDŸÜ‹XÁù"WùGÕÖtSQ)‹N¬ {ÑkU[c‹0ƒîPµÕh±]ÊI¦è”‚EçÈ…øÁx.X·lØ    IEND®B`‚
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/footer/ePUAP2_logo.png.xhtml?ln=images
+
+‰PNG
+
+   IHDR   ¼   '   µè"+   	pHYs     šœ  
+MiCCPPhotoshop ICC profile  xÚSwX“÷>ß÷eVBØğ±—l "#¬ÈY¢’ a„@Å…ˆ
+VœHUÄ‚Õ
+Hˆâ (¸gAŠˆZ‹U\8îÜ§µ}zïííû×û¼çœçüÎyÏ€&‘æ¢j 9R…<:ØOHÄÉ½€Hà æËÂgÅ  ğyx~t°?ü¯o  pÕ.$ÇáÿƒºP&W  ‘ à"çR È.TÈ È °S³d
+ ”  ly|B" ª ìôI> Ø©“Ü Ø¢©  ™(G$@» `UR,ÀÂ  ¬@".À®€Y¶2G€½ vX@` €™B,Ì  8 CÍ L 0Ò¿à©_p…¸H ÀË•Í—KÒ3¸•Ğwòğàâ!âÂl±Ba)f	ä"œ—›#HçLÎ  ùÑÁş8?çæäáæfçlïôÅ¢şkğo">!ñßş¼Œ NÏïÚ_ååÖpÇ°u¿k©[ ÚV hßù]3Û	 Z
+Ğzù‹y8ü@¡PÈ<
+í%b¡½0ã‹>ÿ3áoà‹~öü@şÛzğ qš@™­À£ƒıqanv®RçËB1n÷ç#şÇ…ı)Ñâ4±\,ŠñX‰¸P"MÇy¹R‘D!É•âé2ñ–ı	“w ¬†OÀN¶µËlÀ~î‹XÒv @~ó-Œ‘ g42y÷  “¿ù@+ Í—¤ã  ¼è\¨”LÆ  D *°AÁ¬ÀœÁ¼ÀaD@$À<Bä€
+¡–ATÀ:Øµ° šá´Á18çà\ëp`Â¼†	AÈa!:ˆbØ"Î™"aH4’€¤ éˆQ"ÅÈr¤©Bj‘]H#ò-r9\@úÛÈ 2ŠüŠ¼G1”²QÔu@¹¨ŠÆ sÑt4]€–¢kÑ´=€¶¢§ÑKèut }Šc€Ñ1fŒÙa\Œ‡E`‰X&ÇcåX5V5cX7vÀaï$‹€ì^„Âl‚GXLXC¨%ì#´ºW	ƒ„1Â'"“¨O´%zùÄxb:±XF¬&î!!%^'_“H$É’äN
+!%2IIkHÛH-¤S¤>ÒiœL&ëmÉŞä²€¬ —‘·O’ûÉÃä·:ÅˆâL	¢$R¤”J5e?å¥Ÿ2B™ ªQÍ©Ôªˆ:ŸZIm vP/S‡©4uš%Í›CË¤-£ÕĞšigi÷h/étº	İƒE—Ğ—Òkèéçéƒôw†ƒÇHb(k{§·/™L¦Ó—™ÈT0×2™g˜˜oUX*ö*|‘Ê•:•V•~•çªTUsU?ÕyªT«U«^V}¦FU³Pã©	Ô«Õ©U»©6®ÎRwRPÏQ_£¾_ı‚úc²†…F †H£Tc·Æ!Æ2eñXBÖrVë,k˜Mb[²ùìLvûv/{LSCsªf¬f‘fæqÍÆ±àğ9ÙœJÎ!ÎÎ{--?-±Öj­f­~­7ÚzÚ¾ÚbírííëÚïup@,õ:m:÷u	º6ºQº…ºÛuÏê>Ócëyé	õÊõéİÑGõmô£õêïÖïÑ7046l18cğÌcèk˜i¸Ñğ„á¨Ëhº‘Äh£ÑI£'¸&î‡gã5x>f¬ob¬4ŞeÜk<abi2Û¤Ä¤Åä¾)Í”kšfºÑ´ÓtÌÌÈ,Ü¬Ø¬Éì9Õœka¾Ù¼Ûü…¥EœÅJ‹6‹Ç–Ú–|Ë–M–÷¬˜V>VyVõV×¬IÖ\ë,ëmÖWlPW››:›Ë¶¨­›­Äv›mßâ)Ò)õSnÚ1ìüì
+ìšìí9öaö%ömöÏÌÖ;t;|rtuÌvlp¼ë¤á4Ã©Ä©ÃéWgg¡só5¦KË—v—Sm§Š§nŸzË•åîºÒµÓõ£›»›Ü­ÙmÔİÌ=Å}«ûM.›É]Ã=ïAôğ÷XâqÌã§›§Âóç/^v^Y^û½O³œ&Ö0mÈÛÄ[à½Ë{`:>=eúÎé>Æ>ŸzŸ‡¾¦¾"ß=¾#~Ö~™~üû;úËıø¿áyòñN`Áå½³k™¥5»/>B	Yr“oÀòùc3Üg,šÑÊZú0Ì&LÖ†Ïß~o¦ùLéÌ¶ˆàGlˆ¸i™ù})*2ª.êQ´Stqt÷,Ö¬äYûg½ñ©Œ¹;Ûj¶rvg¬jlRlcì›¸€¸ª¸x‡øEñ—t$	í‰äÄØÄ=‰ãsçlš3œäšT–tc®åÜ¢¹æéÎËw<Y5Y|8…˜—²?åƒ BP/Oå§nMò„›…OE¾¢¢Q±·¸J<’æV•ö8İ;}Cúh†OFuÆ3	OR+y‘’¹#óMVDÖŞ¬ÏÙqÙ-9”œ”œ£Ri–´+×0·(·Of++“äyæmÊ“‡Ê÷ä#ùsóÛl…LÑ£´R®PL/¨+x[[x¸H½HZÔ3ßfşêù#‚|½°P¸°³Ø¸xYñà"¿E»#‹Sw.1]RºdxiğÒ}ËhË²–ıPâXRUòjyÜòRƒÒ¥¥C+‚W4•©”ÉËn®ôZ¹ca•dUïj—Õ[V*•_¬p¬¨®ø°F¸æâWN_Õ|õymÚÚŞJ·ÊíëHë¤ën¬÷Y¿¯J½jAÕĞ†ğ­ñå_mJŞt¡zjõÍ´ÍÊÍ5a5í[Ì¶¬Ûò¡6£öz]ËVı­«·¾Ù&ÚÖ¿İw{óƒ;Şï”ì¼µ+xWk½E}õnÒî‚İbº¿æ~İ¸GwOÅ{¥{öEïëjtolÜ¯¿¿²	mR6H:på›€oÚ›íšwµpZ*ÂAåÁ'ß¦|{ãPè¡ÎÃÜÃÍß™·õëHy+Ò:¿u¬-£m =¡½ïèŒ£^G¾·ÿ~ï1ãcuÇ5W (=ñùä‚“ã§d§N?=Ô™Üy÷Lü™k]Q]½gCÏ?tîL·_÷ÉóŞç]ğ¼pô"÷bÛ%·K­=®=G~pıáH¯[oëe÷ËíW<®tôMë;ÑïÓújÀÕs×ø×.]Ÿy½ïÆì·n&İ¸%ºõøvöíw
+îLÜ]zx¯ü¾Úıêúê´ş±eÀmàø`À`ÏÃYï	‡ş”ÿÓ‡áÒGÌGÕ#F#½òdÎ“á§²§ÏÊ~Vÿyës«çßıâûKÏXüØğù‹Ï¿®y©órï«©¯:Ç#Ç¼Îy=ñ¦ü­ÎÛ}ï¸ïºßÇ½™(ü@şPóÑúcÇ§ĞO÷>ç|şü/÷„óû%ÒŸ3  8iiTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c067 79.157747, 2015/03/30-23:40:42        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+            xmlns:exif="http://ns.adobe.com/exif/1.0/">
+         <xmp:CreatorTool>Adobe Photoshop CC 2015 (Windows)</xmp:CreatorTool>
+         <xmp:CreateDate>2015-08-15T13:54:05+02:00</xmp:CreateDate>
+         <xmp:ModifyDate>2015-08-15T13:59:54+02:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2015-08-15T13:59:54+02:00</xmp:MetadataDate>
+         <dc:format>image/png</dc:format>
+         <photoshop:ColorMode>3</photoshop:ColorMode>
+         <photoshop:ICCProfile>sRGB IEC61966-2.1</photoshop:ICCProfile>
+         <xmpMM:InstanceID>xmp.iid:a2ff949c-cc9d-714e-a4d7-cda0b5f9a7a2</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:a2ff949c-cc9d-714e-a4d7-cda0b5f9a7a2</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:a2ff949c-cc9d-714e-a4d7-cda0b5f9a7a2</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:a2ff949c-cc9d-714e-a4d7-cda0b5f9a7a2</stEvt:instanceID>
+                  <stEvt:when>2015-08-15T13:54:05+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Photoshop CC 2015 (Windows)</stEvt:softwareAgent>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <tiff:Orientation>1</tiff:Orientation>
+         <tiff:XResolution>720000/10000</tiff:XResolution>
+         <tiff:YResolution>720000/10000</tiff:YResolution>
+         <tiff:ResolutionUnit>2</tiff:ResolutionUnit>
+         <exif:ColorSpace>1</exif:ColorSpace>
+         <exif:PixelXDimension>188</exif:PixelXDimension>
+         <exif:PixelYDimension>39</exif:PixelYDimension>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                            
+<?xpacket end="w"?>%Á[ç    cHRM  z%  €ƒ  ùÿ  €é  u0  ê`  :˜  o’_ÅF   IDATxÚìœ{˜]U}÷?k­½÷¹Ï™ûd&“„Ü€ †„ˆ€`DÁ‚€X(ÁÚê«Õj­U|k±êû¶µµ¢b}E«Ü¬B* ‚-
+X$\CBH¹Íız®û²ÖûÇÚ3gnÉÌ€¡}jÖóÌóÌ9g_Öş­ïïöııÖvŒ1‡ÇïÊp‹àğ8øÃãğ8øÃãğø øë¥¤`«2NZĞÁhâMw¨‰ÂGR4ÆKàâ(F8öMU:) ¾‰HÑXâ-#‚•ÍRKx±d¢]m·o‡_íÓûö-QDhÊÀÇeGı"n]ÉWŞò^Â0=!Tzá'×BP‚øãÃH¤àÚoC®º»@)Èª¾8!6’tÖ¢Í‘@ìóÅàn<u®c
+ĞÁm×Cuœú68÷jèyjíÇâå¾ĞkI»?ä±=ïå_Ÿ´6clN>4ÖÁUÇ‚”D'
+2ÑŒr¿æ<:Å¯ïüîøËç €rÍ°îıÉCK¼dZ¡k/´Ô'He~­ÏÀè•Hµ€Ğ÷bÊy‚jùßêa’9¨`¨~øWPØËm,_» 8è‰¿2°!oè€(Û» >‘$•¸Y·‘¤Y#Ä ä6ªÅ-hÿn"ıo¸u0¸Z:@GPè© nï}ô»\ÿ›ò\¾1eÍÇkQRİ(à 
+„‡ã)0Õå®÷…ötÿİ+²ğfìÏ€´	!Î”R›D¾] f[Î˜ÛÊF?ëEz{3¦'4•òÑºzÂà Ï¸IşßQ§óÇğÄ‚¥”VIƒ7
+¥"˜Ç„´šã|å^OŠ”¬a‚Ä;AJ.qÆ¸ø<“÷}{àñgìBU¨oë`õê_at†HCd.fQÃ"Ş°úu8r‚º 
+ğì/cÉHûu€›„Õ§Üƒã®%ôa´ûu,=î!ŞñÙ„á R« AW	’¬Ö€ÉÓĞğW$ˆ1V RÙçu“`x&º /õ)`FøÁüTƒ‘ĞR÷—äë?'<d,?mÆYL*÷&´ùcLÔG}!şyÚµ¤`@%©–4UÏGÆÊf´A:2•ôRK!—i£_».†¿=Şó2/ğÆ`0Dˆ¦¼r®¼Ø•òµ‰Á€aÆ\£›a™ÎâõQÈp"Í@¦^‘æÅúv¾·æ\î>á|ÂöeĞ¿J}P’rÎó±€•GKŞ‹£V™šE3¨ª•s=Âüõ-ïc ÿş º„Æ«¡ıh(@"}FgĞ‘wÁ‡|ò$Î^~"Úüzü²JAµ
+ûóñ}ÅEtNE:k‰‚ØT U×È²ÓÏ£R¾)!•íÏÿ$ãÇ)õVÒÉ;H)‡0b\1±¦£I‹ ¡ÿ…DòpçÅÚñc#‚	FUÛëHu2nö'¤S¡:3°xQßK6ãŠoÓØöQ¤s6Q¸gü˜J‡;×0ÒÚN;PtãóR^„¯ØíØëûœ«{‡3_ Ç^%„üŒ‘ò’:!"1Å ß îm4>K
+½ìL7qÇÒ×óøÂ£Ùšïdº‘ÁD’r¶İ°
+CĞµFzã…È€QLCê¤…É×ğ&y/„HÏï™Âè-ØÊ1ë7ğÔîÇ)UáÙ]pÁFèßZ×Tk VÂ†+ıåº¯™©›>?!³Q›¿TôÒÏãJ‚ ?4¥!!×üÇä²_"¬Ô,ìl>×Ä€L¤O£©³—%ÇŸÌ›ik·rqŠ0Ô£œ”=gĞ‡–çS×z'#UôïÏ)‘>äsøå1áŒò»[ä_—¬ãº-÷ó\};2>^Q7£"ÍeèxnRÎë4OÎ:s]Ú}”òF¤z=€4†Pk×%
+ÂÇÊÕê<Ï)5¼—R*Ë§¹„o­:“Áö£ ›„JªePDìßÒ‹$ğ€±Um]¥~éÉ‡öÁŠ“6’k½¿<]!Æ­ìA\.C&r¸ğOî£ñâcéİ‡'`p‡]|#¢i¹ƒL4#´ğÖÍÏğ|cÀ‘ğL¼è@ıXÕr-u¹/ÙJOÎ]Æ®ÅV^˜)øP)‚ã¥¸æsòØSÇğ›§÷MA±
+kÀª…Pò!ÀKœ@¦áN†£š¼§\nÒ?Se… d7yÙÆcpÍB@]·—ìx/”3é1W¼K	ZãïßOX)!ã0Q£q’i¼ööñcædgN‘‚ÀK»êŸ”t¯ÆŠU‘1¤	D±ô³’¯ß”TÇûØ´à8>²şRvw¼"ßÕ!«1æ5(Ñ
+B¡ÔğğFÌûE	ø½¿…–„M 'Z;cÀI”ıaL”GJ«LBLû^Œy<¶°Ç£ä"1b¡ğ
+œÓz'¦u#>*àŠCïo¶ÏQßA
+\½|ãW0QíYÆ1'­ùÑKH¹aÒV¦nÆÆüQí¸(€âHB“JÏY¨TKP¬ƒÇ>ŸË~£A‡Sî{$ÃK`6£µ‹àDÜd3 A¥vš”êD6}™Â»ˆ4ùXÎù¥œ0´nU?¿ÈÛq©öõĞpêi4şŞ[I­XamÔ¶mÜuCÿş¼æœ†&L¼|ZÒƒ1×q.tÉ›¥9£Í$C’t*•MÏ÷öœÓ `CBó¿WœÍOÿP„ş ‘î$“ü ¨‹‘,ìÖãÅFÉ6ÜKXü"šdAÆ¬Ù@Â/ıØ8PyÔãxÆQ_D96ìp¼—èİ{FÜM6_‹~ŠÕ7‘«ÿIÙIaØ†R@A_ñDLt%Ú¿å0‹Mø-qe	ñ™¦e×S26lš@)€èi†ı÷0<ÂÂ,˜ "¡(—?D*ù9”#	cEF@ÿ ,m?“c¯¹?¼t6?İm}éQï!Ùy¥Âdo˜t@›Í”‚kò×aWèÂP×ùäR_#™o#ô',”%/§§x#Å_á9jå‰Ô"Nz†îù€]JÂş¢Â(«¿~Şsõ´cıÙGéúÖÍl¿î}mp1Q4Àkc2	ï&×M\ƒâ2¤”HAWwO×¥¥j™ÕÀ'Û7òï€°Ã»!×ò1’ÉÆ)·©îpü_“!™¾ ‘¹ Y¾‹ÑòùhM½ñaÂDlé£8^•Ö2¹T*ÿ‡á]›8bå3ŒmGº+ğ”Ãše”Dâ>¶<²œÖ†§hY¹¿4Õ…_‰ãÜjÂ|¡¥—ñõ4”Â£pÃsPÎ”ĞB€Q?Ã/¾i<Æc…ˆğK_ oß­´ñ©Dn<qT}í¹ŠJõv„É¬Ye•9ßùGT«S^ö—ïG˜3htm‚6fx”…şQÑpÄqO#eçx8¡5`«[?D`.F õ<ï¬Dïº‘4˜9ÊÑ„!ş@/«¿u3mW^qÀã\u%ÂqxîİïBårˆYb{g¦ô¯ª-^â!ä™¾ïJjLgFÏÊ8|¯ó|çˆKa¸ê€†öÛIxoÃkÎöœQÌ¤¼sñÔKÀ™èèY&„Ş8y¬wâv‚æ(‚â³ï[Ï¦.ïÀÁ•µÃ$à%a°PEŠ+hw~‰?WŒ:•‚ß‰ŠöJ¼ìüjÎÜnµu°~)ø•Ó)Äq±˜À¾˜üÁw@*	fm=FQw’)\C6ı½I‰»6àÊSNÈŒ’n §P§`¼×µõ¤)óRï•¤´¶‚5˜d(S¹'ıÓiq°g£LĞéNç	”7w9
+AùÅ´^ré$°û=½ôİúC@Ğüö‹ğZ[h{×åÜ½‰ïßBjÙòƒækÎTÙK!ê¤ã>,„8Ê€6’Bêè§å(úŞr~94Êû“EØ¬99Eëº‡ˆüµ„1—<ã¨5(Ù#ŸA„æ1:[™Á*$$¤ıÒLIRƒÊcô6$Ğq(4v~Xtò!Œ~ÅHß¸‰÷ÕX @
+…	ÖâÇ€:ĞÀMAï|	¬^Cn„ÕÉÇÑõhÕ‡›´J‰­{Ìó§š`e3`¾ü)°nŠb5 œ•(óZCEƒ’'¢¦¬P
+¾Æ±M»ÑÀˆù´#Ë¢*4tØšÜƒ'ÉÇ˜,èã@ÿ”­ìÍ6“*äœ¬»t,¸êªñï
+›7óÌ[Ï§¸÷%K„}ö¯9úÇ?"wÂ	ã–¾ïöÛ1A€p†::fd}c°Z	õ0ÂäõA´ÄƒÑüM»ëà&ó\¿ê(@eV¬¸7±–Ja:["ÆB3å;35¦²ìHÖı	R6/MrïPq1DDÖmË8dg|â‡ø³ˆY@ÛÏÅ!{¾rîŞ7Çò…5¾û&­¸iÈv€Jæ1Ñtö@Ê!m?g8ÂZõH@ÕVşlˆgÀèH¨uÓäªd½•ChB˜EÓò%a ¿ú …Ğ‚:Š §
+mi+g”õ(–jÍƒ(6NÑ‚¥ÿç„E†’)
+‰¹jaNâˆ
+RË–‘]_ÓÙç¯½âŞ—È-_iÉ¹íÛØ~íu¬}ô+’õëH-[†ßİSàäØYb;”ë.Aˆ‡1:?[Ë°<,”øù²JÓr.ÿyÔŸCi Õ}ºğ,ºmx1¶XÊ±RõïCè¯#äV¤àûA\„ç\8“„¯$“‚òWØòĞ¹Öº+kùÒ°t]Ecq¼‚¶¥ 54ŒB0acJæ$¦0f`:ÍA*³†€š)=D!!Ûu- #i‹N“îç#éEN(¤ÕyvZ•˜ÏW¢wF·nŒ¥@¥é:7-§Ò2‰~<·F£Fñuƒ®Õ#İÓ½Ÿá¦À±4².Û¹Î9~©2“±dĞğ0ÁÀ É†¦ñ¤4ÕĞLµ»` ¯±•É 2Lxğç;ÀE©tæ”–¶ûGŒ™Øİatk%¨P9î8ş­À«ä0úÏÑ5°cl’£ı"»{Î'ÿy×.µ4Ï¢å½ñq·¡ÔÆq«$ ¿
+‰ä9±î\Êá]¨¸¨”r@h0±õ8g7cê²£ì=ü |Fú!ßdÁ!Ç0T™îÖõ«TcS¢À² B„šCM&ÚíeJÅÔ"ĞÁŒ‰Q<ÃQF@&ÔöwQó@Æ’à¹µ³„€(ĞÓèÌq^TX0“Î-.”K8<LØ?€ê\ˆ›ÏSúitİtNCBHŠƒ}´mX‡×Ø@84D8<Œô¼Y’V)èlk»ß“ri³ê ŠŸ7°ŸŸ.?-V[=)/Gš&âD( ØI©ëXŒ.’IXíŒ5~âë7¢¸W]Q‹§5¸$ş®‚|¨!éZkãÏ`4Æ°”?¡3:‘µN=%¨DÖDÒ^†úìäê¬ SÁp9ô!ÍÜÔBÌøõÌÕ1ÿ2YÑ¥‚®®,Õx)[(¬Â¢clëÄ'­AS
+ü2ä;êh\h{&»ÉªÍ3ü8÷š{eTe2Tvî`ä—ÑrÉ%Tvî¤¼íyœúLµJaïnš^{«¾ıíñsFşã!ÊÛ_ qÄâƒş»mJ$7ìõı‘	Ô’gÑPÑúÑ)Ø áá¶¥P_Q?Hç<f2ŠAõSx¹"‹³h-ˆ&˜ã±¸©@ôaô'@^jMI¼n†$g²€¿GAV@`@ˆ$3Wñ)
+£+DÒŒºZó *	¥^(iH×A5€„\7ı‰˜hŸµòŠÿã(¡1à¥A¨Ùõø=¸I¨o‡¥ [Cİn²Ş(íX¶Kzë™Fn@t!(‡DXÅ}Ì\{£”BzIún»á¸l½âJŒÖ¨tšÒŞİ,ı³±ôs7L:eßW¿Š¡ÔÁYš½™ì÷µ_ıª‹(Oğ=3Ïd”‚2çsüàÈõPîã;uÜ´E0Q€Jş5¤¿‚$Hƒ’rnVk€§¹ÒdÕq„ÑÏl,éŒñÏWƒøGlw±}Jå¦1úiùÁ±”°î"HåÀ/Xwó,Ãcœ©ÌUãáÁD»—ğ·Y…q~7À>~inò"z½ÏRè‚õõP—‡RÜ„¥OË%xì9¨Ï.àø–óğıÉUcÇ7ùZC®™{Ÿ¤s´‡¾T~ÎŠ—XrC÷ÿœü‰ÖT{ºĞÕ
+Ç|÷ZßyÙ¤Ã_úì_3pß½¤g¡$-K…;çœL FHôóÍuoç…Î“¡Hµ):¦ûVá‚é„h®¶ó€7Vî
+?›BCÆq©Z¾B*¿†º–/àÖ„t#…	yAÊx”ó54K¦1&™æ­Ğ¾™R˜²}Œß°‡¡©c-—ıÉ§èßq=Å]P©ÔÀ\)Ú\H@ùğ’©I…«Tôïş5OlÚ†TÌÓ:´“„—DK5gz×N>’ROMßÈÊ›¾NjÙ²IÇíøÈGÙıÅ/ìèdR¾­ùò0»›ò×_c59ÛÆÔ–!›a@$Z,®í½ÌŒn¹8 Ç¾åOñıüÒ{ĞQyòµ„C2û=Lôvô„(Î Ù<¼ø‹[xşqXùFX¸
+K±Š9€OL()Ï/ÏoD@8Ù¾üŒ[(}p>(6 Ík½ğqc\q8Åiëos#ÃµiÀSPø‚Í ,+’ĞÁ¼ ”"Æïífù7°øc›ô{aól»êŞüÒ!S©YÛ
+æx-í¥AnZq&=å2ì{À6+y©ˆæÅqè°B‚ö÷a{á\±„´MRR¼Ï½€[I¤#ğ™†× ÔE˜0ccô	×IºP
+zyxÛß±{,;Íî8ª–äŒ–Cê™¡&¤ÍO&ÉBè–Ç+[„„òÀ~ 7‹´öÃT^üeŒJÒÍ İt%:¼!Àq]„8Á¹x5›÷å§SPPS^ñCV*Jqü¾ßPÖşüL\à÷v³âË7Òñ¾ë&ı¶÷oÿíú È¹Ò²­ÑÜ¢gî`4WGÎ4rÇÑgCyxB;¥éµh†ëÉ81ÑË³ş8Oã|]µ=Ün~Š5¾K'‰ç]H^NØ¤3¥tóÏÙìÙ‹OaÍ…ĞìÀp7UœÆ2~˜·mÂ/µíCAÚ–ãtŞZ9­!(5`ôôşWWPT˜ÄNOŸøä7¤òˆè*6w·ôÑd/ç&íZİùù÷³õIH4CdXâÖµôÓŸnškÁeïœöÒ–-<{É;è}úIÒR¡¼Õ=»ãê¼ÂmkC:æ ”òœ/µ¦£4ÀGNûöp!Œv%”`Ì>Ê#ÏVš¶K©Zş^r?Nb!a5šèJ¤(/”n$!Ú‰û8æ©8ZÇÅacü1ÀN,Œå]xh×µ<Ş·	OÁq.Ô5À`Ø‹˜’ı y2aô£Z—ŠC‚ªM’û{¡†…KO¡±ÙÖÆî¯$¼Øµ‡¡,é€\2ŞeôßdÃ¤ªïãc™FØñè»Ùzûcvİ·pnÂa‘ZÄVí æi™ @ºI\Që£©îŞÍ¶«ÿp`€Î7Ÿ=©V"¤ÄD•»Ğ¾o™šWøÁÊrß_¸—œÏ?
+ş„ÕQÙüƒdrGÙvÑøûdº_ØO÷ÎÏ±æP®œTc[ÊjçÏ¸ÁBØ
+]¨mïŒr­›4ÑooQ•cçé+Ø×ûÏìyÑÔ•Iêl Ÿ$íÔ
+Vc‰¤|ÛøAicß25Ö?nÁœÏÂP/xéÒ‰?˜TÌŒ	)v=Aih‹I²è¿èsHş&«ÁD·Nü©N)~¿i1}¨y­YT,’Zº„ì	kk7fÍ¦»pòù*ÉæS^Oé¹çp››_à³&bH(¾Ø¶vm†Bw¬ÖŠCËÂÛX¹áZk	ã…­¡íÈHäFìº‘Æ„â $2v·”àyµvß™¬ÇØ{5'ëƒšBLêİu¤Ãø5)w1²ÿÍHo›İò¦ ±<ú#Û Õó(÷Q(o°Õ]âA²‘¥'Ş•‹lBÜŞ€±ÏÖ±Ü»R-?&ádñ'l˜PÀhğÉe{itl¡,fc†_« õ0J6{µ™xv‡qÆ<Dœû§z÷wæò¬ñ<åWçõT&‘Ù,ª®–®¸MM³+³†M³^#èËÜT¿˜-AzŸy‹×îı÷Ñ±ìòí¯¥R¬Q|BAã‚/S)¯ÇD×"\Ÿj’Y¨BÅºV[òwâ/3%4:Ş
+èÍ%)V}1‘ óy”x¶a¹fYC¿ˆàA"õULùÇv2¾™m>¤ŸÁx#EµÁò[È/ÚÀp¿­2Ñt¹¦úQªåK0z×ø~\”‹ËÉ6ÜŠĞÇãûv÷©Woa¤hË‡¶yÎ9“Kµz‘áèÏ'!Äd¹›‚ğA¤üG0÷ÌÔ`çÁEÙ:ú¢èednöŒ¨\A&’DåòÁ<•"*•lˆ#Ä+¼U6pÛÆ¿€…'ÂÈ¾™/E®û8ªt?Ñ í¡!vwH¥¯"Š.CëŸÊnA¹‚;ˆäÓ”Ò¶ç%)!©lß»_°=ßcÊå¤â¾l=»°„öĞ<I™³Éâ!ä*„lÊëc¤{+Ò©’h+`M´ÕğP”bş=¨Bâ¹àäóŞOcËrÊ6ŒD> ND¹;‘æ!0áx‚lã‰N'îê4µä8åFüíUëá”céÀ™×+ .v ³ààÀ{_6èD{¿btÿ0Q
+/µ’L}Q¡£ı`^ ¤|³Ä»êê91™â™yZw ·±phˆ§6“fN!X8<ŒÛÔøÊ Ÿ—ŠgUšÿüÛAüëäSYæBßÏ9qãõ»ñSŒLNv,m”Ä˜·“Y–|çgĞ½çÑıà‘¥ô\l´a)äÀTl"İÚ&‘Ùi{ÒVq>Â<uàPi‚aÕq'`µ	öåìnª1îÒ´ö_ÇŞKµ³b2Å.å)s
+RÚXQ8İj{hOsç]ïfËo,ktÙ; )£# ¦¼GÇ†iZÿ;BôÍfÁâû½p Í™İØÚı/îıŠL™(|¢v¦™œô€Rº¼®A½¼ªŒ²mÉå;çdµÇ:fİúzË$½–Æq“Êe¢§n™ÛdÛš?Íú·9?1ÀMó1T’ÎgHê£Æø\m·¤…¡})ãÆ;z˜ÉšÈ—„x:>DÌmé£ø}-¯=Úíÿ‰·*İÇ½WÑ˜ıÖ¤\e*‹aÌÌÊ)d\x¡÷ÍlVÃp ’­=P	 1’um¢>C^Ü‚*em¿€8ĞógZ³%¤cY2Z£qf~ı‡P !‘°ÄÁ¤uœ¸FÌX[û@.ËúÄ˜u3ššYY5!pç¯,ïr•óo9˜¶÷¦A¥ü,Éìw‘1gkfxìjÒ}–@O¼¶C/(@]ÚÊ?ÒSú¸(·ˆ_µ!ÇO.Tªüx+ ëA*=·ğxlóHyÄ6˜•ƒ)ET}C7cwĞºì^À›ÔG2Ûµµ)Eg€y2@6¬†Ö,tãdĞ}é€©Ö’u7Ua0ª„V–iHGP*ÙsòLÆo8`¢"Cñ+Eü†Áİ„!$ë-àèîFFëR^£!½À¾;§¯{nïÅ	#	øË†F\";b²%`„,í3ß˜W­5OCR9åCÓeqÅ¡Ÿ!ÄdòÚvÜ)èzP,ÿ”!3ã;[ öaû€§sû6¯{¨k	Qc?Ğz;ÒıI·6—0²b>ïÂ7ÓÉDœlRşC…f|ÿ+4ÖışäMwsMHnuôM‚ê©’õT¡ßV¦ B³²ÖTw`œO#Åõ 8òSzº†lÅÙ@YBÇ[v<øõ/a×VHg-@3ÿÆÉg@6Å¤²0Ø}Ï?²ƒ(€%'@¶‚—ùÀxÅ4—„¾ÂS<¼ã?­òÅ´%uĞâBqjQ
+|µ¯›}ÒÑıV´&ï8›ÎojNK™¯¾Jû’Co¹t÷¡¼–3G»©è‹uàéK¨Kœ…«0´ iˆn¡<z…b¤‰ÂSÈÁ¦ÿ»+¤S TvñÖOŸÉ©~›ş=‹Ñ<J5|7eßÔjÒ	Û,ı–X¥ ğGéê¹œLöã8úRg`Xõ :Dû[	Ê›pßo`ì%œqvì…ı¯xƒ…kµj¸÷qÎúÈe¼öm_c¤§dİ­ÜöWW°õAHæí1•8÷ÏàôwA¥6À‹£ñu}€m´÷Å²ÜM(o1£Cÿë¼‹µ§Û·º¹Ep R÷:ç İoÑN%º‹¡+Ù»Å†3B@¡ÇÛõ¤2àOjx²TÅ¾uæ‘¢ûÍõ¯k”‰[ªpPâ•ôÿÌ’^JÉoî)?ìlØ±}Ö3 .™÷}ÖLüĞ|)ş›çxÛl<`§xì+Í/ë¬İÀã¿¹oŒıó÷3ıúıøÏO>pğk}òô™¾½7^ºÙÆ& ã·ƒ­“à×Ìõà-ÀÚW“q]Åá÷Ã¿cã0àÃ€?<Ã€?<ÿãÿ où’g…G    IEND®B`‚
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/footer/gospodarka_client.png.xhtml?ln=images
+
+‰PNG
+
+   IHDR   »   N   xÏgÀ    cHRM  z%  €ƒ  ùÿ  €é  u0  ê`  :˜  o’_ÅF   	pHYs  Ä  Ä•+  #çIDATx^í}xÕúş›ìn
+)„Ş;"½÷&\,W,`AP.M/*;vDEDéUšH0ÔĞ{ï-Ô$¤—M²»Ùÿ÷~»«Ï#!ü.ü3/³sæÌÌ™™÷|ç=ßùÎà—ä†	y ¾Şµ	ÿßÃ$»‰<“ì&òL²›È30Én"ÏÀ$»‰<“ì&òL²›È30Én"ÏÀ$»‰<“ì&òL²›È30Én"ÏÀ$»‰<“ì&òî	²ûúº±4|7z¿ùÒÓÓ½©&LÜîÚÉnw¸€;N`ÓÎS8v:¡An¬š6V«Ÿ7—	wÙ].'ö‰Døæ£X·ı.F%ÃáâÓº[P¶¨+'ÅjóaÂÄßÇÿœì™v>‡Õ›aÃÎ3¸#ÏÌ’=¾°øúÀ‡™ÄÊ¥
+[°jò`Ó²›Èş'd·§g`ç¡H¬Ú|wŸET\2,†¯XpY ¿iÎ¹–ÅÇMÊû t!_±ìM²›ÈşÏÈ’–íÎbÕ–Ø¸÷,bíBğ,¡°Xp_ù×-ü¾^Á^ÒåQFÈ¾j’Iv9Ã%{RŠ›÷ŸÁê­'±/ñÉÈtÊE},ğõ!Í)OdB“ì*ZHnY<…â6ÿõ¿T!¬şù_&ÙMä¹NöT{Öî<•[ObóÁHJux	.\9ËËy4¸›] I®,vD³`µx¶}¼¥ºfí%o™ÂbÙ`’İDë~öõ»OáïÿÀo["›â†ËÇ
+‹0Ø×"—ò12Z”¹0:K˜ÍÅfµ"$_ œYÙ›O£.„TgEQ#Ïµ	9ÄTòE¦[È-·ˆ)§íVÉBâ^#p6Ò‹^O=ß¡I<Ó¾*’â“‘éòEŠ=Ku~p>?Éê!»	·ƒ\';¯¯’“ÖÙG,»a‘¯“û4M–§‚mèóx]ôíÜ-•Eñ0_´«Wï½Üª•BºtdiéMÂ›¸ÜËNxHM>ó—,$+}/Üç©¾°‰íiix«{Ô¬XEòûaşç]±rL,İ‰éN,ßrB5ºÈ!“í&n¹NvTñnPÄ(é%Aî–EúªH¶;‘”Š"!V|3èAtëXC%KJªnWÊ—.Š'oÀÓ6# _ ëö¶Ôú&Lä–aÃŞ~ßû;WpâÂU,ßqN%!T÷şË.½Íà|6´¬U½«ƒ=›£Q•ÂHJMÕN)‘O:©ÛƒÿŒGHH¨¢¬@a¾xñ±†:p+8°/fÍ˜‚ÚuêÂÏÏgÏœÆã¿Gdä9Ôª]Ç›8uê$¦MˆªÕk   gNŸÂÄñc5í:õ¼¹€ÈsgñÓãPµjuæËçMÖ®ùãÆŒÆü_æààş}(R¬(
+.¢ûÖ­Ç¯‹æ¡AÃ&Ò—ñ”ÿ€ä™6å'/^Ò4»İï¿ûZC¦ÎGbÂø1ê™*[®¼¦eGLt4~™=“&NÀÊKw+UÆ¨/>Õé2e½9E~ÁÚğUhÔ¤6nX‡_ÎCÃFMt0oçí˜>õg¤Kx¼­›#°pş\4lÜTóØ¾e3fÍœ‚R¥Ê ¬@oêİ‹; c¨Ç=–˜–\å«Ha{ş <Ø´º´,?W2bââátºdq"ËåDrj¦¯Ø‹_ vpİ×<8¾ô>æ‡ÄœÓ’’¢Ûç##1{úT|õÙÇØ²i£¦gÏœÂœYÓïÙ>{³å¸¯¿üB$ßÌiS„T±Ş`ÄÛobØÈHOGéÒe„ø«Ñı¹Îø}ùRİŸœ˜ˆ™S'áø±£ºMÌ1UÒ&cá‚¹ŞoÅœ6™êïfIfM"åøÄ›r»vnG§GÚaÒODîYõ9nİ²I+Ë‘Ã1|ØPyîWoBB<>ıè=dffê6ï‰eà1ÄŞ=»äZSñö›ƒpéâM#vlßŠYÓ§ÀåryS<øfôçú¦NşÉ›rw#÷É./ÉÓk,›êBk%¤·ùY‚Á_,Ç[?nvÅæy€n¬"U$—¼ülU5Ş¸GÂ\ß¾UøùSó{:È-k@` òá“ß…Ãáyù$óéµÌgó³!Hò”|ğâkù¼šDX±|	¾÷#¾7ï~0¿‡oDšµğá»ï MZ®6íÔ{Ø&D$H°Ã÷‹U,-×++_``>9¶¶n“˜«W.Gã¦Ípş\$:¨éDšôwŞô:*Uº«×mÆè1?`ì„I3î'µÀï~ğ	’’’´lÄÏ~g€~ë6[/•˜ŞÇÊû
+Ö´>áIøÜ`Ñ‰“'ËrB[…5¬ÔénGî“] c¡òÀ²»ù@)m¬BˆOuX$k±Ş±ÉŠLÂù«väó·¡UıŠÈ¤Évş¾öVnÀ¢ß¿Ï«ıqQ,Øø±ßiº’×;†EĞ"ò%¿Ö¢£®`ìw£5k½K/¦Nú	¤‰oÖ¼•nzÜëƒ)i§Xß”-[Ö¯Ñı´º±±±x¾{iiÎáœ´"ÄÆõëĞ ñu©³9bƒZäáï}$• P$ÒlM'X1’“’ñÆ[Ã…¸ŞÔë¨|_4iÚ?ƒäädÌ©Ó÷µş*å²Ãxª¬XEDvuïù2¶‹tYõûrM7*v,œ7ÅŠÃÛ#>@ªTæõ"Óîvä>Ù…”´æ†ËQIÏÇ©d•4jp!Û³íkÀÇ…)á§Ğı‹5èùy8¹
+O½¿Qç.¢‚:’|üàğ±ÊùÄæËÚaÉ‘S–„–èñ'» y‹ÖBÖ‰¸rù
+*,6B< :I¾V­Û¨góš?¿F5PsBb¼X¸ÆŞ#®£BÅŠRY}qAÈL´nÓG¼–™¤.R´(:=ÑY··‰ş¥&?ymÚ¶Ó4böÌi¨&}jõ?*\&-L†î;vôˆXcÊ•¯ Û†ACÿË—.bèÀ×P¨`A<ßõEïÿßUBR"z÷}EŠÇç#?€S¤eh¨Ü¯7ÁÖxù²ßğğ£P©ò}(%²òçnÇ±ìŒ}a“møÙ=\âÑÓÒ3Ñ´vi4¯U½GıQ¿A4GZ}ı”áƒ-Ç“°}ã|©Çá‰“)ç
+t$áşÄc°dê9+÷<ÿyÿ#&àÑ²´¦$‹¬|´Ğ.‘ï¼û¡n”æÿzĞšgıg3¨‡®ƒ‚Ctİ¢Uk=öÈáCª«›4m¡D*_¡""6®Ãş}{õlì<ññqØ»{§¯Ÿnw{ñ%d
+ÑşåË‘åòhò?Cå*÷£İƒaç¶­xµÿ@Øl×çh‹)ÈşH3Ò3DïçÃŞıH[”ÉÒéÍVàZ^bÛÖMê2~Î[qz½ü
+JKuùÒ%İ¾[qÈÎ‡B[n‘D×£E”Z{yªşb‰j[ı¿Yğı1’fUòY…X²øÚà+šµjúŒ‰]¯®üŠ>——aÈÅyx)mŸhOó~[àÛ•2%‹+^¢$^êó
+6m\%‹J“}ıüz'Ì—œ„¢ÅŠ£ï«¯c‹tñ¢ù°Ú¤¥‘Jàçç!ì&‘7c³¤eIëex|jÔ¨%ÇÙ°@$ÀÅçEÇ{,xÛöÔ{Ãó)R%K–Òôµá«UÛ;ês<ıä?ñï¡ÿR«Êr´ªªıĞí¿B«ÚJßÃM›µô¦x`èğë4öT VÈ–Ò’5—ÊIoÔÎ[µa~Ù’Åzİ~}{á)×¤‰ãu{ÕÊeºÿnÅ!» ésáéIxZzì¢Ã+”°aÚÊ½X½ç"BÃ‚µZx*ä§K¬€K¶|as9Ğ)ó<†¤ÇHB›\7¼šÛ„÷åõí®Mñ´)Z#ıºõö WŸ×T2ÌÿeÜÙ¬;¥Á±#‡Õ½i¤í‹üÅ§¡µÍpãÑMY¯~C,²ÒÂÖ©[_Ó[·ù‡èŞü.Ò€¿Ì5µëÖÃbÑŸ~öy<ı\Wt)³eÓ&$ÄÇ‹Üi/ì`imŞÅQ¹¾˜è()ÇukÏ>
+%Iv\ºtA+ŸM«–ß¸ZwêõsçhŸ€X»=×­ÅãOuAç§ŸE)W^}pÿıU1îõşÄİˆÜ';yB].]İ$üNÉËRôš:†ƒçR Ä•+% Å ¶åÚ)ë*™±sgŠ^· ]Z§¬3äÄétÔ“Œ·§Ê	©„Ş—h¼t– ñØÑ"É³Är/›.QÂØæË~ç?’O6]$»÷øò²}ìqŒşò3´iŞÚ¶À+½_D±Ÿ|ñµæ1Ğ¬E+ÑÜ™¸¿j5õ†ÕªÕ@PPˆJ¡æ-[kÚáCpæÌiíDwyú9<#Dú™ç1`ğ›ê±¢––Nï×ßSßıùÎh×ª1Ú¶lŒ~i©izÂ#§<÷FÌ›;vlƒğU+Ñµ[kŞ!çÉôzœˆbÅK ßÀÁÚ:±uãûY¼hÒ%Ïà7Ş–
+ø‚–ë©.ÏâÅŞ}µß³mëfïÑwr=ÄwÙö“è7>B-°„\OÍğGÅ€Ó˜ıä¼³¡Ö\—k½ÉP_/‘|eER[Äšÿpù7´M94›Ö¾"»d/SÕæ-…Ÿ×SñwqåÊeœ>uRİdôDP:x d›n5;wlSM\¿A#uMÒ[rôÈ!4lØø†|»vlW×@Ò³*-N‹NKZOÎAÙr3’D:Ø·OZˆò7öÜôïÓ«Ã2^ºxQÈ~
+Íš·¼FF[6G Xú†<¢k“×å¸@Hh(î»ï~­LÆqÑQQ8qâ¸”·¡V°Sò›ç¸O¬1½5ÎŸTÏ¯Ib¬è›7mTƒĞXú‡E›s¼¢±”3;ØQß!ı‚2eËşéÀ×İ€;@öSx}Â&Ñç‡•–aE¹|‘ø­ó<ä+ìFı±=àp€Õ‡Ö•—æ’‡42™rÌàØÍpu“üæÑRa¸’w#Ùc„ìMæß:ÙM˜ n49†Y	«aÍº Q?¤¤[„äbq¬¨_ø8~í¼ µëÇØ0$ÛCE¾‹MËáñ{É}üå¼·¯^İ‚4‘+”-l|µJx+N²W6˜0‘äe[ä—8o/…Yû‚gDùxô¨µÅ
+Eù\Xr¸:Mè)=µ@ø[Bs7Ò…ô3S0äê<·)Bt‡¯Uk¡§*@ªÈiN–(…‡­Ì±e§—Í÷¾=»UÇ–*]Z¥H…Š•¼9<ˆØ¸{víT=õê7ğîñ€yÕÊå8yü˜JvÖJ—.«Í;=(Wc¢åÎÜ¨Q«šxİˆÙ±]tí¶m[´ŸÒ¨IS•ÒÓíX¿nâãâš’Œ‚«Ü¨YË3¢z38ºJ×fsédİ›‡î—²Ä X˜vŒ«V«îİìŞµCšÈÖ!^±l‰Ê –­ğ¦ ‰		Ø±Õª×ü¯çt¯!×È®oß£HØ€ÀPéİS/Z\pˆUf§Ó*ävØ‚0jCKLÙVWR‚á#dªfÃ ˜ÔL>‹dÉèvª°q‰~ge ámnüDêl/Q®€ŸÎİ»5<°ÃŞ¨
+jJº#Eã>öÄSöÎ»š‡Ø¿¯zVÊË‹e<K´·ıƒaäç£ÔO"¿Ú§'¢¯D©.N³§âõQ²1î¥ë³O¢DÉ’ê?ç +Êè14ä€#CöS¢Ñ·Î-øP#õÍXøûK™ÎU7c°ä/%š>66FË\½z-|òåèknI‚„füGƒW®‰@½{€ß®^ŸZµë"*êŠö[zöê‹ş‡èş¾½ºãÄñãX±M·G}1sgÏÄ()]•&ŒûN–1Úùyê,oê½‰\’1ŒOÉ.pø„"%ÙŠ´4_YlbA-p»|átZas¥`D‡•8üæ÷ØÔo.¯|§“
+4@×Š/b@Å®øºÄƒˆ±…È	=:.´4‹&jyÅÛùo½nF]¹‚W_~E‹Á’ß×`ş¯Ë1ë—EX»iúQş×k8îæÉş¹–`ùÔû²zå
+Ì˜6YóL™4gOŸÆïá0qÊÌœ»èšUe…ç2â½1cÎBü8i:öìÜ¡şsbø°!Ú‘ä¾_.Å’áøäó¯±9b#~øşÍã›pcØğw1mÖ<,[¹'ÏT×âà¯jëd`Á¼ÙBğÚíù}ù>n°UøyÚl,]¹ÿ|ì	L›ò³Zs‚G¡!Áú{ÙÒÅ˜3sŞûğÓˆÎwº\¬}9©˜öíÑ ¸{¹FvÂRn±ŞbˆA×®ÛˆiÂßb´%Ñ‰‹ö0ŒÚR‹OVÂÊX›¿:•ÁŞr˜U´Ö‡U‡Uò¹D±s@j\‘ğe‰8\F
+|ëº}ÒOãÕË2füÏ(V¬¸7Õãr
+ö¼ğıò2Ø‡Œ¼Á›ğÔÓÏ¢JÕªøeÖtİ¦×…nÁ¿‚1šJé`‘k$ˆ _œWÿ~{ªˆ,1Ğá¡GĞ¤Y3,š?WÉÅá
+8^Ç ıño{G½(GzüéÜOÙñòk¯£yËVê“ÿ/ĞìEXAÕ×Yd„¬‚BBqòÄ1|0ü-X£û4;QÉğˆï¬Û¿-^¤ë{¹Jv_]êê+tg‰Uæ©äğuÀÏ–·¶CÓïzcÆ®VpZ‚áïëTé +ŸúİØŸ¯42å\6W&ş­†_
+5TãŸåñß*wÍæœîºìˆÙBéB:t@eJ­:uu;;¨ë)g¨Õ{¼ô²V˜]ŸVI²oïo.e'8ÊI‰Bkít:ÑQÍĞ]Zíº7é‚1î)"q¡h±rFŸÂ-XzD®Xp!Òc]YqØïxü‰.*Å.^ˆÄ©“Çua•¾DŠXq¶*ßŒú³§OÁ€ACDNy*7e\tôe¼Ò»Úw|ıúÒôì`Œ|‘RtÅ6où€TÈ9Z!ïUä*Ù-)Ëá“‘¤DW’+áÅ‚XœˆË,Šn‹º ï¢Îˆq”B@tP}²tĞ‰Ù5V]~³ÓvÉ¯2E³GYC0«HS8¬6é¤Êë÷’éVÁĞÜìşpÃ†Ä›Cèo§ÃS‘ÂfıÕLw:Ù©-ƒ¹—`ÀÀ¡Ø'­AïŸÓA‚y8p3âí7Ğ¡mKÌ1ÃßıP‡õ$ÃŸŸŸ1C”~á¯¸tÓa³fN•¡…l¶kßQ˜Ì»ÏŠëtdbäû#4xlî¢eèŞ£·w¯\†­ˆÅ¦Ç3æf¤¥¥êäWúyÏ+ıúkg•2ì^E®‘İ‚sğ¹4YINıŒÑ¢[8–XgwÃÌ­`òƒ¿Í¡áì~òåsa4$IO½šh€İ€"o‰¼ñ÷wßüÂÿ.J•)ƒ#b¹oÃo¹P¼xqøâ¬¤›ÁÁ¦²eË]³ŠœAÅ!ò•á5"qÌ·£4]ïE*F·½ğíØñÒiÜˆ';?£ûóÂ€­Ó§NévvìÜ¾
+Ò–Çó0\²8b[½f-%âŞ];qñüy¼õÆ ¼#}{:V
+©Ù’:‰DÊ<üıÄ‚Gk'7;rßÆØ'aÇ¶-øèıá^lÚ -‡äYúÛ¯z#şå·_=q9÷"r…ì>¾b%®¼—<|¸üå¥P¾HS*$ÍÈ
+ÅëácwtmøgÁâ+µÀKp¡‘ã‰Øjõä¯Cˆã†µjJ¿ıÈı,*×·gŸï.Ö+£>yC3lëÇK›4×¯ûõêş3ÀikÇAï>¯yS®Ãb±Â?0ÁŞJ@éÁ{¨+’ƒMöÖ¤N½ú	ÁX©E5şÇJuEöìİG·(¯P}ùÙÇJÀYP$ Q¿aCØD®°­Ûş‰ñ	z.…ÜgJrŠ†1?Øáa¼Ş÷¥f”9åËWÔ~Êâ…ó¥“:Í»G$Œ´V%K•FaéÔó¬èµêÔÃú5á:b{/"W\iŸÂ±m42£Åj
+i­.±Ò¾ÊÀÌÈfè¶¦+,şVF¹ÈK Íò^R‰'ÑM!Š¬]Bîb™‰è¿ÓE«gúúÃÂ &9®|~ÖñœòÖãÚ¿ı%¦OşaaùQ¥Zuµ²´h5Q¯	±rÅ2üç­¡:¤^«n]ÄÅÆâôÉx¾[~ã-ÍÃ	øâüPÎQ=sú4¾üæ{õWÓÕÈ•‘ŸÂƒ¢ƒo‡İöë#ä´¡•Q—¬H=ÑùZ'P]O<‚B…±Ëi¬ü¹3gÔ=ùéWß¨_¿]ë&Š0öG‡È@Ó5Q¥JUL›=_­=}ş[vĞ¾F§‡ÛiŒËÜùKÄ¢BŸ—ºâÄñcX·É#KŞñ6–Jôë1ãpÕêx¬c[|ôéWxf€¡îÏ=…¡ÿ~çZxï½„Ûpí—9™‡'À"¨ê¯ Æï~ø$@ Å§o0†í|§ÓÊÀfeóê¥¹šÓë–œôçOá³‚ƒJ§ı#Õ(ZÖS1¨×/µ¯)úÖıìMEß¶hõ€Z©$Ñ”"ô´tíŞS*€g²0gö´ïğÆÁPc3Ædğ›o]“"‰sáÂy±ŠI¨Y«Î ¢×… N¦Eùó‡iZv”YñÈc‹\	BB|œz}Š¤2 Ïœ‘Œ%J”ÔI"µk×Qßø‹Ò1¦÷ˆö!H6’6;*Iù™Æ–…S«V«¡ed ŠØ)-R¬˜Nç~N"¯îßiõ@Õï”a,;CšÿÙéI=Ö ­<[+vĞ³OÈ¾Wp[–İâ‡Oüt¤ûô‚µèÂH7æï¼ŒÌƒƒĞ¿ì*l«‰vkû Ã'VüWnÓˆ_“Üöğ™ÿĞ‚{~1Œû<UÄåC]ØğÙ39²ì&LäX³û8ÏÁ•eƒ«ØDX‹´&{5Q±SÏ6€+ ?Ö]*‡tg˜X"zR<ã¡ÌEN«Î…ÛFgÕÍÀ ÉGKoe
+÷Ë>jzæÑ–À„‰"Çdw[Kş­…ã7ş—/ùl.ì‹+‰Í©U±=±ÛvIõ’]~gIgŠ¿©éÕİ(Qñå·—ô$<4‰kÉcT
+ÿ{0Ì÷vÀğjÃëô‰ÛĞì^ON\‰Ç‚]W‘%Òİñ¥—mvVüRì@"ûJK@‰bètß,·,ä»Xv©íêö±È6É¯9P0 /µ«qËš]ÔÀÔÔìTR“²1^†_æĞ9=$[·lFtt”~°ˆú˜Ÿ‹ /n;ú×©×y®¨è+ê›.Z´˜Ÿ1à{÷ìÖxpzKbb¢åefê× è¶ä$º8/]º¨×æ(('”Ğ7n **
+Û&eŒ‹½Š½{wáÒ…:Â{òäq—Î¤Ñ' nç|UÆà0ØëĞ}ˆºrYµ>·ùÅêoŞ;ÍŒ•¿råŠÆÕp=+Ôı!¥K”ç5À¾
+;Òœ ÁçÀ$9{Zİ¢<¿”yNZu§S'ŒÇJYYÔ”¹¯#Z&>›¸Ø8*#±Ë’È)òøXÆ
+1@íÔÉºÍçÏ¹®üêBöQîÜD-û_¼´ùY0çX-D&†Ÿ+{:üã˜ÿÄ$¤È:¶T;|…ûœ²çÒ¹¬bñå¹gI-P¹#‰Ã
+Bòß*Ø7X¿.á¬ÒíôWK_ÖšğUØ³{—¦ó†ÉÃç _(ã@è} ‘\Ök\	_$g‘ˆ$2_öY×­[_ÉÀë°óÊŠ¤³ğ—/ÅÕ«1êö3\×¯Åöí[õ·ßW,ÕÉ%e¥K—#(ù•­üÒIe­#IFZ§OŸÔÙıœ=T±beÄÆÅé\Z†\¼xQÊÜPƒÂX>N½«W¯!ªU¯®ç ïßøÌ©S'ôœ˜Æ)vüÚ‰ÏP‡Úµëj$&g!qB6¿~pDÍI!jLLŒ<»3JÖ¹sfèóá$”³’ÆoÜğŞëIy8òËˆSV$ºB9q…s$:G·Ë–« “j–É}İ)ä:ÙIRr3#+K \şÈÌ‚Œ¡°Ë:½°X¦‚²GP>!³G—kQä‡§CÊE¬º¯H‹YVYÄúäd•ÍeÓæ-áp:ôóvô¼Ğ’õĞ#éµèÛÌ¨#†évÔ¨Q„¬t÷‘lœG¥#¨œ\MëÚæí•è´ş$­T©ô²+VB}õ´Z­[·ÑŠÃ¯‡1Ä–ÖŸ'%Å”EÜw_¬X¶X£i•YñØ
+XåŞÉ	İ¬x$*]¢Ï<÷‚ZwzG˜úæ¯^Æî]»t&½F´i§–¾x¶6ş~şêa9räºvëyí{5Hr›³¤è‚å}p=1l±Z´l¥ßÀiÖ¬¹VÂ =7ßûCüSŸ![M›”ûüùs:Šåãh/+BÙ²å±dñ"}N<oı†=å×2Zôšw
+¹Nv…0ˆR2W‰,/Èà{¡0dHÓîô³Éb…Ó_l“EJÁÑÓ,ïp¹ñÿ)©%—ãÖ	Á¡¥[†\;5%U¬ÉCJ>p‚Vïœ4ÏÇQÃ¦İáğ„³ùv	±i•’š/_à@Á°Y¦Qîùô‹aò¢)Oø©?~N/›d'‰YÑø
+‘±"ìÏWÓ¼E+<üèãj±	¯¥,Ûe±ĞµjÕÖøtO€ÖEYïĞıÌÇ
+ËÊHÉÄ°b½ŸL‡ZK‚Ÿä`™£Ï/‰í’ûç·.YaŒòt[vyæylÖ'VÒ333”Œ­[·ÕA(¶&-zÁ‚µ2ò¿ô¤Lã7é¾å=P~±eÓ0	¥™gj_S´kÿ ÂÃWkºñ©A‚÷=ª3·‘ë6=t1‹÷_ÒˆæÒ„FÙ°Ú$)y™îıÃ_6`‘…ûø¯¼HÎeåŸşYèÕ–s+ÿ¾œáÄh’«zõšú°·lŠĞœ2 ¬Y³–(_¾‚6ålö+W¾iv»öT«QK_8›gê^úéI”©0´<'']”rQëÓrSº0B‘•…:Ÿ–AdÔÜ¬tŒ‘‰”æ¼•§R¥ÊªqOKÈN+@¡B…ô´æ”1lE¥‚6–JÃë$''ê59É`3j_’·¨ègÿ ©ÄÛÕÈïbÅ‹_»VCy””˜¨„ªS·–•:Úˆô<wö¬J~+²œH~.„-Á¯¬—ó1‚“÷ÆOômÚ´AdO5}&Q¨)iü&+'œ¬R'á/Šìk!šÒ‡}€aõ¼ë5æ†÷Ècø.øÌîr}êùØdLŞ$Ëi8s5WSœúÿš:å*ú-Zm!4á¥·’Yk×”2¤¶–Ê³ù²$½R¨>qË~vZ<Z ‚Ö—Í.õ+‚V‰M(IÇ4jt’ˆÇ]¾|Y;V¬(­£K‰”üX*G=©Û	ÃJQ2ĞÂ<7ÓŒ!	b|Æ‚Ö•_Ï5&aó£<”b¼>Ëî’‡h\Ãè{°CÏ|ÌÏHÎ´Ô%1xoì¼Rf±âğ¼\²oN!¥"Ğ—•¾á”ógXbeakÁhH–‹-%;¹Æ=òŞxÜÇsòcJWÅª³ãÎò±’ğzÜ&x;Í”1lùXŞìeËMä:Ù³Ãívár‚b¥§•Œc—“d„sWíH°;`w¸‘)µ KÕ”PÚ‡¿<d'÷I*·¤éZöTq âƒÇÍA%9Â%û_Á)µùRB*Î^MÁÉ+	8rIÖÑI8-• Ñî„CôªÃå#-^¬H—dåP6Ù}¥ÓjÂÄ­âBö¿Bºt¨¢)RpJZ‚“²œ¹šŠñ)ˆNv¡x€kGt2-»‰á®"û_!.%»ÎÄâüå(tk[~Ù>×fÂÄßÅ=Av&rw„	y &ÙMä˜d7‘g`’İDIvy&ÙMä˜d7‘g`’İDIvy&ÙMä˜d7‘g`’İDIvyÀÿ[âµW    IEND®B`‚
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/footer/ministerstwo.png.xhtml?ln=images
+
+‰PNG
+
+   IHDR   ¨   N   ;4Ê|   tEXtSoftware Adobe ImageReadyqÉe<  "iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS6 (Windows)" xmpMM:InstanceID="xmp.iid:EE86F2CC38B111E8AD598D9D49FEE37D" xmpMM:DocumentID="xmp.did:EE86F2CD38B111E8AD598D9D49FEE37D"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:EE86F2CA38B111E8AD598D9D49FEE37D" stRef:documentID="xmp.did:EE86F2CB38B111E8AD598D9D49FEE37D"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>Ñ®y   {IDATxÚì|xTÕÖö©Ó[f2“^Hƒ$ H	½‡JP*EA@PåJ”&¨€4AšŠôb@¤&B =“:½Ïißš™kX~@.pgÃ“çœ}öì³Ï~×z×»öÙ3¨NoFüåŸW0ÿø÷?ğşâŞ_üÀû‹xñï/~àıÅ¼¿ø÷?ğşâŞ_h!î³ûæ-êFÂ!ú„FÊ!¨X(ê×ÍÙcŞyò¼yÍ8@Ñ'ƒ<Ç±D°FÔ7AQ?lxÎåBÆëxSP¡õãäxÁPâP}Pò`Í?`;Æ£<ŞÃàs¬sWav­K”$U¿ ¤t¨«åXåsjD¨Xäìq{üÃÊ€ª‡“˜1¦©Âff‹;Ñîêd^¸IØ€Ñ.!0ƒøiûÿKàYJW1õ¾*›„»íå–Hä;?™+Q2c|şÿÓ9ãh†®Ò3&GÑ¨¹xJVw@bØAÓ\9¥GHá”FÓ^ªf£€'gÿ\OĞ¬Í°¬_Ç=Às7(“õk%S³&“«²€1ÙÀ~co8ÀŠ3˜i†É£øB>XëVĞiX‡ÉÓ¸®¹iªªÊU•ÏÚ„RŠŠ„>9é/OÕƒ gX·©”3ÕDßÈ!/YœÒmûÁQ–Ç“„ãR˜q­§Ux¼1oåpíù·TDë*¶%õ‘L;nÿäçp¡|Ò¹‹rŠ	R"ïİ^Òµ­¸y²;@QÔag¬&ƒ#}È\Â_­ÇN(AÊ$›%Ö|Š%\çN¡‹ç$_=:m"cÕ¹Ë+Q‚ ªqEoQÂ™œ å¨ÀêÍna³<æE:j†ˆ—ŒõiA¨TœËâ8]­§eê—Äİwğ›à©¤:9‹*„*¡¸Ckr#¬ö§„ê9„)/‘Íz]qéÙ·›ÄbÆ]nmE«_2?şø6"XæÒ#˜€”˜ÌmÆ¬j¾se¬sr²pƒ’ï‹¶¤†©¬Âbw¹—q»¾ˆúf­,¥„»İÿTñ±á7âêFén{üå‰‚>øşxöÄ)…ÉÈ6O©r»Å|R¡ÈËÊªÑée]º$ş²Ÿ¢æ˜l"e¬SxmxÍ¥xÙj;g¼F×·pšK$Å9yD€$ñÜÅàA4DÿššêÊJÇ„|5&Úîf$ÏÄÉû¥å~œ0ğ@àŒÁbÓgAjåËƒñ;9³[íùwî‚øøxÊí¢†IÛNˆæıìGÏêÇ®Ğ÷Ûb¿Ú¯4~ƒ™
+¢ãTµ”BÂá-xR’Åf¯Öjsrsív;ŸÏ/¯¨°UV©XVÜ©»ËÅPT)Âpw)Áû1Ps:4MÿşÔ;NßqŞ­\®æ/úq8ÙÙ7)ŠúGOUTë¿å;L(ĞDğ›¶Âh&,,&2##Ãj³©T*E!&’’#·¬1ÿ^·x¹óÜIK®Å´ğg2øFSH—–¹2ê}¼DØ2Åd6ëkªÊËËƒƒ‚Šêêêªªªà@•K"g*+5›M~’ h¨z½~üc&OÏÜÜ¹sûÍ	ã–/_êYf`Ù¹sßÿñØÑ¿èçÎí¼>œ[^®ı³0ŞŠŠGÃI@yª«G	<G±˜ŒËpÅˆò!ƒôƒÑ`p1Ë0‰¤²²<	à·Y,4‡H>§yn8ğ:®R!ˆMšš$¦…e¦]Öô›’Ø¤Àéãm‹P”ÙlÁqœaYğx‹Å"‰’ *È§OMúWSP–Ú¯»İn“ÑxáÂ¹ºõi?…ARn£(ºzõÚşıE?‰IÉk>_şgÖ¬^™uóÆ#ã«õk/_¾ôÔ¥sœÓÅ‹	“ôèfØ´QÚª/<06›Í†lğW¡Pğx<“É ´/
+Åƒºé÷rW—)‡¾´jŠ`¬Ëew804åU…XÌ@`:N‡>^ZZ
+¨‡†…fòq±˜¼‹fİPLnX¾íä=E¹#""ÕØ×¶m{_¥ÕjÍÉÉ
+`9ÖüõëW#"£êÕ‹9wî,D¨<°¯ËåêÔ©K÷½àğê•K­Z·‰Ä……ß}»«²²†Ú"¥Ujj÷={¾ÍË» ;'«U«6Íšµ ƒÛ²yT*Ã†€1@'çÏ§Ëd2AwìØŸğ¯½RVVºkçöò
+­\&oÚ´y¯Ş}Ø›™yİh4æ§¦ö Ün §çûô>7JNn˜œÜNòïœ;Ÿ>lØÿéÓ'Oœ8îv¹$&1ê¿àñ(ŠÉDæ›gmç¯©F§I’Ï#ÁÑ½!ÓIDpp0 eS0™`-f³Ağp5¾‡”«Gåİbvz‚¶›ÇRÂØ˜{x¼²²²°°0 ä[¹¹!;R©¬©©±X­J™å¬U
+%Úõ@û@ãM=ÿüÀââ"mY™¯òĞÁıŠ % TS]å«Y»ös˜;8øåâÏË>]¨ÃäÆÅÅoÙ²ñ‡¾ƒúââÂÖÁóWUU¾?û]xÒ®©İI’WR\T{/¡P0B¸é;3¦şüóù¶íÚÃl¼÷î4ß­¯^¹¼pÁü×‡„„ÆÄÄBW³g½ÃëÚ¥›ÇŠ
+ ôÉ÷èJ,ƒeìŞ½Ø.±îÛ»gço|·Û¶mËáC uh°öË5Ğç³M›;znÊæ{<GÑœË¡ê÷"?*CHil}–ã0P*<0sA¡¡¡Z­¶   &:šÀ¦Ü?ßàTÔ˜wÉÎí:˜$`NÌs9m7:=û`|AXh(»D*…'çw„Íà¾¢ø$Ã¶­ÔÊ8)ápüt(ŠôzğË}û~ ÇO˜•?ı”öòˆ‘`”µ¢O ‚ÏÁX"¿oO{Wâ=0™Möïëß4ğC$‚i;n<0Y/@8pğŞ¾ïÖ½GJJ+8İóı·À[·í‚ã¾}Ÿ}Ük›6­Ÿ9kÌÔL~ëíğğ8¸‘™N<rä«AAÁ=zööu};z¨CÇÎ]º¤Â)0Ä×_oÊÊºÑ¢EË³gN“$i±˜ív
+0ÁĞ¡Ã`0pëá/ìÕ«÷vÏ~mä‘#‡|§Ìã9ˆå«|`ªú1v´Z,F£Â9˜9Ø)@•••üš(*¥[·—¿¿ xŞ|éÊ…U5&œftz=4±˜`äPÃ™s¶Óér)–Ës²³A…7yöÙ   e@È#@È Ê2Lèğ—ey§œMê¡Óƒ†yp>}Ÿ‡Ó’’b«ÕÒ®]³ÙüuOc˜VµZãCJ€" «“G 7høLã&cFüâóÏj%ŒĞ|§ù0òÖ­^½|nFìíÜâCJRrC
+oO´jÕ²â:ÌsñËdr(™™pòêkc	‚¼rå2àFÓ5µD¸á¦Ö‚##£.^¼ğˆ©å‘˜HZµh]Éûs¹k—D)Ác!ûöä üğÌJ•ª^LLxbîÌ™›#†1ŒIÖ³¨2)»i 7´‘ó„²½9ÚkÛÙ²dHhhTt4ÌÌµF£‰‰‰Q«ÕAÀ°òKKs²3ËNá£Š?X½ÁŒwîÜÕËØE'O÷EÜZœîz@·®=uS°úo Ã“şÍ˜1sÔ¨×`Æ§½=Ùà€D­‰€¤€i‘Êd
+¥D"¿=æu/¢´JXw`S¦N3ö’ââ™ïMÿv÷Î_Y
+©km›4-**„„nÑ¾}G˜W._ºôËEğ~ğûjo´‚ãÚö$÷‡éëßw4ËØŒª!/N|…¶™h˜¾ÀG)Êa·íEf•RÁ	¶K×„–pz#?±ÃbŠD éÀŸ ~;(Šµ¸ù-›µNd5amÖÈÈHˆ…@¶N»Ò9à‡Ã¨Ã$º1L $´l¢ßsÂ¦­yPí
+¬.•J6zfÅò¥‡óµ×ÆúRü?ÌŸ¿ªİ4’Ú­ü?thÿ7Û¾ot}„Wë¦ Õ/ı½à ìï©ìØ±3ü?yò§õë¾èĞ±“F#¬kmmÚ´[·öóõë¿LJj§ Q!º—––€ÊƒSäææÔ¯ßÀ×¾¨° "Å£öxÇ¤
+ãÆ}•³?±MGl" —@ÃÃäš-¢R*Áfÿ1‰4dæ´Ğ¥šfà\xrğ' ^ƒÁà´X8·[±aQĞÎÍxt”ÇÁ]@|>À=räæĞylll´LBşœUõÙNÛÙ«@9÷9 FI{§{Ğ !0HĞùÍš·ğ¬É8ÁÍµ>êry¼Ùf·Aˆ©³nc÷µñY°®V[öı÷»aŞöU‹¨—c µ€ä!6òÈ‰ ÿ!ØCBYƒoÈ'Ój× +0˜_W<ï'˜Ò´´cĞ•Á ÷d’‰I0PybÀi“g›Â`íÛw‚Ó¨¨èz1±ÌJ µ¸ú³àîéµÇ£.‘:JóÜëŠ£6.ÅEbHâ)šVAîIÓ½Ng·Zê×yS 
+@ñEÕ*Ì)Ì°=øˆÿ@•’ ÆíÅÕ«WïÖ­[r…"<<Üát
+øˆÇ’$b9MV¬s!œ8,ìş/¹ëóÅøø ùæ-R|—À·`Î|Çà7åBÔµm`$ûA·ƒQ‚æÿéx€är»¦¾=Ã'&¼9yÕÊe‹}Ø·ßó èf¿?÷³UË—|¼ P°ß?Ú€ˆğµãùEÚÇ`BÀò PòPÿúo®\ñ)èÿî=zm@’r=7'Çg¯ÀêmÛuÈ¸~-¹a#_?|0où²¥Ë–-áñø`Ö3g~ Ã¾_<ïó7pÌ+7ê?üTÒ±EdÚVá[8Ä¦Õ¢^s†ù… cà}Â
+àt{?¸;Ìê->ğÚ>4ƒ#H‚€òóóæ@,€)®(/·ƒÚ!I©\NV”÷xÙm¡Ã/z"»3à|Ñ˜ƒcYPjw¯Pà£Şe~í<xppÈ_ô	Aš¡™{º‚ÏÊå
+°‰û0H{úydÏº)„¡”£àß|ñš£$OĞ0W»¼YÜíÛ·ù<ÄfP+ Ñ /‡lDè- 3Ğ8ğ<<aÔå5pıªêjP	š  ¤¤¤«W®è†zÑÑËÖèu|ó,bŒå‚C‰!ı¨5ÛŸØÊö¯šòß__¼ÇÕÕÿÏ>H~_	ôğ@có°…â¿¶r‡	xdHDÉ¨YÅ#&É[§Í ¬Ÿñ1P©ù.`ƒï‚w9 ñJJJÀÇƒë×w³œÃj…«™mµA"À
+Q>¯¢ 83P­†«`ğÌ”kµA4V†…;ù‚²/×¢¿\¥2‹pš#şò˜—l!§zqÏÃú(‡¦€Í.ı”,­Q«ÉËÊÊ€ â‚‚
+òóKt:ìØQ	Ÿàã8•Øˆ&Äp”$6ƒ¢²H VÊ5vôa¡¡¹¹¹™™™­Z·†ğ	–ZqårBãFŠùóÌW3Ğ
+­aÑ—î¢
+?`OâíœÛM+©m+÷ºİ®¿¦†'ê¶B¨V72n]O‚a‘IÉáÍZà  ºlÖØ”¶’¦­ğ@•ãH’y|>„v}Mİn‡Ô\‡h©¼üü0ë˜·±Ûy¬¶Š.­BÍšüåñy<Jx Æ´i¿yÛ§ózÀ(EÏ^¥Z­L¡°;àÕAAÀø IÀï¯]»A\Ú«HXOèz'Ih &‚ğø¸&Ñ‹iš'–İÈÌÔhd‰Ëåa"($Äb4ªâëWwéT8k:±~÷W„ÑáÿÕ¹€€õã±#MAÆü×ºì<€±®R0z+_½z¾™¢8sq¬-ûÆ3İzVëõf£Â3!g~“ İ%y!r	"‘yôÓ)
+er¹oiÉ£ò-¸¥W(-”DA’ …"\bxS¬À‘/TnúNX ã¤œ™}àM·v»{ç­[¹ -•*eË–­!§ÿÃ–@63ß›îi¦TÆÆÄ=àgÌ˜?vÜxÈø÷ïÿaõšuøƒ¼xL¯eÿ“oĞU·^XH8dÙ\°¦àÍ·Z¾0À†a¬· 1€³ÊCƒ³i¦³ÍRt:<Aò l¾@@°àóœÑhÄr®°Ô½cUô¿gZ-fÜC±TŠ‰ÅÕG!õäÑqâ°¢iC$ï ‚JâÙ®_¿ºäã…¦÷êÕ‡ä‘ëjştí/=ıäQ¾÷+­tîÔÕ÷ş&6.¾{^†=}ÿÛB-n_â@uC_µØD:äf’,®
+±:6câ¢
+ä£GW›ÌœÃ!	©€ÜŒ$À˜qo,€üÇa4‘»ö£®ep-›òpU˜²35Ï4Ç$T½7›=HnÄòÄpÇ‡Øf© Pÿƒ9ó}5={öÑëu¹¹Ùõë'Ö6ËÍÍ‹Å|^¾t¤åÏÎCB]TTájfæõvm;ØlV@H©TÕfÛYY7 Ÿüü;ååZpS>Ÿ/‰Ã#" ¹‚«Póf& Ù¶m•JU{»¼¼[`R©ì™g‡„„¶nÓÖ·fzH£Ñ<Îo"?°‰‘ˆ°aîœ;©ï>X¹k{Ô—Ë,µy·SÈ—(U•(M»¯f„FE›ƒ‚IŠ‚I5êj¨s§1–Ã	Âzı"P6düBÈî‚íÜšÚ³³YŒã‹„úìÛSŞ×ÄÇ‘=z—wbÚş­ ãX\ğvêä	ø;}ÆÌº•àôóçÍ©İdg±XæÏû ¸¸èÎÛ………E<¸Ï\+W|ºbù'Ë>]’öãQÈ9¿ÿşÛys?¨íhyñ¢ '€ÿxÚ±ô³gÒ~<¶hÑ‡`(p5-íØ¢…ó/œ?•SŞš FàûÔæÍæş{ö™Ó'¿İ½ãàÁıP3kÖ;›7m€ƒcÇOšøÆı¿M‰û®4éÒ¯qË­z{ösá%İb¤\­CÓ/Wc áÏõAİnÏ/¥\¯wªr²­}C	nïqq…EÜ¯uÜí¤û9Sß{€mÃzyëÖ¨B\¶z,±AÜ„1E<Ì0l©¤•ê‡p„ŒŒë"‘rº•àa«W¯Ø»wÏ«¯SÀş6on×®]‡Ó§OÎ›¿ñlÔ±TVVTWW-YºÜ·œ’Ú­û'KC¥ïôÈáC‰‰ÉÀ[†ÿP³jÕ2¸WãÆMà¸iÓæĞ	¿5yÂ¶­[Şÿ`î•+—@9Nœ4t†WRx–/1ïRfİ¢§×ã9ˆØyZÌbÓ¬Zƒõêœ?e¶-mêDğâŒjÑ*ÅÆ]qƒ°‘NfY'Ğ?¦£Š ÚíÙ„)UZÒÎP¢7+ªª¥ÅÎ¡½İ´Ğ±d­ø¹¸Jˆ
+'/,0=ó¢§”ç›ôEõ¸êÙ«wß?¥ù9ÔäÙ¦>²õ¾»Ëá^yuLí"Ú³Ï62ß³Çó*V«-ËxñÅauõÄˆ¹søvm¨Õj ÿÎ?—ğ³^MzìØà|êˆgg‡ØûV†Ä½¯ãp¯û‚õiŞó]F¹S©M{ç'v5/_O *BFj©zÆByş•9wì'´¥’4D †4ê,ğœNÙÈ!&c¥óö-YX¨C"r›Ìüe\‰ÙyèŒùâYBo"1&—•¯Ùbøb'ÄT"@Š ÕêÚMuK¿~ıQŞØ¡Ï_‘»ßÕ2´ïœâ‹9{æ”É`c¾zèäó5«^<4ô×wHÛ¶nÿÆè£GŸ:}2Èeï·îg÷)ñn 1gz&[a$4a¸8Èvö²øÅ)òŸ.#ª¦¬s¦s—…R(îä…‚!4GåB	Ä~»ƒ–ˆ¥)ìW.›¾úJ™™¡HzF9ëmBÀ8]û‹S;p
+Jà|M8¡ñNÓÃ~*%¥äfÙÙY÷ÔƒÕ¾.nûÇèİX·®OÏÏk×®ŞÈÌèšúÛOñ€hˆˆˆìßÿ?[uOŸ:qøğAĞsæÌ÷İÙ±±ñÕŞM82™¤åÿ8ğ^<0ğ{©wËŠ\Ì\¿-øş¢R¹uE’–v®ÅE"Ş–İº6ıK‡L®œ´Èüı> øÊ Û…tëª%ÿš]6úuÛÔ…ˆÓF5o¸â}qS:ºX‡ˆøı}×ß|×¬Y‹ğğˆ>üwNN¶¯\Üh4ÀÁĞ‡§Ÿ=½{×öçï_ÇËéß¾5áõ~ÈNëv!"÷ŠåK­V«Ï ìÚ¹½¬¬tá¢¥¿½+3ï«tÄ»íçêÕË`jpÜ½GÏêêjÈju%Rç…–yÌßÙø_KƒA£(UQ nB¢d5j¦¢R¨üz™T(uŸ>Uøút—PGNHŸm¤~íUÉär8$-[™;¶SÖ+s•ÄT^:N›¡Ü¼Ú1r”ìêMÃŠõÌ†¥#E˜ÏT;pø!mjËÌYs|4÷Ãùs`êy<> ³?dÈKJ©ÕšŠŠònİzÖ‰`ì=û–|[°ë–Ÿ={:>!Â‡%ü¾}{ œ/[¶Äj±‚ªxiØˆÎSAÌ¿2jxXX8à„y×d ºgt¼¹ ( ›Í„4zÌëµš{ì_ıÀsUi•§¶á…ÊMGÎQU·!ç–o^,OäŠŒu²Ub¡$&?]ª‰Ô9LŞa1óP<îKd5ìŒ!‚²-kÈøXŞì©’åwm;ÀoÙN:å,&Â0r²#=W*z€ Ï¢ÅŸdgßÌ¸~|tĞh¾K‰$44Œ_gñ¿ßsı;z7ºx®J¥ï0ÜÓ¡oÇQ§_›*œ5{XŒÑ`ô&÷t *P*•~¼dÙÑ#‡ì{jjÈı|íÇŒ}Ã·“Tgë6í|Ïzwø´kß±AbÒãÌãï{#Æg›àİÚ`7»p
+òÃ…sXn,:
+íØ‰¨(Ó¦ôÕ•\S™FŞÁÂ‚ÅızJÛ¦H‚‚«uzGIÒÎ]é,(]ùoİ—ß¹nÿî[Ù@ë2¦jF,¶œ¿‚Õ‰Ëß»Õ³±ˆ0ñÜV‡œØõ÷7bÔÔTC–5yòÛ-RZ>Ğ!‡”ìë­;B¯{µQ£ÆŞœü¯ÕßëîK)Â§Y©â©Æã©ªİ„­Ú8Äæİ‚nèÓQ-íõñ<~§^ÊˆP¶{½ÉDâ˜™Á¸ˆ2X¡ìß+tâ$!
+7N¤šve=¿rµ³¬Ø_‚[V„#QòQ:Á•+—ÓÓOCêÕ Aâ¡~àÀŞ¬,sŒ7ş‘ şÓñÏŸ?Ñ§U«6O÷Kš¹gå'™Ê/M*UI‡tæU$!Is7Ş)ú|9sâ êt*;tT²v‚T–iA’Ï'kôü.ãÎ ˜­gKÏˆ~o€Åv>»ûò¨wŞují¸rIñB·XX¹şUy„EØ?ÃCHYÏv?ûÀAƒk³¸ûÕ²Kàø´iïBŞÿˆ¨åóy'Nñí§{üå~©Ş²öÓ§kïªr»)#›¹kHĞ9Ú´¶-^¡ÿxNüÜ®o¥f69³u‰(.ÆTQé6T«Û´­Òé W&EBòäqãÍÛüfÍÈÀêîo«ûV<‡İì}Cƒ×d×0|vßMÛÒì>ZJkÅe¿-kQáÁG·"şò8Ó9²ar÷1!x¦Ùã„{^F{u­Ò–:WoğÍ¿Tµ›%j×‚‰.ÿVåø·4r¹…$İ,«¯¬¤"YÇ.X^>µökUt¬tÁèò/ªn½,àiÒœİœ¶:@­µ¥ü‘*·áò»v^±Q~À·Çseúd­uÓîºlïaßJ
+ÁXÍ¢VêWrJÔ˜–BîFŠ#¾\¨;–4ˆ€ ‚=®	5 wn…·jûAíÎ]'"â`LH0NL=ÈÈ/&<ßË	Æ¸»WQ•Ÿ~ êİÅÙcŞçtm‡AÃŞ«3‹szq[ÌU©¢J9”Ç16;©–E|µˆß¥³ÉiÑmş^½¶ŞÖÏùÏ4¾=}¦ 3[ñÉ\*2Ä~=Û:i>“Uˆ)d§ÆQªš‚lš\‚ß³fGÄDÚâì	 Å~ M?íÃß‡ÎÅ1—s˜Ğóãd(NĞÕzgˆ”†”ÕÆ]ÍÄ²^Î	´~Âacéíë°Àd":ˆÍ.A]p?«4A6‘qÑ~ÀÌ’­¨oª|ê˜ßQI¡áP>â[ìâ”£B	u&½^D(CY„¶œJ¯q›™S—yüú¸ƒc.¡8UÉïõÀ/úQ’ï+ãé¦«è²ûŞìŒ¢¬ÅJ$F£±aôÓ¨R~ÿ/Üø-+fM"Äú¡zòÀ{|ÚM9t¿B•²F³]œ†)ˆ÷ûÌœÅÆèLeµGà8g²"v;äù¶0ä°x`  G¥bO,G½+BHHèåñğ@%.èÔZĞ>ÅÒSü}Gk+GOYÖla­='ÀØÒqÃm[`cŞ_zàk×ÜŠµİ‡y”ùşÈãÚAì/Ox(Öo~ "BıÔıŞ#“ˆı“şÏŞ_ş‡óxñï/~àıÅ¼¿ø÷?ğşâŞ_üÀû‹xyìåÿ $0ıe    IEND®B`‚
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://pz.gov.pl/pz/javax.faces.resource/footer/unia_client.png.xhtml?ln=images
+
+‰PNG
+
+   IHDR   à   N   9;    cHRM  z%  €ƒ  ùÿ  €é  u0  ê`  :˜  o’_ÅF   	pHYs  Ä  Ä•+  "dIDATx^í]`×=ÄRZÜµ¸“àînÅİŠ;Z(VœBÑâîVœ¢Å]<„¸÷ÿÎİİ°Hûéÿ$íœşıìÎ¼™y3yçİû®M
+ÿ€W	Ğ AƒI`¦ÿWƒ&€F@L€4˜5h0!4jĞ`BhÔ Á„Ğ¨Aƒ	¡PƒB# &„F@L€4˜5h0!4jĞ`BhÙÿ"xú„ Ñ€
+‡¹¹6÷ş/x°o€şÛÇöWĞ Á„Ğ¨Aƒ	¡PƒB# &„F@ŸR¨O\œøíß€>	ÄÅ§€M4,Ìãõ[şĞ¨Á¤HH Â"¬èëˆîMÎ!o6oøû§DT´Rü„¡F@I)V©—Ñ1æêûk·s¼R7--âQ§ü]4¨u½šEÇºQßõ&Šå}˜Ø7‡'ŒŒ²”ÿ)ø`Güº_WÂ××:uSºôˆŠÂ/KÊÖwà<}ü[·l„µºöè[[¼ô|Më× ÁÂ¨U§vlİ„Çª]ËÖíğEÖ/å¼ÏŸaëæõHˆO@­ºõQ@µ}nîaï®ª·	ˆWíâ‘&­ºvïı{váŞ½ÛhÚ¼²eÏ)í×®^??téÑKÎ»zÅRxyy!::
+™2eKõ(şuIiKb»êûİ;w`oo‡ÊU]áZ½–ì‹‹‹Ã¯+Á£‡îjV†ƒƒjÕ®‡2å*È~ŞÓ“Çeí¢z&í]\«£T™r²ßßßkV-CúôÎh×±³l»ôÇyìß»ááaH—>=šµhƒì9rbå/?#$ä•z~}`¯®³{ç6Ü½}ù
+D£&ÍåX_olX»ZæhTS},^¢”lÿ˜Âo†Eš¯óz }šPì?“¶ÑêúñòÌHÌ&.70ıÛ=Èà*Ç>™Ã~jˆÇ/œ`i'DåúÇ4©rÛOQ×òÛ˜ĞÉíˆÿ`Ö¯åo/¬Ù¸yóR¹ì×°²²Â…«wpòøQ|; ·z¨	Š½„”—/^@ŸQ©²fÎ]ˆmšáÎíÛX¸dyâ ^0wV¨šµê`úOd»1öïİ…q£†É¹‰jJMë”‡OœE¿]pşÜÌš»U\ªÉşº5ªÀOM{C`@ Ú¶l3338:¦Fpp°ÌÈ#ÆL@ó–mğĞİzwÃË—êm)ıà§A£&˜8åGÄ¨^¥\	DEE*ò)ÕHM<111ø¦kô4ÚµÀÍë×¤OìÿíÙg zôî'}áäÑ¶Ec8gÊ„½ã·ƒû1rè@é¹¹¹óı³QCİ»KÅR	Áé×àævß´k)íV¬ÙˆB…‹ÊùÖ¬Z9³~”ãJ–.‹¥+ÖÈöArsrƒO`J|×ã ŠäöD£a]‘Ééü‚ìõ­Ô$å™sÇoÀ€.¿Ñ@‘æÃpëQ&9–ÄKi%DË˜6;g/GÃAİàì€ø¸°†Y2’Ğd‘0)SÊ¿š½½½"ÂÂÂBş%Ö(	ÄŸÊÑQ~Û©vguÂ¸íÑÃ‡NIÔôé3à¢"ldd„~Ïkpõ5Æ¹Ë7qæâìŞDöÙ*IKŸ“D!ØG3}ÿŠ)‰wô÷˜³àg‘R[6®“sN<JRS²?s	Û÷RR2³’>Ûq@I)KK+¹O++kìûí$v+Róš”²$bšÔiä:s.MìÉi€™™îú©ù‰ÅçÊ3œ=o1Î_¹…m»ª‰ÃUíI@Ê”©äyøcìÈ¡2Ìœ³0‘|Ä‘ßªûK…L™3ãÆµ+PöSE¤ZÇÈá…S+ç£oÛÓ¨ZÖ×·Ì@­²÷UÉx%É2fõC*‡(TißãÖFµÒnbŒ	©$¨µe,fÚƒK– cÆü¦&ì™ê·µU¬HĞÏ»÷l‰0ş®À]JÍÊ˜³gü ¤à6ş÷><Qê(UPª§uê7À+%®\¾¤ßû&x?_œ=ı;NŸ<.Ç¶oôë= ÚJ) ¿©êR=¼~í²’¦N8d8ìììõË¯Ğ±s7ü‡¶ÏÏIÈII^’šûIšŠLìÃ[7¥og~?)Rìmú™9sÄÆÆŠÚ}îÌi¹ÉÍİffT«Ì1~ôp<{úƒ†ŒuØ Jõ»wn¢Š««¨¤ÑJ%şãÂyıŞO¶Ö1Øu¢0ÆÏ¯s[õ¼¬€ÛJcŞúªŠ<1âzàŸªä¨õpîf6L_];Õ1©ì#åÖJõôuDÉ­ÔÄd§fZÀÛ;%ºNl—~©dÿçŒ&`â@—Ç¦ûf¸£*¸w÷NQ	Ã±oã÷“Çd W¨TUªV“vÇ”D|(5x¾áßöÇ¨aƒ°pŞlÙn ·1RšàVî»ªˆ]®DaL;E‹Ç¸‰SpÿŞ]E†88;gL”TDF%y®yI\KkkQ=;¶m×Jeòê•RQ›Št$	ˆ¥?/¾ñ-._º ÛC·t„…\·dé2Š¨§Ğ_©¾<§—×Ké£¹¹ÂÂÂpIi:Âë4Î>¥¤w<Ê)õİµZMisôğAıŞO$W¯¼±yO1ÌøÅ¹•´³¶‰N|.T-¹FŒŒ¶„£"½]‚BtZÁ¡“Â,_f
+„·¯NiŠ€`;dÏâ/Û?ZŸ>˜€–zifàµµ•|5,8pûô$ƒcózš÷6¸8~ìˆOBÜO¾ŸV$F?¨ÁóTªâ¢ÖC›°ü×9v¢l7K¡“FT+ˆUë6¶Õ•ÿ©ï4útQkS[%å¼½¼DúeÌ˜Q$¿Ÿÿı|õ*XÎé”>ê«’pjĞ“êÁAAÈ›/?F©kÿîiËãx?C†–¾ı²rÊ–¯(ûK=uç'¹—­Z/*kù
+•”yUÔ`‚-x®f-[‹4=cšší½dqìèa¹Ï©S&¢g·ÒÇ‹Î!4Tg¼05x›Ñ1ª_úA¢Ê!'¯äB×I­1bN,ÚRiÕÚÎØáNš›)•“ßÕ‡¤5†9×xê&µÅ¼Õ.èò]k5ÎäCè®k.ëÅ×gı<ğÁä ¦jyş¬Nªİ¾yáájg’ßPÌ•'/ª×¬ÇÊvs#éBX+‰¦Í[·Ôº'%*VvAåÊUÕZ0|}|pûÖ}Ë×à@Ï!
+)Š"J‚¬¨Y²f•}çÎ¨¼‚çx¾ôµ.•ZwQİ#²dùıAë¶Äà²më&äÌ•G¶ûøxaë¦õÒ.""×­QÜpq­!ÛxßÖÖ6Ø°u—=Z¶i/Û_#ùò”¾.Z,qJPÊÆ©>Øë·QµR÷\]zô–	‹j8¯Õöq¿G§.=äÍœ:YöñûÕËÅº\I©¥å+TÉıJIã‹ÎJS‚T´D™BOÁÂ…ÉsçqF5ÆÉö›3é}|:ò|xìS¯4ğòO…t‚ğÂÇ=ÒÁJmç¼a‰ù=9}°ñÃÏlz|0Ûwì"ÏŸfNCãz5Ğ¹C+™yºõê+ûi<¡ºf0¢:RÚs–¦¹ zE²X(ÕªSTT„¨«“§ÎÀw?Ì@zÕ.;wl•öÄÆèH´kÇ6T*SåKFİê•äZ-Zµ•¿~íj4¨­ÖFu«#2"Bàî"İ"##¥_ôİ”2‡î—ß´†RRRª4mPuªUÂÛ7QU‘ë,’_ŞGŒ¾ÆW÷Dµ°OoPQõJ´m›7 aíjbñ$xoÄàş½àZ±´ô³kÇ6ÒÇ¶¾‘}!JòòùøË:ÔIMHG”Jş»Zó^¾ô‡kìï§Í’gÖ¢u;é×ÛåxS’(6ÖáJuÙé(
+å|‰ @!É@#ŠÁRic+ãæï€$£QÆÊ‚„K!Ä³Tßéø¡Ì²Çà¶'àRÒ¯ÔuEb~&01b”N—û/È fÛrJe
+µˆR¨w¿¨[¿‘ì§#"<\Ô¯¯²e‹Íşê_š…
+‹„FŒÊU]ğôÉc¥fÙ£¹"­Dz%á8ÓÓ"Zºly!
+A¢ñü_eÏL™³ˆôË–-ÊWª,>Éª®ÕEryyy"_¾èÖ£ÚuÔj®Ñ‚ÕÀ.^¼$J”*-RÔßßNi„Œ9sç‘õg„ºı–™¿È*¤1z¼\?Apú³©kWVíHVcî)«’Ä™•4eßŠ)†”©qõÊ%|õU6u¾vh§'ÏÇO¸zVE”´ìÖ³O¢ÏÏ×[ÿ•HGZ©îrò‰W×‡ô±6nŞB3»´§¤Zìä”^ım*Š4ı+„„Ecã[ê^cDÂ0„ÌR‘ch‡ãÕë0\¿vC‰Bp-û@$ÕcÏtI^Fß UİŞÍÏ`Ò }¨^ÒÅ¼@µŠ÷ğÌ3Ü•„¤“ÿc£»2úoZFü¿IåŒQÒÏÁ.
+k¦¬SÒİMôÑÃÚaÇ‰Â"ış®ÄûPĞAÉºhÔV´ntU¶õ™Ğ¿î-%.Š¿£æ~(´ŒxŸ¨zû§DD˜%ö-ˆ'ÓÂW©‚$fR‘ d¥Å46Ö‡NæÃı»ğ*ÔZüIA¾¤€F@ÿ7(‰èØx¸8èŠ¦Ã;‹DL
+ĞTA³fÂ‘yĞ 7ÔØQV°³}×Šş©BSAÿEHÊP4±FFê¿!“ÁÆ*FŒ&I0^×:F‚·¹6d @R]WSAÿÂÂBáíõRÌüüĞ±N0øÚ8ä–D?_ù—VH]nß¼!q¢ï£pûêõÒS¿E¡˜}ëÆuñ%@W†~x½|©ß£CP` ¢"u‘ÄógO%J†F!ö‡®†§ÑškÀ‹bíåuh€25tm¯ÈÇaOK'×~ÉA>Â^û	bå'6N©¾ú}Ÿ:şÑpòÄ1Š(Çàìì,îÂEŠcÌ„Éhßª	š¶h-‰Ô¦E#lÚ¶G|«fÄ‡ĞLŸ5O,»Ì 7zÜİˆ‹à‘»;6i†ƒ‡Éy†ê‹Û·o!GâìgTP·}±kÇV	 fZ\l2eù³æ.N´Z²?mÚuB½†±hŞl:¸28±–®X+A½ºvÀæû%–a~×®\Æâ_Vc@Ÿn¨^³Ú´ï$çú+$¥¤´£úgêµúææ	²LŠ mMşøzû BÅÊX»iÖoŞ…Ñã&Éöp5°ccbä;Á'J/’!gæ–jp¯Â²ÕëQ¨PaÜ_Úş-ü|}å|$ÆÒ•k°eÓz¬_³RöS²Õ©Û –¬ÄÔYs±zÅ2!7¥	,ıØºçòtIXZYJÁêUË±â×øeÕ:‰˜¡;‚¾L¶!ùHæÛ¶àG5)ğ7}”ôU&7¨bÒÙj#ÒnHû·–ìªÉ	ö…&ò2°S½?èã(*ñ§4ÍÔ,oaÉõˆ.+‚Ó}j£tˆ`¥È`ˆMŸ!#¬m¬Å‘Ï@ëq“¾OÌÀÈ‘37zöî•Ë–ÊoKk+ÕÖF¾çÊ•G]/…8ÏİÂôCõámûCÓ½¥•nÀÜ¸®3©3êE‡8¦N#‡Hìªµ›ÅJÎ›ÜàzËÙ)ÕÊ<@S×èÙì,V¹…ê¥ˆJh–Ô`ôKî¬¾¨Yé:Ô¹„MÎ¡†Ë-¸ª¾0H ¹Táÿÿh2ŠMÔ’Ïú5«d;ÿŒñ4Àxür@‡„„àÇï'apÿŞ…òÃôŸ$!×ÖÖY¾Èªo©CÁÂEÄOéioï TÃKØ±u³R»ãÕ6GÎœêœ–²¦dšÔ¯…ïÆÒı\“2 aø¨q˜2i¬äN^8¯1£ó?((£GAî<y‘3WnÙnjPÂ´©uóFï€cÖM[ƒJÅ"\©¢É	’–Øñ=¡}óËÈ–; +'m@j‡HDF1MíÓ]eı£	&Q8ÓgÏ—u×d„qà6a,I$®Ñ’.}:„©5`%m(µbccß9–*+³"’×ÃãÎ9…\¹óHĞ8É÷*$Ùsæ’~Ìøi¾¬Á¨”xu]¢™Z›2'‘"‰ïŞ¹[;{	0Ÿ4yš†¨†št1¼²EÏ)-áé™JFÒ¥ëY1rvcĞVd”NØXÇàº[ÕH±Q·mùÖ2X·­¼eL  |0şÑäÚÈ9c&!Ä2F0FõÅ] 4¤—`iÒ¦BÙÚÚKùˆ1ã'‹J¹jÅR(XHxúÔqıQ:ìTë±B…™„\¯AE²b˜1¨ª4æ8*i,ıP†¬ƒÖÚ×i^>fÕ³íÁı{Õ`·°½:õb‚"á´)“$7Ğ”à|Á5 KI7ù#Ê¶Œç>©Q¤ÀódO’¥ŠÉ` ×Rn=«êtë!éKN™’}=úwñ& c(ï)	Â<:ª’¬ÅB\[6®—€pfQĞ²ÉàkfP°nƒÇI
+¢|ÅÊ‰™ñ½úÄ˜‘C±}ë&\¼p^¸Ï>‰Ñã¿“¶´ZÒ(ò><}ògØE`^“:ö4¶nŞ€ EÜ¥KK|,ë×0±—õ`?zˆª.ÕÔy#Ï]®|ET«QSJ}PÓ@c
+#AÛ½'Î0£).ßÿ½§¶@`ˆ’úIë€•º¹áĞ×˜µ®*ª	aìâº°¶UÓÚ§«~Œı9‚¾½'jPÿ¡ÖR$Ìcµ«^«òå/€´i°qİ¯¸pî,**uo˜Z{QÍä€~ááê5j‰JÉvwïÜ–Ô$&ÒfË–]TÀÓ§Nˆ„ãúÚÄ#¥Rjå/PH~À ó‡îğÇ¹3R'ç–ZæÉ›çÿ$õd¯K”B€¿¿Ô¿9~ô7IåúvØ(	ng°‡Çs)Åõ`…JUqêÄ1)äƒÜy?l]ø±ƒ±©Ú1™–ê¦Îùk¬5ZŒA‡¼­"ã@£¢-Å7ù±ÕO-[ÃÿŒ¤.ÊD k½X(uĞ<×€†ë2‘—kSır:I ù5|²`ZŞ¯|Ò.yİ”v¹¿ô…“c¸fNĞ¨áÿ†H E‚ |ßwŠæ~@¿TI¾úâu£b,âãˆ1]£zéûòN-†—OÛôò5ü_à:‹iAc:Æşå‹P³Ì}ü8h/6ÍY’ùŸKHXR€ëMZa´:…½«æ£aå[Ùå(¶,^‚Ò©õà›‰ÓŸ*Ş1ÂĞ@ëÛ£Gîxşô©”G`!¡Gİ'52	Zàè£¢Éœ³+83>ÒåÁRôY¥KŸAJQ°-ÏŸ?• gÖ5€!Xtf3ÚÃ ´åyYD‰`=‚ƒ%
+„ëKÏãÙ³'xşì¼_¾„¿ŸR¥r|'kıç¤ØSxX¨ËŒô{÷îˆ’×N&M¢Ë€`m–Ã¿À¹³gTÛuÿºº7Ÿ³ìë¾Ğ
+y÷öM‰e 5?©S§‘Ú7­—,qáÂY);áìœ	Ï>ÆõÌœÍ{ğó“ìvVÊfMk£ª‰Å}Õ_ŞÛµÏ„5j¸~õ²Ô¿yû¾ßFRdÄÓàBu_ZÖ¸Šl9‘>](æ­©ŒgóÃÊ’Õ«õ?"xN’Ÿ×eiû½‘&MVn+ƒİ§
+©g‘4×ıØF˜wØ¥SìŞ±M&K*øøx£rW‰ì`•hCIwZæXqÚµzX¨?<˜üüQ±rÙóÆ5©Ò±sw:°WÊõq€pĞ1"…%Yó’>¹ysfàÔñ£¨Y»Ktÿ¦­2*X¨0¦M™ˆë~•H=K6°öæÂ¹³qM¾Û·nâàş=Ø´a-7m‘Húö¦LƒİÛ·JFİ\öğC§¶-¤¼;'†e?/ë%ïÌ˜èŞ©Ü¿/ÖË-×âŠ"ÍÚuåœûö”Ì„²úÊŞ³ºªç&™Š ìÓ‚zêä1ìİ/<Ô¬¬&"º X
+ƒÙ;¶m–çävï–-Y¤ˆøTJ|4oXG¬¬tÊœœÚ1€¼yKÕn1v©ûaånbÛ–˜<qÚvè¤ï_G $	\¼”ÊÉ²ñ¾©a‹å»Ëà±§“X$“
+´¾ú¨ëÖ.wáVˆ‹0Ã¶£EqıAq‘$>6ßÑ"Ã#¤üßw?L×oÑÑ"Æµ3)ø'¤šDÚ¾u£Ù-öu	™¢X|‰`0²³’¢S¦Í’ß”İ¾i‡¡ƒúIĞ³•jGƒƒÉÖÆVˆ¾oÏN8úûÄâu©chÑ¨ºtë)wX,wÏî8{ñ†¸`€4%Ìì¹‹å÷ÒÅóñã“°}Ïo¤Æ:1S¦Í”}ÒnX·/˜+5p,,ÌU?”+%µöwÉŠ5oÀİí>†©{dÁ)>c´n×Q>+§]T9f‚Ü[æ,YDSØ°vÚ´×Õ’1SÏŸ’väØ	¨åRA¤dÁBE°hŞO;a²8êM:ŞsfõÃÓ±|g”,ğÙ3H­‚ã„®i˜adÊÿc¥dÜ'ÏAp­—Ù9§¯gGŸiÍ%)¸p®—IF¾¤À;k@35°9°Ô0U‘ÿïç†ğ-¦Ú°’×Èaƒd›¥…eâ1†v0Âÿ‡é³Eu¢”±Ò«jo#>>NÔ0Qÿºb™øèˆ·ÏG	É@f¾ÔÄT‰-ÌÍ±jù!‰1%ë	Æp²/<ãé“Gi Õ½½ú‰ó jyíê©^Í˜QB×Ÿñ2?Ï¸zå2‘vo“Ï|v½»uDÿCDóÙ3Nõ¥9ÌŸ3~~¾2ñP`Qíf±+÷ç…s±YI|Æ†ºV¯©?›iÀ5`à+;¬ÙW©SFâö£Lò[]fzœ"
+3äùr–·ßxôwñ…"œ!¸Z§şZ`íş’"iŸ¾L‹=JıdhÚç‚wFJGG‰eìÜ¾•¯YµB¿G4#µÅ@ÎfüNIÅÊµGê4¯×s‚·¦=çŒ¥m€R™‰@âƒ¿¢Õà$±–._#}jZ¿¦¼¥Ét²ïÙµs,Ñoy®]/[-UºÖv•è‚Ò’mê”	øaòx	5ûvè(Ü»{G]õDuï´0 wŞ|"ñX.00P^RC²ó„œOM}zvA»–M”úÜ^¤ü³'Q¢diióg˜0f8råÉ‡Vm;ÈoŞ7×‰®5j
+qYm[¶ËóÑ=£Ş}ÂC‘}Şœ™’ñ©@r)˜hR4Â¾LƒJÅ¡gÓ³öL+ïd»·Ab½½•·Mc‹ ’ğjç´¾û¥¤ °}¢£×¥:J’|‚~x‡€”HE‹}-jßÚÃ$Q‚„ê‘À¬TR1º¨í¢†)²L›9WŞvtıÚU)Iøg`ÔGdT”i˜›'ÒÖêÉÖ)|=séÆNœ‚…Jå:°olgÜ}¥J6Ë&¾¼—û£ÿàa˜2iœdğĞ¬óÉ’~—¬2ˆT£ôüvh‹§TRˆkWw÷’„›#g.ı^‘„êò"uµ·ã—•kErò|úVï‚/Z9qìf¿Jõ‹ù‰a¡aâv_M
+”t$»áùó9sÊ¤á·³3>%P:U-áıö£o‹ÓèX÷FŞƒÕ¯©Éõ]ë(KòµcÆ ÊI©7²ëŒëñ›¤<Mêu£¾9"oYâşÏïD¢µ/a)	ßÇGK§´ôÅÆÆˆ”1X’—ƒ¢uÛ’Î b˜›gŒ¹³§K(•­­•Z÷àş=ı]-Oßğ¾?—Y¶\y1dÇŒ ß,Ä÷4ü7Ô®[_úFCŒ¹š4d=^I}ú#OŞüÒ†¯ûâ §D5ÆêåK%í¨Ã7]¥îhxØ›% ¨ªs²`H-¹” $xíºÄ e\Â Z—§*é;ñ²·$®d4Ñh5aòTÑ("#"u“”ºÿÍêijpş¼ÿÄ%òy B¹ÇpÎ‚f®×áş<}b4ç†³1™¶kÃÈ›ÍG¤‰ÅŒnáKX¢¢,Ğ·õiµ~ú´:#ÕĞ¼RÊşÏïxß»:wíÇÊ¢Ÿ/³ìß«š4m!j$38È)5ı‘èöà¾üævgÏä•`|¹dß]ğàŞ]©ğLÔWR–VÍ‰cGÈ/{tn/¥Şiqeı®·xì’EóqãÆ5	¦fß‰ãG$çékW/£_`iÀ½;·ñİøÑ’µN#Š‡"5‹àòşXOÅP-Û Ş¥ÎŒ©“å½…\÷QÂ28{Èˆ12Yğ^Ïœ>)q¤|Wßñ£‡EÒQ/?G¤$_]Fëj³–mÄ‚Ü¶E#,_ºXîañ‚9ba=bˆY³T=Ûó%•dçú×±Jå%hfJ•¯¯÷¤K%4äÓx'ÄŸ%åİŸ§Ã²ef¦·Î‡ss'lbèX…¢Q¾ÄCjsmk]A¹¢O?»·n¸ÎctËâ­ğÌ#<^¦†ûãtøy{9!±©âN?ŞqCD¨ÁÆÏÅ½1(éJ–*-ıº£‘"_wµæ¨©ŠjŠ93sMW¬x	¤I“VT;KK%	!I DªT¥ªÔf1HWAªÕ¨%j+İÅŠ­öO‘ëÎ§Šáƒn¾²‹Ö?ªfœ¥êµŸRYíšŸÂEŠ%ú9	<tsw
+}{TUy_”Ø4•(UFúkŒÜj=V¶|µ¶<'R9˜<u&R¦Ò©ÓÌ°§ä÷ñò‚ŸŸ¯D©²"¡h0a 8]Ô ø¡û‚Æ +ªİÀF©ª|6¡!¯D ¤§:Îc‰’ªO$Ÿ%5ÙV¦¬HmşËã	húRi(ï{£ğŸ!©Ü…58V¾…[*bÖJÍë‰ë2êÖoj?KI0¥iÉø-È”9eŠ=C/|pø|>ø8¨±ÄhKTTkH¿ tÛ©RF¨ãÍñÂ'µ€’Z0¶†ÿIŒı>PBQRÑğBC	‹&1sÂ8goÈıiì&êvR­Ôº½é0ÜpÏŒt©CEJr€ò½T;™÷Çªg’y‘<ÓÈkhÁØ>+|$-•ôÏQå4&}ƒé²ø#Sú`4îÓ?­¨"‰µæº±ümXs”ÖU[ëhùÜäK
+hğ_SHÀÿÔÁ6J¢iy¥Q*},²f‚°W-Ÿ4	¨áª¨,e¨ÔK¾?®}äÕfúÿphÔ`r„4¦ĞˆN}rVL	€4˜5h0!4jĞ`BhÔ Á„ĞÜ4˜šÔ Á„Ğ¨Aƒ	¡PƒB# &„F@L€4˜5h0!4jĞ`BhÔ Á„Ğ¨AƒÉ üzE-˜åƒn    IEND®B`‚
+------MultipartBoundary--rnbvT830X97ZOKsbHuLN78UCs3bS05egSeQ7IMZhe3------
